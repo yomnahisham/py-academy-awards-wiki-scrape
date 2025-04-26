@@ -156,4 +156,8 @@ The following CSV files will be generated in the `data/` directory:
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
