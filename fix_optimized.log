@@ -1,0 +1,30 @@
+20:01:26 - INFO - Starting processing with optimized speed settings...
+20:01:26 - INFO - Using 50 worker threads
+20:01:26 - INFO - Using chunk size of 1000
+20:01:26 - INFO - Reading input CSV: data/persons.csv
+20:01:26 - INFO - Checking for invalid person entries...
+20:01:26 - INFO - Found 35 invalid person entries
+20:01:26 - INFO - Removed 0 entries from data/award_edition_person.csv
+20:01:26 - INFO - Removed 0 entries from data/nomination_person.csv
+20:01:26 - INFO - Removed 0 entries from data/movie_crew.csv
+20:01:26 - INFO - Removed 35 invalid persons from persons table
+20:01:26 - INFO - Checking which persons have relationships in other tables...
+20:01:26 - INFO - Found 12409 persons with movie crew relations
+20:01:26 - INFO - Found 12409 total persons with relations
+20:01:26 - INFO - Sample relation IDs (first 5): ['12014', '8251', '7019', '8024', '8604']
+20:01:26 - INFO - Sample person IDs in dataframe (first 5): ['1', '2', '3', '4', '6']
+20:01:26 - INFO - Filtered out 94 persons without any relations
+20:01:26 - INFO - Keeping 12409 persons with relations for processing
+20:01:26 - INFO - Relation checking completed in 0.03 seconds
+20:01:26 - INFO - Total valid rows with relations: 12409
+20:01:26 - INFO - Processing 12409 rows
+20:01:26 - INFO - Processing chunk 0-1000 of 12409
+20:01:44 - INFO - Processed 100/12409 (0.8%) - Updated: 77 countries, 70 birth dates
+20:01:49 - INFO - Processed 200/12409 (1.6%) - Updated: 146 countries, 129 birth dates
+20:01:55 - INFO - Processed 300/12409 (2.4%) - Updated: 222 countries, 190 birth dates
+20:02:01 - INFO - Processed 400/12409 (3.2%) - Updated: 290 countries, 249 birth dates
+20:02:11 - INFO - Processed 500/12409 (4.0%) - Updated: 356 countries, 308 birth dates
+20:02:20 - INFO - Processed 600/12409 (4.8%) - Updated: 427 countries, 369 birth dates
+20:02:38 - INFO - Processed 700/12409 (5.6%) - Updated: 493 countries, 427 birth dates
+20:02:55 - INFO - Processed 800/12409 (6.4%) - Updated: 563 countries, 487 birth dates
+20:03:38 - INFO - Processed 900/12409 (7.3%) - Updated: 580 countries, 503 birth dates

@@ -1,0 +1,36 @@
+19:52:04 - INFO - Starting processing with MAXIMUM speed settings...
+19:52:04 - INFO - Using 100 worker threads
+19:52:04 - INFO - Using chunk size of 1000
+19:52:04 - INFO - Reading input CSV: data/persons.csv
+19:52:04 - INFO - Checking for invalid person entries...
+19:52:05 - INFO - Found 35 invalid person entries
+19:52:05 - INFO - Removed 0 entries from data/award_edition_person.csv
+19:52:05 - INFO - Removed 0 entries from data/nomination_person.csv
+19:52:05 - INFO - Removed 0 entries from data/movie_crew.csv
+19:52:05 - INFO - Removed 35 invalid persons from persons table
+19:52:05 - INFO - Total valid rows: 12503
+19:52:05 - INFO - Processing 12503 rows
+19:52:05 - INFO - Processing chunk 0-1000 of 12503
+19:52:19 - INFO - Processed 100/12503 (0.8%) - Updated: 91 countries, 91 birth dates
+19:52:26 - INFO - Processed 200/12503 (1.6%) - Updated: 170 countries, 160 birth dates
+19:52:31 - INFO - Processed 300/12503 (2.4%) - Updated: 237 countries, 219 birth dates
+19:52:35 - INFO - Processed 400/12503 (3.2%) - Updated: 314 countries, 281 birth dates
+19:52:40 - INFO - Processed 500/12503 (4.0%) - Updated: 382 countries, 340 birth dates
+19:52:53 - INFO - Processed 600/12503 (4.8%) - Updated: 450 countries, 402 birth dates
+19:52:58 - INFO - Processed 700/12503 (5.6%) - Updated: 520 countries, 461 birth dates
+19:53:07 - INFO - Processed 800/12503 (6.4%) - Updated: 587 countries, 520 birth dates
+19:53:17 - INFO - Processed 900/12503 (7.2%) - Updated: 652 countries, 576 birth dates
+19:53:38 - INFO - Processed 1000/12503 (8.0%) - Updated: 670 countries, 593 birth dates
+19:53:38 - INFO - Created output file with 1000 rows
+19:53:54 - INFO - Processing chunk 1000-2000 of 12503
+19:54:20 - INFO - Processed 1100/12503 (8.8%) - Updated: 692 countries, 614 birth dates
+19:55:05 - INFO - Processed 1200/12503 (9.6%) - Updated: 720 countries, 642 birth dates
+19:55:27 - INFO - Processed 1300/12503 (10.4%) - Updated: 782 countries, 701 birth dates
+19:58:36 - INFO - Processed 1400/12503 (11.2%) - Updated: 817 countries, 734 birth dates
+19:58:45 - INFO - Processed 1500/12503 (12.0%) - Updated: 850 countries, 761 birth dates
+19:58:55 - INFO - Processed 1600/12503 (12.8%) - Updated: 883 countries, 793 birth dates
+19:59:11 - INFO - Processed 1700/12503 (13.6%) - Updated: 926 countries, 835 birth dates
+20:02:17 - INFO - Processed 1800/12503 (14.4%) - Updated: 962 countries, 872 birth dates
+20:02:28 - INFO - Processed 1900/12503 (15.2%) - Updated: 991 countries, 899 birth dates
+20:02:40 - INFO - Processed 2000/12503 (16.0%) - Updated: 1026 countries, 931 birth dates
+20:02:49 - INFO - Appended 1000 more rows to output file

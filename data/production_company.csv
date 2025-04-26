@@ -1,0 +1,552 @@
+pd_id,company_name
+1,BBC Television
+2,Seven League Productions
+3,Public Broadcasting Associates
+4,Blackside
+5,Jon Blair Film Company
+6,Studio
+7,California
+8,Los Angeles
+9,Ad Hominem Enterprises
+9,A24
+9,Fox Searchlight Pictures
+9,TSG Entertainment
+9,TSG Entertainment
+9,Double Dare You Productions
+9,FilmNation Entertainment
+9,Cre Film
+9,Village Roadshow Pictures
+9,RatPac-Dune Entertainment
+9,Mad Chance Productions
+9,22nd & Indiana Pictures
+9,Malpaso Productions
+9,Highwayman
+9,Hear/Say Productions
+9,Cor Cordium Productions
+9,IAC Films
+9,Gozie AGBO
+9,Year of the Rat
+9,Ley Line Entertainment
+9,Relativity Media
+9,Mandeville Films
+9,The Weinstein Company
+9,Closest to the Hole Productions
+9,Chernin Entertainment
+9,Turnpike Films
+9,Brookstreet Pictures
+9,Kaplan Morrison
+37,Participant Media
+37,DreamWorks Pictures
+37,Innisfree Pictures
+37,Cinetic Media
+37,Alibaba Pictures
+37,Plan B Entertainment
+37,Plan B Entertainment
+37,Pastel Productions
+37,Les Films du Losange
+37,X Filme Creative Pool
+37,Wega Film
+37,France 3 Cinéma
+37,Canal+
+37,Canal+
+37,Cross Creek Pictures
+37,Protozoa Pictures
+37,Phoenix Pictures
+37,Dune Entertainment
+37,Dune Entertainment
+37,Regency Enterprises
+37,Vendôme Pictures
+37,Pathé
+37,Universal Pictures
+37,Syncopy Inc.
+37,Atlas Entertainment
+37,Gadget Films
+37,Breakheart Films
+37,Peters Creek Entertainment
+37,Lava Bear Films
+37,21 Laps Entertainment
+37,Frenesy Film Company
+37,La Cinéfacture
+37,RT Features
+37,M.Y.R.A. Entertainment
+37,Water's End Productions
+37,Amusement Park
+37,20th Century Fox
+37,Ingenious Film Partners
+37,Lightstorm Entertainment
+37,Marvel Studios
+37,F comme Film
+37,Trademark Films
+37,Ciné-@
+37,AG Studios
+37,Les Films du Cru
+37,Film4
+37,Orange Studio
+37,Ciné+
+38,APJAC Productions
+39,The Saul Zaentz Company
+40,Metro-Goldwyn-Mayer
+41,Dick Clark Productions
+42,Delphi IV Productions
+43,The Geffen Company
+44,Eddie Murphy Productions
+45,Mirage Productions
+46,The Zanuck Company
+47,
+48,Amblin Entertainment
+49,Jersey Films
+50,Clinica Estetico Productions
+51,Touchstone Pictures
+52,Paramount Pictures
+53,The Bedford Falls Company
+54,Thin Man Films
+55,Imagine Entertainment
+56,RadicalMedia
+57,Bazmark Productions
+58,Parkes
+59,MacDonald
+60,Icon Productions
+61,GK Films
+62,Tre Vanner
+63,Legendary Pictures
+64,Roth Films
+65,Working Title Films
+66,Davis Entertainment
+67,Cinesound Productions
+68,The March of Time
+69,Walt Disney Productions
+70,National Film Board of Canada
+71,Crown Film Unit
+72,U.S. Merchant Marine
+73,Signal Corps
+74,U.S. Army Pictorial Service
+75,Army Pictorial Service
+76,Office of Strategic Services
+77,United States Navy
+78,United States Army Air Forces First Motion Picture Unit
+79,First Motion Picture Unit
+80,United States Information Service
+81,Films Of Fact
+82,International Ladies Garment Workers Union
+83,Artfilm
+84,Irwin Allen Productions
+85,Bartlett Foster Productions
+86,The Rank Organisation
+87,Camera Eye Pictures
+88,World Wide Pictures
+89,Small World Co.
+90,Dynamic Films
+91,WGBH-TV
+92,David L. Wolper Productions
+93,Le Vien International
+94,Wolper Productions
+95,Mascott Productions
+96,Random Productions
+97,BBC
+98,WBZ-TV
+99,Patchke Productions
+100,DHS Films
+101,MGM
+102,Commonwealth United Entertainment
+103,Wolper Pictures
+104,Alan Landsburg Productions
+105,Goodell Motion Pictures
+106,BBS Productions
+107,Rocky Mountain Films
+108,Ghetto Fighters' House
+109,National Farm Workers Service Center
+110,Shirley MacLaine Productions
+111,Pentacle Films
+112,Golden West Television
+113,Survival Anglia
+114,Women's Labor History Film Project
+115,James Agee Film Project
+116,KTEH
+117,Moriah Films
+118,CBC
+119,Foresight Films
+120,Edgar J. Scherick Associates
+121,Arundel Productions
+122,Guggenheim Productions
+123,Bridge Film Productions
+124,Little Bear
+125,Durrin Productions
+126,Telling Pictures
+127,Video Verite
+128,Empowerment Project
+129,Intrepid Productions
+130,Paperny Films
+131,American Film Foundation
+132,Lennon Documentary Group
+133,Four Oaks Foundation
+134,West City Films
+135,PolyGram Filmed Entertainment
+136,Echo Pictures
+137,Survivors of the Shoah Visual History Foundation
+138,Whyaduck Productions
+139,Sun Fountain Productions
+140,Wadi Rum Films
+141,Highway Films
+142,CounterPoint Films
+143,Nomadic Pictures
+144,Public Policy Productions
+145,Belzberg Films
+146,Maysles Films Inc.
+147,Promises Film Project
+148,Christian Frei Filmproductions
+149,Mongolkina
+150,The Con
+151,Marshall Curry Productions
+152,Disarming Films
+153,Dog Eat Dog Films
+154,Black Valley Films
+155,Mr. Mudd
+156,Paranoid Pictures
+157,International WOW Company
+158,Ravine Pictures
+159,Moxie Firecracker Films
+160,Kandoo Films
+161,Busca Vida Filmes
+162,Final Cut for Real
+163,RKO Radio Pictures
+164,Cosmopolitan Productions
+165,Warner Bros. Pictures
+166,Selznick International Pictures
+167,Samuel Goldwyn Productions
+168,Darryl F. Zanuck Productions
+169,Columbia Pictures
+170,Principal Productions
+171,Republic Pictures
+172,Zion Meyers Productions
+173,Hal Roach Studios
+174,Walter Wanger Productions
+175,Warner Bros.
+176,Fleischer Studios
+177,Edward Small Productions
+178,Imperadio Pictures
+179,Hal Roach
+180,20th Century-Fox
+181,Sol Lesser Productions
+182,United States Film Service
+183,Charles Chaplin Film Corporation
+184,Universal Pictures Co.
+185,London Films
+186,Universal Studios
+187,William Dieterle Productions
+188,Richard A. Rowland Productions
+189,Twentieth Century Fox
+190,David L. Loew-Albert Lewin Productions
+191,"Hal Roach Studios, Inc."
+192,Suffolk Productions
+193,Walter Wanger presents
+194,King Brothers Productions
+195,Arnold Pressburger Films
+196,United Artists
+197,"Warner Bros. Pictures, Inc."
+198,Andrew L. Stone Productions
+199,William Cagney Productions
+200,Harry Sherman Productions
+201,Principal Artists Productions
+202,Benedict Bogeaus Productions
+203,Mayfair Productions Inc.
+204,Samuel Bronston Productions
+205,Ripley/Monter Productions
+206,Producers Corporation of America
+207,Rainbow Productions
+208,Hunt Stromberg Productions
+209,Greentree Productions
+210,Hal Wallis Productions
+211,Constance Bennett Productions
+212,International Pictures
+213,Monogram Pictures
+214,Producers Releasing Corporation
+215,Two Cities Films
+216,Mark Hellinger Productions
+217,Kanin Productions
+218,The Archers
+219,Two Cities
+220,Sierra Pictures
+221,Michael Curtiz Productions
+222,Stanley Kramer Productions
+223,Cinerama Productions
+224,Wayne-Fellows Productions
+225,Sirius Productions
+226,Horizon Pictures
+227,Victor Saville Productions
+228,Otto Preminger Films
+229,Universal-International
+230,Transcona Enterprises
+231,Carlyle Productions
+232,Michael Todd Company
+233,Jerry Wald Productions
+234,South Pacific Enterprises
+235,Bryna Productions
+236,An Arthur Freed Production
+237,Mansfield Productions
+238,Highroad Productions
+239,Hunter-Fields Productions
+240,Mosfilm
+241,Brentwood Productions
+242,Seven Arts Productions
+243,Woodfall Film Productions
+244,Casey Productions
+245,The Mirisch Corporation
+246,The Kohlmar-Sidney Company
+247,Llenroc Productions
+248,P-C Productions
+249,International Classics
+250,George Stevens Productions
+251,Harold Hecht Corporation
+252,Shepperton Studios
+253,A Robert Wise Production
+254,Ross Hunter Productions
+255,Jalem Productions
+256,Pax Enterprises
+257,Warner Bros.-Seven Arts
+258,Red Lion Productions
+259,Haworth Productions
+260,Romulus Films
+261,Rastar
+262,The Stanley Kramer Corporation
+263,Chenault Productions
+264,Irving Allen Productions
+265,Robert Wise Productions
+266,Geoffrey Productions
+267,Cinema Center Films
+268,Mulligan-Roth Productions
+269,Shaft Productions
+270,Russflix
+271,Celebrated Productions
+272,Hemdale Film Corporation
+273,Palomar Pictures International
+274,ABC Pictures Corp.
+275,Motown Productions
+276,Produzioni Europee Associati (PEA)
+277,Sanford Productions
+278,Brut Productions
+279,Reader's Digest
+280,Newdon Productions
+281,Stanley Donen Films
+282,Harbor Productions
+283,Fantasy Films
+284,Yellowbird Productions
+285,The Malpaso Company
+286,ITC Entertainment
+287,Lucasfilm Ltd.
+288,Eon Productions
+289,Casablanca FilmWorks
+290,Orion Pictures
+291,Brooksfilms
+292,Lorimar Productions
+293,Zoetrope Studios
+294,The Ladd Company
+295,Thorn EMI Films
+296,Delphi II Productions
+297,Purple Films
+298,Mirage Enterprises
+299,Delphi III Productions
+300,Edward S. Feldman Productions
+301,Brandywine Productions
+302,Goldcrest Films
+303,Marble Arch Productions
+304,The Guber-Peters Company
+305,Walt Disney Feature Animation
+306,Gordon Company
+307,Baltimore Pictures
+308,Hill/Obst Productions
+309,Cappa Productions
+310,Kopelson Entertainment
+311,Merchant Ivory Productions
+312,The Geffen Film Company
+313,DiNovi Pictures
+314,Castle Rock Entertainment
+315,Pixar Animation Studios
+316,Hollywood Pictures
+317,Tiger Moth Productions
+318,Scott Rudin Productions
+319,HBO Pictures
+320,The Wolper Organization
+321,Melampo Cinematografica
+322,Larger Than Life Productions
+323,Jinks/Cohen Company
+324,FilmColony
+325,River Road Entertainment
+326,DreamWorks Animation
+327,Annapurna Pictures
+328,Heyday Films
+329,Plan B
+330,Walt Disney Animation Studios
+331,Palomar Pictures
+332,Frankovich Productions
+333,Faraway Productions
+334,Newman-Foreman Company
+335,Bing Crosby Productions
+336,First Artists
+337,The Directors Company
+338,The Filmakers Group
+339,Filmways Pictures
+340,Long Road Productions
+341,Dino De Laurentiis Corporation
+342,Amjo Productions
+343,Chartoff-Winkler Productions
+344,EMI
+345,Lassie Productions
+346,Overbrook Entertainment
+347,Emanuel Cohen Productions
+348,Mayfair Productions
+349,Chas. K. Feldman Group Productions
+350,Walter Lantz Productions
+351,MetroGoldwynMayer
+352,Metro Goldwyn Mayer
+353,Hope Enterprises
+354,York Pictures Corporation
+355,The Beckworth Corporation
+356,Otto Preminger Films (uncredited)
+357,Arwin Productions
+358,Beachwold Productions
+359,Baroda Productions
+360,C.V. Whitney Pictures
+361,Melina Film
+362,Franton Productions
+363,Mirisch Company
+364,Amro Productions
+365,Embassy Pictures
+366,Filmways
+367,Sheldrake Films
+368,William Conrad Productions
+369,Everglades Productions
+370,Boardwalk Productions
+371,G.B.C.-Edric-Isracine Productions
+372,Crown International Pictures
+373,Crossbow Productions
+374,Hemdale Film Distribution Ltd.
+375,ABC Motion Pictures
+376,First American Films
+377,Mondial International
+378,The Mirisch Company
+379,IPC Films
+380,Rastar Films
+381,Major Studio Partners
+382,PolyGram Pictures
+383,Timberlane Productions
+384,IndieProd
+385,Don Simpson/Jerry Bruckheimer Films
+386,Delphi V Productions
+387,Great American Films Limited Partnership
+388,Morgan Creek Productions
+389,Northern Lights Entertainment
+390,American Zoetrope
+391,TriStar Pictures
+392,Kennedy Miller Productions
+393,Craven/Maddalena Productions
+394,Konrad Pictures
+395,Klasky Csupo
+396,New Deal Entertainment
+397,Belladonna Productions
+398,PCH Films
+399,Lion's Gate Films
+400,A Cosmopolitan Production
+401,Paramount Famous Lasky Corp.
+402,The Caddo Company
+403,Fox Film Corporation
+404,First National Pictures
+405,The Vitaphone Corporation
+406,London Film Productions
+407,Twentieth Century Pictures
+408,Columbia Pictures Corp. of Calif. LTD.
+409,Metro-Goldwyn-Mayer British
+410,Ortus Films
+411,Liberty Films
+412,Cineguild
+413,Warner Bros.-First National
+414,Motion Picture Associates
+415,Orion-Nova Productions
+416,Avon Productions
+417,Rossen Enterprises
+418,Highland Films
+419,Elmer Enterprises
+420,Svensk Filmindustri
+421,Artists Entertainment Complex
+422,Wildwood Enterprises
+423,Hera Productions
+424,Stanley Jaffe Productions
+425,Omni Zoetrope
+426,"Wildwood Enterprises, Inc"
+427,Carson Productions
+428,A Jack Rollins and Charles H. Joffe Production
+429,Gracie Films
+430,Jaffe/Lansing Productions
+431,Strong Heart Productions
+432,Hell's Kitchen Films
+433,LuckyChap Entertainment
+434,DreamWorks Animation SKG
+435,Studio Ghibli
+436,Laika
+437,Starburns Industries
+438,Filme de Papel
+439,Studio Chizu
+440,Xilam Animation
+441,Netflix Animation
+442,Aardman Animations
+443,Twentieth Century-Fox Film Corporation
+444,The Play's The Thing Productions
+445,"Universal Pictures Company, Inc."
+446,Torneen Productions
+447,B.D. Production
+448,Vanguard Films
+449,Argosy Pictures
+450,Associated British Picture Corporation
+451,Alfred J. Hitchcock Productions
+452,Stanley Kubrick Productions
+453,Security Pictures
+454,Hammer Films
+455,A-Team Productions
+456,Zanuck/Brown Company
+457,Carolco Pictures
+458,Interscope Communications
+459,Tim Burton Productions
+460,South Side Amusement Company
+461,Gaumont
+462,Newtown Productions
+463,Solar-Films
+464,Salem-Dover Productions
+465,Dearfilm
+466,Renaissance Dove
+467,Toho
+468,Enterprise Productions
+469,Monterey Productions
+470,Hall Bartlett Productions
+471,M.C. Productions
+472,Granox Productions
+473,Kenneth Hyman
+474,Solar Productions
+475,Landers-Roberts Inc.
+476,Freddie Fields Productions
+477,Mace Neufeld Productions
+478,Kartemquin Films
+479,Arnold Kopelson Productions
+480,Fox 2000 Pictures
+481,Vectia
+482,Metro Goldwyn-Mayer British Studios
+483,Shamley Productions
+484,Rubeeker Films
+485,Jack RollinsCharles H. Joffe Productions
+486,Sweetland Films
+487,Film Properties International N.V.
+488,Sheridan College
+489,Pizazz Pictures
+490,Gregory Ratoff Productions
+491,Jean-Renoir-Dudly Nichols Productions
+492,Jack Wm. Votion Productions
+493,Neptune Productions
+494,Universal International Pictures
+495,De Grunwald Productions
+496,Silver Pictures
+497,Don Simpson
+498,Jerry Bruckheimer Films
+499,Ponti-De Laurentiis Cinematografica
+500,Vera Film
+501,Greenwich Film Productions
+502,Medusa Distribuzione
+503,Nickel Odeon
+504,Wiedemann & Berg Film Production

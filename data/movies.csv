@@ -1,0 +1,5126 @@
+movie_id,movie_name,run_time,run_time
+1,Universal,,
+2,The Big House,,87.0
+3,Disraeli,,90.0
+4,The Divorcee,,84.0
+5,The Love Parade,,107.0
+6,Cimarron,,147.0
+7,East Lynne,,102.0
+8,The Front Page,,101.0
+9,Skippy,,85.0
+10,Trader Horn,,122.0
+11,1931/32,,
+12,Arrowsmith,,108.0
+13,Bad Girl,,90.0
+14,The Champ,,122.0
+15,Five Star Final,,89.0
+16,One Hour with You,,80.0
+17,Shanghai Express,,80.0
+18,The Smiling Lieutenant,,89.0
+19,Cavalcade,,112.0
+20,42nd Street,,89.0
+21,A Farewell to Arms,,88.0
+22,I Am a Fugitive from a Chain Gang,,93.0
+23,Lady for a Day,,96.0
+24,Little Women,,121.0
+25,The Private Life of Henry VIII,,97.0
+26,She Done Him Wrong,,66.0
+27,Smilin' Through,,98.0
+28,State Fair,,100.0
+29,It Happened One Night,,105.0
+30,The Barretts of Wimpole Street,,110.0
+31,Cleopatra,,243.0
+32,Flirtation Walk,,100.0
+33,The Gay Divorcee,,107.0
+34,Here Comes the Navy,,87.0
+35,The House of Rothschild,,88.0
+36,Imitation of Life,,111.0
+37,One Night of Love,,83.0
+38,The Thin Man,,91.0
+39,Viva Villa!,,115.0
+40,The White Parade,,80.0
+41,Mutiny on the Bounty,,178.0
+42,Alice Adams,,99.0
+43,Broadway Melody of 1936,,101.0
+44,Captain Blood,,119.0
+45,David Copperfield,,133.0
+46,The Informer,,91.0
+47,The Lives of a Bengal Lancer,,109.0
+48,A Midsummer Night's Dream,,133.0
+49,Les Misérables,,158.0
+50,Naughty Marietta,,103.0
+51,Ruggles of Red Gap,,90.0
+52,Top Hat,,101.0
+53,The Great Ziegfeld,,177.0
+54,Anthony Adverse,,141.0
+55,Dodsworth,,101.0
+56,Libeled Lady,,98.0
+57,Mr. Deeds Goes to Town,,116.0
+58,Romeo and Juliet,,125.0
+59,San Francisco,,115.0
+60,The Story of Louis Pasteur,,87.0
+61,A Tale of Two Cities,,123.0
+62,Three Smart Girls,,84.0
+63,The Life of Emile Zola,,116.0
+64,The Awful Truth,,91.0
+65,Captains Courageous,,117.0
+66,Dead End,,93.0
+67,The Good Earth,,138.0
+68,In Old Chicago,,96.0
+69,Lost Horizon,,132.0
+70,One Hundred Men and a Girl,,85.0
+71,Stage Door,,92.0
+72,A Star Is Born,,136.0
+73,You Can't Take It with You,,126.0
+74,The Adventures of Robin Hood,,102.0
+75,Alexander's Ragtime Band,,106.0
+76,Boys Town,,93.0
+77,The Citadel,,110.0
+78,Four Daughters,,90.0
+79,Grand Illusion,,114.0
+80,Jezebel,,103.0
+81,Pygmalion,,96.0
+82,Test Pilot,,118.0
+83,Gone with the Wind,,221.0
+84,Dark Victory,,104.0
+85,"Goodbye, Mr. Chips",,114.0
+86,Love Affair,,87.0
+87,Mr. Smith Goes to Washington,,130.0
+88,Ninotchka,,110.0
+89,Of Mice and Men,,107.0
+90,Stagecoach,,96.0
+91,The Wizard of Oz,,102.0
+92,Wuthering Heights,,103.0
+93,David O. Selznick,,
+94,"All This, and Heaven Too",,141.0
+95,Foreign Correspondent,,120.0
+96,The Grapes of Wrath,,129.0
+97,The Great Dictator,,125.0
+98,Kitty Foyle,,108.0
+99,The Letter,,95.0
+100,The Long Voyage Home,,105.0
+101,Our Town,,90.0
+102,The Philadelphia Story,,112.0
+103,How Green Was My Valley,,118.0
+104,Blossoms in the Dust,,99.0
+105,Citizen Kane,,119.0
+106,Here Comes Mr. Jordan,,94.0
+107,Hold Back the Dawn,,116.0
+108,The Little Foxes,,115.0
+109,The Maltese Falcon,,101.0
+110,One Foot in Heaven,,108.0
+111,Sergeant York,,134.0
+112,Suspicion,,99.0
+113,Mrs. Miniver,,133.0
+114,49th Parallel,,123.0
+115,Kings Row,,127.0
+116,The Magnificent Ambersons,,88.0
+117,The Pied Piper,,87.0
+118,The Pride of the Yankees,,128.0
+119,Random Harvest,,125.0
+120,The Talk of the Town,,117.0
+121,Wake Island,,88.0
+122,Yankee Doodle Dandy,,126.0
+123,Casablanca,,102.0
+124,For Whom the Bell Tolls,,170.0
+125,Heaven Can Wait,,101.0
+126,The Human Comedy,,118.0
+127,In Which We Serve,,115.0
+128,Madame Curie,,124.0
+129,The More the Merrier,,104.0
+130,The Ox-Bow Incident,,75.0
+131,The Song of Bernadette,,155.0
+132,Watch on the Rhine,,114.0
+133,Going My Way,,126.0
+134,Double Indemnity,,107.0
+135,Gaslight,,114.0
+136,Since You Went Away,,177.0
+137,Wilson,,154.0
+138,The Lost Weekend,,101.0
+139,Anchors Aweigh,,140.0
+140,The Bells of St. Mary's,,126.0
+141,Mildred Pierce,,111.0
+142,Spellbound,,111.0
+143,The Best Years of Our Lives,,172.0
+144,Henry V,,136.0
+145,It's a Wonderful Life,,131.0
+146,The Razor's Edge,,145.0
+147,The Yearling,,128.0
+148,Gentleman's Agreement,,118.0
+149,The Bishop's Wife,,109.0
+150,Crossfire,,86.0
+151,Great Expectations,,118.0
+152,Miracle on 34th Street,,96.0
+153,Hamlet,,242.0
+154,Johnny Belinda,,102.0
+155,The Red Shoes,,134.0
+156,The Snake Pit,,108.0
+157,The Treasure of the Sierra Madre,,126.0
+158,All the King's Men,,110.0
+159,Battleground,,118.0
+160,The Heiress,,115.0
+161,A Letter to Three Wives,,103.0
+162,Twelve O'Clock High,,132.0
+163,Darryl F. Zanuck,,
+164,Born Yesterday,,102.0
+165,Father of the Bride,,92.0
+166,King Solomon's Mines,,103.0
+167,Sunset Boulevard,,110.0
+168,An American in Paris,,113.0
+169,Decision Before Dawn,,119.0
+170,A Place in the Sun,,122.0
+171,Quo Vadis,,171.0
+172,A Streetcar Named Desire,,125.0
+173,The Greatest Show on Earth,,152.0
+174,High Noon,,85.0
+175,Ivanhoe,,107.0
+176,Moulin Rouge,,119.0
+177,The Quiet Man,,129.0
+178,From Here to Eternity,,118.0
+179,Julius Caesar,,121.0
+180,The Robe,,135.0
+181,Roman Holiday,,118.0
+182,Shane,,118.0
+183,On the Waterfront,,108.0
+184,The Caine Mutiny,,125.0
+185,The Country Girl,,104.0
+186,Seven Brides for Seven Brothers,,102.0
+187,Three Coins in the Fountain,,102.0
+188,Marty,,93.0
+189,Love Is a Many-Splendored Thing,,102.0
+190,Mister Roberts,,126.0
+191,Picnic,,115.0
+192,The Rose Tattoo,,117.0
+193,Around the World in 80 Days,,182.0
+194,Friendly Persuasion,,137.0
+195,Giant,,201.0
+196,The King and I,,133.0
+197,The Ten Commandments,,220.0
+198,The Bridge on the River Kwai,,161.0
+199,12 Angry Men,,96.0
+200,Peyton Place,,157.0
+201,Sayonara,,147.0
+202,Witness for the Prosecution,,116.0
+203,Gigi,,115.0
+204,Auntie Mame,,143.0
+205,Cat on a Hot Tin Roof,,108.0
+206,The Defiant Ones,,96.0
+207,Separate Tables,,100.0
+208,Ben-Hur,,212.0
+209,Anatomy of a Murder,,160.0
+210,The Diary of Anne Frank,,179.0
+211,The Nun's Story,,152.0
+212,Room at the Top,,115.0
+213,The Apartment,,125.0
+214,John Wayne,,
+215,Bernard Smith,,
+216,Jerry Wald,,
+217,Fred Zinnemann,,
+218,Robert Wise,,
+219,Joshua Logan,,
+220,Carl Foreman,,
+221,Robert Rossen,,
+222,Stanley Kramer,,
+223,Sam Spiegel,,
+224,Morton DaCosta,,
+225,Aaron Rosenberg,,
+226,Alan J. Pakula,,
+227,Tony Richardson,,
+228,Elia Kazan,,
+229,Walter Wanger,,
+230,Ralph Nelson,,
+231,Jack L. Warner,,
+232,Hal B. Wallis,,
+233,Stanley Kubrick,,
+234,Walt Disney,,
+235,Michael Cacoyannis,,
+236,Joseph Janni,,
+237,Carlo Ponti,,
+238,Fred Coe,,
+239,Lewis Gilbert,,
+240,Norman Jewison,,
+241,Ernest Lehman,,
+242,Walter Mirisch,,
+243,Warren Beatty,,
+244,Arthur P. Jacobs,,
+245,Lawrence Turman,,
+246,John Woolf,,
+247,Ray Stark,,
+248,Martin Poll,,
+249,Paul Newman,,
+250,Anthony Havelock-Allan,,
+251,Jerome Hellman,,
+252,John Foreman,,
+253,Jacques Perrin,,
+254,Patton,,172.0
+255,Ross Hunter,,
+256,Bob Rafelson,,
+257,Howard G. Minsky,,
+258,Ingo Preminger,,
+259,Philip D'Antoni,,
+260,Stephen J. Friedman,,
+261,Albert S. Ruddy,,
+262,Cy Feuer,,
+263,John Boorman,,
+264,Bengt Forslund,,
+265,Robert B. Radnitz,,
+266,Tony Bill,,
+267,Francis Ford Coppola,,
+268,Ingmar Bergman,,
+269,William Peter Blatty,,
+270,Melvin Frank,,
+271,Robert Evans,,
+272,Marvin Worth,,
+273,Irwin Allen,,
+274,Michael Douglas,,
+275,Martin Bregman,,
+276,Richard D. Zanuck,,
+277,Robert Altman,,
+278,Irwin Winkler,,
+279,Walter Coblenz,,
+280,Robert F. Blumofe,,
+281,Howard Gottfried,,
+282,Michael Phillips,,
+283,Charles H. Joffe,,
+284,Richard Roth,,
+285,Gary Kurtz,,
+286,Herbert Ross,,
+287,Barry Spikings,,
+288,Alan Marshall,,
+289,Paul Mazursky,,
+290,Stanley R. Jaffe,,
+291,Robert Alan Aurthur,,
+292,Peter Yates,,
+293,Tamara Asseyev and Alex Rose,,
+294,Ordinary People,,124.0
+295,Bernard Schwartz,,
+296,Jonathan Sanger,,
+297,Claude Berri,,
+298,David Puttnam,,
+299,Denis Héroux,,
+300,Bruce Gilbert,,
+301,Frank Marshall,,
+302,Richard Attenborough,,
+303,Steven Spielberg,,
+304,Edward Lewis and Mildred Lewis,,
+305,Sydney Pollack,,
+306,James L. Brooks,,
+307,Michael Shamberg,,
+308,Philip S. Hobel,,
+309,Saul Zaentz,,
+310,John Brabourne,,
+311,Arlene Donovan,,
+312,David Weisman,,
+313,Edward S. Feldman,,
+314,Arnold Kopelson,,
+315,Burt Sugarman,,
+316,Robert Greenhut,,
+317,Fernando Ghia,,
+318,Ismail Merchant,,
+319,Jeremy Thomas,,
+320,Mark Johnson,,
+321,Lawrence Kasdan,,
+322,Norma Heyman,,
+323,Frederick Zollo,,
+324,Douglas Wick,,
+325,A. Kitman Ho,,
+326,Steven Haft,,
+327,Lawrence Gordon,,
+328,Noel Pearson,,
+329,Dances With Wolves,,181.0
+330,Walter Parkes,,
+331,Lisa Weinstein,,
+332,Edward Saxon,,
+333,Don Hahn,,
+334,Barbra Streisand,,
+335,Clint Eastwood,,
+336,Stephen Woolley,,
+337,David Brown,,
+338,Martin Brest,,
+339,Jim Sheridan,,
+340,Jan Chapman,,
+341,Mike Nichols,,
+342,Wendy Finerman,,
+343,Duncan Kenworthy,,
+344,Lawrence Bender,,
+345,Michael Jacobs,,
+346,Niki Marvin,,
+347,Mel Gibson,,
+348,Brian Grazer,,
+349,Bill Miller,,
+350,Mario Cecchi Gori,,
+351,Lindsay Doran,,
+352,Ethan Coen,,
+353,Simon Channing-Williams,,
+354,Jane Scott,,
+355,James Cameron,,
+356,Uberto Pasolini,,
+357,Curtis Hanson,,
+358,David Parfitt,,
+359,Alison Owen,,
+360,Elda Ferri,,
+361,Grant Hill,,
+362,Bruce Cohen,,
+363,Richard N. Gladstein,,
+364,Frank Darabont,,
+365,Pieter Jan Brugge,,
+366,Gladiator,,155.0
+367,William Kong,,
+368,Danny DeVito,,
+369,Edward Zwick,,
+370,Ross Katz,,
+371,Peter Jackson,,
+372,Baz Luhrmann,,
+373,Martin Richards,,
+374,Alberto Grimaldi,,
+375,Scott Rudin,,
+376,Barrie M. Osborne,,
+377,Roman Polanski,,
+378,Samuel Goldwyn Jr.,,
+379,Robert Lorenz,,
+380,Kathleen Kennedy,,
+381,Michael Mann,,
+382,Taylor Hackford,,
+383,Michael London,,
+384,Paul Haggis,,
+385,Diana Ossana,,
+386,Caroline Baron,,
+387,Grant Heslov,,
+388,Graham King,,
+389,Alejandro González Iñárritu,,
+390,David T. Friendly,,
+391,Andy Harries,,
+392,Tim Bevan,,
+393,Mason Novick,,
+394,Jennifer Fox,,
+395,Paul Thomas Anderson,,
+396,Christian Colson,,
+397,Ron Howard,,
+398,Anthony Minghella,,
+399,Kathryn Bigelow,,
+400,Andrew A. Kosove,,
+401,Finola Dwyer,,
+402,Lee Daniels,,
+403,Joel Coen,,
+404,Jonas Rivera,,
+405,Daniel Dubiecki,,
+406,The King's Speech,,119.0
+407,Mike Medavoy,,
+408,David Hoberman,,
+409,Christopher Nolan,,
+410,Gary Gilbert,,
+411,Danny Boyle,,
+412,Dana Brunetti,,
+413,Darla K. Anderson,,
+414,Alix Madigan,,
+415,Thomas Langmann,,
+416,Jim Burke,,
+417,Brunson Green,,
+418,Letty Aronson,,
+419,Michael De Luca,,
+420,Sarah Green,,
+421,Margaret Menegoz,,
+422,"Dan Janvey, Josh Penn, and Michael Gottwald",,
+423,Stacey Sher,,
+424,Ang Lee,,
+425,Donna Gigliotti,,
+426,Mark Boal,,
+427,Brad Pitt,,
+428,Charles Roven,,
+429,Robbie Brenner,,
+430,Alfonso Cuarón,,
+431,Megan Ellison,,
+432,Albert Berger,,
+433,Gabrielle Tana,,
+434,Martin Scorsese,,
+435,Alejandro G. Iñárritu,,
+436,Richard Linklater,,
+437,Wes Anderson,,
+438,Nora Grossman,,
+439,Jason Blum,,
+440,Blye Pagon Faust,,
+441,Dede Gardner,,
+442,Doug Mitchell,,
+443,Simon Kinberg,,
+444,Arnon Milchan,,
+445,Ed Guiney,,
+446,Adele Romanski,,
+447,Shawn Levy,,
+448,Bill Mechanic,,
+449,Carla Hacken,,
+450,Fred Berger,,
+451,Emile Sherman,,
+452,Matt Damon,,
+453,Guillermo del Toro,,
+454,Peter Spears,,
+455,Emma Thomas,,
+456,Sean McKittrick,,
+457,JoAnne Sellar,,
+458,Amy Pascal,,
+459,Graham Broadbent,,
+460,Kevin Feige,,
+461,Gabriela Rodríguez,,
+462,Bill Gerber,,
+463,Parasite,,132.0
+464,Peter Chernin,,
+465,Carthew Neal,,
+466,Todd Phillips,,
+467,Noah Baumbach,,
+468,Sam Mendes,,
+469,David Heyman,,
+470,Nomadland,,108.0
+471,Shaka King,,
+472,Ceán Chaffin,,
+473,Christina Oh,,
+474,Emerald Fennell,,
+475,Bert Hamelinck and Sacha Ben Harroche,,
+476,Marc Platt,,
+477,CODA,,111.0
+478,Kenneth Branagh,,
+479,Adam McKay,,
+480,Teruhisa Yamamoto,,
+481,Mary Parent,,
+482,Tim White,,
+483,Sara Murphy,,
+484,Jane Campion,,
+485,Everything Everywhere All at Once,,139.0
+486,Malte Grunert,,
+487,Kristie Macosko Krieger,,
+488,Todd Field,,
+489,Tom Cruise,,
+490,Erik Hemmendorff and Philippe Bober,,
+491,Oppenheimer,,180.0
+492,Cord Jefferson,,
+493,Marie-Ange Luciani,,
+494,Dan Friedkin,,
+495,Bradley Cooper,,
+496,David Hinojosa,,
+497,James Wilson,,
+498,Anora,,139.0
+499,D.J. Gugenheim,,
+500,Tessa Ross,,
+501,Pascal Caucheteux,,
+502,Rodrigo Teixeira,,
+503,Coralie Fargeat,,
+504,All Quiet on the Western Front,,147.0
+505,Clarence Brown,,
+506,Robert Z. Leonard,,
+507,Ernst Lubitsch,,
+508,King Vidor,,
+509,(4th),,
+510,Lewis Milestone,,
+511,Wesley Ruggles,,
+512,Josef von Sternberg,,
+513,(5th),,
+514,(6th),,
+515,Frank Capra,,
+516,George Cukor,,
+517,(7th),,
+518,Victor Schertzinger,,
+519,W. S. Van Dyke,,
+520,(8th),,
+521,Henry Hathaway,,
+522,Frank Lloyd,,
+523,Michael Curtiz,,
+524,(9th),,
+525,Gregory La Cava,,
+526,William Wyler,,
+527,(10th),,
+528,William Dieterle,,
+529,Sidney Franklin,,
+530,William A. Wellman,,
+531,(11th),,
+532,Norman Taurog,,
+533,(12th),,
+534,John Ford,,
+535,Sam Wood,,
+536,Alfred Hitchcock,,
+537,(14th),,
+538,Alexander Hall,,
+539,Howard Hawks,,
+540,Orson Welles,,
+541,(15th),,
+542,John Farrow,,
+543,Mervyn LeRoy,,
+544,(16th),,
+545,Henry King,,
+546,George Stevens,,
+547,(17th),,
+548,Otto Preminger,,
+549,Billy Wilder,,
+550,(18th),,
+551,Leo McCarey,,
+552,Jean Renoir,,
+553,(19th),,
+554,David Lean,,
+555,Robert Siodmak,,
+556,(20th),,
+557,Edward Dmytryk,,
+558,Henry Koster,,
+559,(21st),,
+560,Anatole Litvak,,
+561,Jean Negulesco,,
+562,Laurence Olivier,,
+563,(22nd),,
+564,Carol Reed,,
+565,All About Eve,,138.0
+566,John Huston,,
+567,(24th),,
+568,Vincente Minnelli,,
+569,(25th),,
+570,Cecil B. DeMille,,
+571,Joseph L. Mankiewicz,,
+572,(26th),,
+573,Charles Walters,,
+574,(27th),,
+575,George Seaton,,
+576,(28th),,
+577,John Sturges,,
+578,(29th),,
+579,Michael Anderson,,
+580,Walter Lang,,
+581,(30th),,
+582,Sidney Lumet,,
+583,Mark Robson,,
+584,(31st),,
+585,Richard Brooks,,
+586,(32nd),,
+587,Jack Clayton,,
+588,Jack Cardiff,,
+589,Jules Dassin,,
+590,(34th),,
+591,Federico Fellini,,
+592,J. Lee Thompson,,
+593,(35th),,
+594,Pietro Germi,,
+595,Robert Mulligan,,
+596,Arthur Penn,,
+597,Frank Perry,,
+598,(36th),,
+599,Martin Ritt,,
+600,(37th),,
+601,Peter Glenville,,
+602,Robert Stevenson,,
+603,(38th),,
+604,John Schlesinger,,
+605,Hiroshi Teshigahara,,
+606,(39th),,
+607,Michelangelo Antonioni,,
+608,Claude Lelouch,,
+609,(40th),,
+610,(41st),,
+611,Anthony Harvey,,
+612,Gillo Pontecorvo,,
+613,Franco Zeffirelli,,
+614,(42nd),,
+615,Costa-Gavras,,
+616,George Roy Hill,,
+617,Arthur Hiller,,
+618,Ken Russell,,
+619,(44th),,
+620,Peter Bogdanovich,,
+621,(45th),,
+622,Jan Troell,,
+623,(46th),,
+624,Bernardo Bertolucci,,
+625,William Friedkin,,
+626,George Lucas,,
+627,(47th),,
+628,John Cassavetes,,
+629,Bob Fosse,,
+630,François Truffaut,,
+631,(48th),,
+632,(49th),,
+633,Lina Wertmüller,,
+634,(50th),,
+635,(51st),,
+636,Woody Allen,,
+637,Hal Ashby,,
+638,Alan Parker,,
+639,(52nd),,
+640,Édouard Molinaro,,
+641,David Lynch,,
+642,Richard Rush,,
+643,(54th),,
+644,Hugh Hudson,,
+645,Louis Malle,,
+646,Mark Rydell,,
+647,(55th),,
+648,Wolfgang Petersen,,
+649,(56th),,
+650,Bruce Beresford,,
+651,(57th),,
+652,Robert Benton,,
+653,Roland Joffé,,
+654,(58th),,
+655,Héctor Babenco,,
+656,Akira Kurosawa,,
+657,Peter Weir,,
+658,(59th),,
+659,James Ivory,,
+660,(60th),,
+661,Lasse Hallström,,
+662,Adrian Lyne,,
+663,(61st),,
+664,Charles Crichton,,
+665,(62nd),,
+666,Stephen Frears,,
+667,Barbet Schroeder,,
+668,(64th),,
+669,Barry Levinson,,
+670,Ridley Scott,,
+671,John Singleton,,
+672,Oliver Stone,,
+673,(65th),,
+674,Neil Jordan,,
+675,(66th),,
+676,(67th),,
+677,Krzysztof Kieślowski,,
+678,Robert Redford,,
+679,Quentin Tarantino,,
+680,(68th),,
+681,Mike Figgis,,
+682,Chris Noonan,,
+683,Michael Radford,,
+684,Tim Robbins,,
+685,(69th),,
+686,Miloš Forman,,
+687,Scott Hicks,,
+688,Mike Leigh,,
+689,(70th),,
+690,Peter Cattaneo,,
+691,Atom Egoyan,,
+692,Gus Van Sant,,
+693,(71st),,
+694,Roberto Benigni,,
+695,John Madden,,
+696,Terrence Malick,,
+697,(72nd),,
+698,Spike Jonze,,
+699,M. Night Shyamalan,,
+700,Traffic,,147.0
+701,Stephen Daldry,,
+702,Steven Soderbergh,,
+703,(74th),,
+704,(75th),,
+705,Pedro Almodóvar,,
+706,Rob Marshall,,
+707,(76th),,
+708,Sofia Coppola,,
+709,Fernando Meirelles,,
+710,(77th),,
+711,Alexander Payne,,
+712,(78th),,
+713,George Clooney,,
+714,Bennett Miller,,
+715,(79th),,
+716,Paul Greengrass,,
+717,(80th),,
+718,Tony Gilroy,,
+719,Jason Reitman,,
+720,Julian Schnabel,,
+721,(81st),,
+722,David Fincher,,
+723,(82nd),,
+724,Darren Aronofsky,,
+725,Joel Coen and Ethan Coen,,
+726,David O. Russell,,
+727,(84th),,
+728,(85th),,
+729,Michael Haneke,,
+730,Benh Zeitlin,,
+731,(86th),,
+732,Steve McQueen,,
+733,(87th),,
+734,Morten Tyldum,,
+735,(88th),,
+736,Lenny Abrahamson,,
+737,Tom McCarthy,,
+738,George Miller,,
+739,(89th),,
+740,Barry Jenkins,,
+741,Kenneth Lonergan,,
+742,Denis Villeneuve,,
+743,(90th),,
+744,Greta Gerwig,,
+745,Jordan Peele,,
+746,(91st),,
+747,Yorgos Lanthimos,,
+748,Spike Lee,,
+749,Paweł Pawlikowski,,
+750,(92nd),,
+751,Lee Isaac Chung,,
+752,Thomas Vinterberg,,
+753,(94th),,
+754,Ryusuke Hamaguchi,,
+755,(95th),,
+756,Martin McDonagh,,
+757,Ruben Östlund,,
+758,(96th),,
+759,Jonathan Glazer,,
+760,Justine Triet,,
+761,(97th),,
+762,Jacques Audiard,,
+763,Brady Corbet,,
+764,James Mangold,,
+765,The Green Goddess,,73.0
+766,The Big Pond,,78.0
+767,"Capt. Hugh ""Bulldog"" Drummond",,
+768,Condemned,,86.0
+769,Yegor,,
+770,Lionel Barrymore,,
+771,Skippy Skinner,,
+772,Yancey Cravat,,
+773,Tony Cavendish,,
+774,Walter Burns,,
+775,Wallace Beery,,
+776,Dr. Henry Jekyll / Mr. Edward Hyde,,
+777,The Actor,,
+778,Charles Laughton,,
+779,Peter Standish,,
+780,James Allen,,
+781,Clark Gable,,
+782,"Alessandro, Duke of Florence",,
+783,Nick Charles,,
+784,Victor McLaglen,,
+785,Lt. Fletcher Christian,,
+786,Captain William Bligh,,
+787,Joe Radek,,
+788,Midshipman,,
+789,Paul Muni,,
+790,Longfellow Deeds,,
+791,Sam Dodsworth,,
+792,Godfrey Park,,
+793,Father Tim Mullin,,
+794,Spencer Tracy,,
+795,Emperor Napoleon Bonaparte,,
+796,Norman Maine,,
+797,Danny,,
+798,Émile Zola,,
+799,Pepe le Moko,,
+800,Rocky Sullivan,,
+801,Dr. Andrew Manson,,
+802,Professor Henry Higgins,,
+803,Robert Donat,,
+804,Rhett Butler,,
+805,Heathcliff,,
+806,Mickey Moran,,
+807,Jefferson Smith,,
+808,Charlie Chaplin,,
+809,Henry Fonda,,
+810,Raymond Massey,,
+811,Cary Grant,,
+812,Walter Huston,,
+813,Robert Montgomery,,
+814,Ronald Colman,,
+815,Gary Cooper,,
+816,Walter Pidgeon,,
+817,Monty Woolley,,
+818,Humphrey Bogart,,
+819,Mickey Rooney,,
+820,Charles Boyer,,
+821,Barry Fitzgerald,,
+822,Alexander Knox,,
+823,Bing Crosby,,
+824,Gene Kelly,,
+825,Gregory Peck,,
+826,Cornel Wilde,,
+827,Larry Parks,,
+828,James Stewart,,
+829,John Garfield,,
+830,William Powell,,
+831,Michael Redgrave,,
+832,Lew Ayres,,
+833,Montgomery Clift,,
+834,Dan Dailey,,
+835,Clifton Webb,,
+836,Kirk Douglas,,
+837,Richard Todd,,
+838,Cyrano de Bergerac,,137.0
+839,Louis Calhern,,
+840,William Holden,,
+841,Marlon Brando,,
+842,Arthur Kennedy,,
+843,Fredric March,,
+844,José Ferrer,,
+845,Alec Guinness,,
+846,Richard Burton,,
+847,Burt Lancaster,,
+848,James Mason,,
+849,Dan O'Herlihy,,
+850,James Cagney,,
+851,James Dean,,
+852,Frank Sinatra,,
+853,Rock Hudson,,
+854,Anthony Franciosa,,
+855,Anthony Quinn,,
+856,Tony Curtis,,
+857,Sidney Poitier,,
+858,Laurence Harvey,,
+859,Jack Lemmon,,
+860,Elmer Gantry,,146.0
+861,Trevor Howard,,
+862,Stuart Whitman,,
+863,Marcello Mastroianni,,
+864,Peter O'Toole,,
+865,Albert Finney,,
+866,Richard Harris,,
+867,Rex Harrison,,
+868,Peter Sellers,,
+869,Rod Steiger,,
+870,Oskar Werner,,
+871,Alan Arkin,,
+872,Michael Caine,,
+873,Dustin Hoffman,,
+874,Alan Bates,,
+875,Ron Moody,,
+876,Jon Voight,,
+877,Melvyn Douglas,,
+878,James Earl Jones,,
+879,Jack Nicholson,,
+880,Ryan O'Neal,,
+881,Peter Finch,,
+882,Walter Matthau,,
+883,George C. Scott,,
+884,Topol,,
+885,Paul Winfield,,
+886,Al Pacino,,
+887,Maximilian Schell,,
+888,James Whitmore,,
+889,Robert De Niro,,
+890,Giancarlo Giannini,,
+891,Sylvester Stallone,,
+892,John Travolta,,
+893,Gary Busey,,
+894,Roy Scheider,,
+895,Raging Bull,,129.0
+896,Robert Duvall,,
+897,John Hurt,,
+898,Dudley Moore,,
+899,Tom Conti,,
+900,Tom Courtenay,,
+901,Jeff Bridges,,
+902,Tom Hulce,,
+903,Sam Waterston,,
+904,Harrison Ford,,
+905,James Garner,,
+906,Dexter Gordon,,
+907,Bob Hoskins,,
+908,William Hurt,,
+909,James Woods,,
+910,Robin Williams,,
+911,Gene Hackman,,
+912,Tom Hanks,,
+913,Edward James Olmos,,
+914,Max von Sydow,,
+915,Morgan Freeman,,
+916,Reversal of Fortune,,111.0
+917,Kevin Costner,,
+918,Gérard Depardieu,,
+919,Nick Nolte,,
+920,Robert Downey Jr.,,
+921,Stephen Rea,,
+922,Denzel Washington,,
+923,Daniel Day-Lewis,,
+924,Laurence Fishburne,,
+925,Anthony Hopkins,,
+926,Liam Neeson,,
+927,Nigel Hawthorne,,
+928,Richard Dreyfuss,,
+929,Sean Penn,,
+930,Massimo Troisi,,
+931,Ralph Fiennes,,
+932,Woody Harrelson,,
+933,Billy Bob Thornton,,
+934,Peter Fonda,,
+935,Ian McKellen,,
+936,Edward Norton,,
+937,Russell Crowe,,
+938,Richard Farnsworth,,
+939,Javier Bardem,,
+940,Ed Harris,,
+941,Geoffrey Rush,,
+942,Will Smith,,
+943,Tom Wilkinson,,
+944,Nicolas Cage,,
+945,Johnny Depp,,
+946,Ben Kingsley,,
+947,Jude Law,,
+948,Bill Murray,,
+949,Don Cheadle,,
+950,Leonardo DiCaprio,,
+951,Terrence Howard,,
+952,Heath Ledger,,
+953,Joaquin Phoenix,,
+954,David Strathairn,,
+955,Ryan Gosling,,
+956,Tommy Lee Jones,,
+957,Viggo Mortensen,,
+958,Richard Jenkins,,
+959,Frank Langella,,
+960,Mickey Rourke,,
+961,Colin Firth,,
+962,Jeremy Renner,,
+963,Jesse Eisenberg,,
+964,James Franco,,
+965,Demián Bichir,,
+966,Gary Oldman,,
+967,Hugh Jackman,,
+968,Christian Bale,,
+969,Bruce Dern,,
+970,Chiwetel Ejiofor,,
+971,Steve Carell,,
+972,Benedict Cumberbatch,,
+973,Michael Keaton,,
+974,Bryan Cranston,,
+975,Michael Fassbender,,
+976,Eddie Redmayne,,
+977,Andrew Garfield,,
+978,Timothée Chalamet,,
+979,Daniel Kaluuya,,
+980,Willem Dafoe,,
+981,Antonio Banderas,,
+982,Adam Driver,,
+983,Jonathan Pryce,,
+984,The Father,,97.0
+985,Riz Ahmed,,
+986,Chadwick Boseman,,
+987,Steven Yeun,,
+988,Austin Butler,,
+989,Colin Farrell,,
+990,Paul Mescal,,
+991,Bill Nighy,,
+992,Colman Domingo,,
+993,Paul Giamatti,,
+994,Jeffrey Wright,,
+995,Sebastian Stan,,
+996,Nancy Carroll,,
+997,Ruth Chatterton,,
+998,Greta Garbo,,
+999,Madame Rita Cavallini,,
+1000,Norma Shearer,,
+1001,Gloria Swanson,,
+1002,Marlene Dietrich,,
+1003,Irene Dunne,,
+1004,Ann Harding,,
+1005,Marie Dressler,,
+1006,Lynn Fontanne,,
+1007,May Robson,,
+1008,Diana Wynyard,,
+1009,Bette Davis,,
+1010,Grace Moore,,
+1011,Elisabeth Bergner,,
+1012,Claudette Colbert,,
+1013,Katharine Hepburn,,
+1014,Miriam Hopkins,,
+1015,Merle Oberon,,
+1016,Gladys George,,
+1017,Carole Lombard,,
+1018,Janet Gaynor,,
+1019,Barbara Stanwyck,,
+1020,Fay Bainter,,
+1021,Wendy Hiller,,
+1022,Margaret Sullavan,,
+1023,Greer Garson,,
+1024,Joan Fontaine,,
+1025,Martha Scott,,
+1026,Olivia de Havilland,,
+1027,Rosalind Russell,,
+1028,Teresa Wright,,
+1029,Jean Arthur,,
+1030,Ingrid Bergman,,
+1031,Jennifer Jones,,
+1032,Gene Tierney,,
+1033,Celia Johnson,,
+1034,Jane Wyman,,
+1035,Joan Crawford,,
+1036,Susan Hayward,,
+1037,Dorothy McGuire,,
+1038,Jeanne Crain,,
+1039,Deborah Kerr,,
+1040,Loretta Young,,
+1041,Anne Baxter,,
+1042,Eleanor Parker,,
+1043,Shelley Winters,,
+1044,Julie Harris,,
+1045,Leslie Caron,,
+1046,Ava Gardner,,
+1047,Maggie McNamara,,
+1048,Dorothy Dandridge,,
+1049,Judy Garland,,
+1050,Audrey Hepburn,,
+1051,Carroll Baker,,
+1052,Nancy Kelly,,
+1053,Anna Magnani,,
+1054,Elizabeth Taylor,,
+1055,Lana Turner,,
+1056,Shirley MacLaine,,
+1057,Doris Day,,
+1058,BUtterfield 8,,109.0
+1059,Melina Mercouri,,
+1060,Piper Laurie,,
+1061,Geraldine Page,,
+1062,Natalie Wood,,
+1063,Lee Remick,,
+1064,Rachel Roberts,,
+1065,Anne Bancroft,,
+1066,Sophia Loren,,
+1067,Debbie Reynolds,,
+1068,Kim Stanley,,
+1069,Julie Andrews,,
+1070,Samantha Eggar,,
+1071,Elizabeth Hartman,,
+1072,Simone Signoret,,
+1073,Anouk Aimée,,
+1074,Ida Kamińska,,
+1075,Lynn Redgrave,,
+1076,Vanessa Redgrave,,
+1077,Faye Dunaway,,
+1078,Edith Evans,,
+1079,Patricia Neal,,
+1080,Joanne Woodward,,
+1081,Geneviève Bujold,,
+1082,Jane Fonda,,
+1083,Liza Minnelli,,
+1084,Jean Simmons,,
+1085,Women in Love,,131.0
+1086,Jane Alexander,,
+1087,Ali MacGraw,,
+1088,Sarah Miles,,
+1089,Carrie Snodgress,,
+1090,Julie Christie,,
+1091,Glenda Jackson,,
+1092,Janet Suzman,,
+1093,Diana Ross,,
+1094,Maggie Smith,,
+1095,Cicely Tyson,,
+1096,Liv Ullmann,,
+1097,Ellen Burstyn,,
+1098,Marsha Mason,,
+1099,Diahann Carroll,,
+1100,Valerie Perrine,,
+1101,Gena Rowlands,,
+1102,Isabelle Adjani,,
+1103,Ann-Margret,,
+1104,Carol Kane,,
+1105,Marie-Christine Barrault,,
+1106,Talia Shire,,
+1107,Sissy Spacek,,
+1108,Jill Clayburgh,,
+1109,Bette Midler,,
+1110,Coal Miner's Daughter,,124.0
+1111,Goldie Hawn,,
+1112,Mary Tyler Moore,,
+1113,Diane Keaton,,
+1114,Susan Sarandon,,
+1115,Meryl Streep,,
+1116,Jessica Lange,,
+1117,Debra Winger,,
+1118,Julie Walters,,
+1119,Judy Davis,,
+1120,Whoopi Goldberg,,
+1121,Kathleen Turner,,
+1122,Sigourney Weaver,,
+1123,Glenn Close,,
+1124,Holly Hunter,,
+1125,Sally Kirkland,,
+1126,Melanie Griffith,,
+1127,Pauline Collins,,
+1128,Michelle Pfeiffer,,
+1129,Misery,,107.0
+1130,Anjelica Huston,,
+1131,Julia Roberts,,
+1132,Geena Davis,,
+1133,Laura Dern,,
+1134,Catherine Deneuve,,
+1135,Mary McDonnell,,
+1136,Angela Bassett,,
+1137,Stockard Channing,,
+1138,Emma Thompson,,
+1139,Jodie Foster,,
+1140,Miranda Richardson,,
+1141,Winona Ryder,,
+1142,Elisabeth Shue,,
+1143,Sharon Stone,,
+1144,Brenda Blethyn,,
+1145,Kristin Scott Thomas,,
+1146,Emily Watson,,
+1147,Helena Bonham Carter,,
+1148,Judi Dench,,
+1149,Kate Winslet,,
+1150,Cate Blanchett,,
+1151,Fernanda Montenegro,,
+1152,Annette Bening,,
+1153,Janet McTeer,,
+1154,Julianne Moore,,
+1155,Erin Brockovich,,130.0
+1156,Joan Allen,,
+1157,Juliette Binoche,,
+1158,Laura Linney,,
+1159,Nicole Kidman,,
+1160,Renée Zellweger,,
+1161,Salma Hayek,,
+1162,Diane Lane,,
+1163,Keisha Castle-Hughes,,
+1164,Samantha Morton,,
+1165,Naomi Watts,,
+1166,Catalina Sandino Moreno,,
+1167,Imelda Staunton,,
+1168,Felicity Huffman,,
+1169,Keira Knightley,,
+1170,Charlize Theron,,
+1171,Penélope Cruz,,
+1172,Elliot Page,,
+1173,Anne Hathaway,,
+1174,Angelina Jolie,,
+1175,Melissa Leo,,
+1176,Helen Mirren,,
+1177,Carey Mulligan,,
+1178,Gabourey Sidibe,,
+1179,Black Swan,,108.0
+1180,Jennifer Lawrence,,
+1181,Michelle Williams,,
+1182,Viola Davis,,
+1183,Rooney Mara,,
+1184,Jessica Chastain,,
+1185,Emmanuelle Riva,,
+1186,Quvenzhané Wallis,,
+1187,Amy Adams,,
+1188,Sandra Bullock,,
+1189,Marion Cotillard,,
+1190,Felicity Jones,,
+1191,Rosamund Pike,,
+1192,Reese Witherspoon,,
+1193,Charlotte Rampling,,
+1194,Saoirse Ronan,,
+1195,Isabelle Huppert,,
+1196,Ruth Negga,,
+1197,Natalie Portman,,
+1198,Sally Hawkins,,
+1199,Margot Robbie,,
+1200,Yalitza Aparicio,,
+1201,Lady Gaga,,
+1202,Melissa McCarthy,,
+1203,Cynthia Erivo,,
+1204,Scarlett Johansson,,
+1205,Andra Day,,
+1206,Vanessa Kirby,,
+1207,Olivia Colman,,
+1208,Kristen Stewart,,
+1209,Ana de Armas,,
+1210,Andrea Riseborough,,
+1211,Lily Gladstone,,
+1212,Sandra Hüller,,
+1213,Karla Sofía Gascón,,
+1214,Demi Moore,,
+1215,Fernanda Torres,,
+1216,Come and Get It,,99.0
+1217,Mischa Auer,,
+1218,Stuart Erwin,,
+1219,Basil Rathbone,,
+1220,Akim Tamiroff,,
+1221,Ralph Bellamy,,
+1222,Thomas Mitchell,,
+1223,H. B. Warner,,
+1224,Roland Young,,
+1225,Gene Lockhart,,
+1226,Robert Morley,,
+1227,Brian Aherne,,
+1228,Harry Carey Sr.,,
+1229,Brian Donlevy,,
+1230,Claude Rains,,
+1231,The Westerner,,100.0
+1232,Albert Bassermann,,
+1233,William Gargan,,
+1234,Jack Oakie,,
+1235,James Stephenson,,
+1236,Walter Brennan,,
+1237,Charles Coburn,,
+1238,James Gleason,,
+1239,Sydney Greenstreet,,
+1240,William Bendix,,
+1241,Frank Morgan,,
+1242,Henry Travers,,
+1243,Charles Bickford,,
+1244,J. Carrol Naish,,
+1245,Hume Cronyn,,
+1246,Michael Chekhov,,
+1247,John Dall,,
+1248,Robert Mitchum,,
+1249,William Demarest,,
+1250,Thomas Gomez,,
+1251,Robert Ryan,,
+1252,Richard Widmark,,
+1253,Oskar Homolka,,
+1254,Cecil Kellaway,,
+1255,John Ireland,,
+1256,Ralph Richardson,,
+1257,Jeff Chandler,,
+1258,Edmund Gwenn,,
+1259,Sam Jaffe,,
+1260,Erich von Stroheim,,
+1261,Leo Genn,,
+1262,Kevin McCarthy,,
+1263,Peter Ustinov,,
+1264,Gig Young,,
+1265,Arthur Hunnicutt,,
+1266,Jack Palance,,
+1267,Eddie Albert,,
+1268,Brandon deWilde,,
+1269,Robert Strauss,,
+1270,Lee J. Cobb,,
+1271,Karl Malden,,
+1272,Tom Tully,,
+1273,Joe Mantell,,
+1274,Sal Mineo,,
+1275,Arthur O'Connell,,
+1276,Don Murray,,
+1277,Anthony Perkins,,
+1278,Robert Stack,,
+1279,Vittorio De Sica,,
+1280,Sessue Hayakawa,,
+1281,Russ Tamblyn,,
+1282,Theodore Bikel,,
+1283,Robert Vaughn,,
+1284,Ed Wynn,,
+1285,Spartacus,,197.0
+1286,Peter Falk,,
+1287,Jack Kruschen,,
+1288,Chill Wills,,
+1289,Jackie Gleason,,
+1290,Victor Buono,,
+1291,Telly Savalas,,
+1292,Omar Sharif,,
+1293,Terence Stamp,,
+1294,Nick Adams,,
+1295,Bobby Darin,,
+1296,Hugh Griffith,,
+1297,John Gielgud,,
+1298,Stanley Holloway,,
+1299,Edmond O'Brien,,
+1300,Lee Tracy,,
+1301,Ian Bannen,,
+1302,Michael Dunn,,
+1303,Frank Finlay,,
+1304,Mako,,
+1305,George Segal,,
+1306,Robert Shaw,,
+1307,Michael J. Pollard,,
+1308,Seymour Cassel,,
+1309,Daniel Massey,,
+1310,Jack Wild,,
+1311,Gene Wilder,,
+1312,Rupert Crosse,,
+1313,Elliott Gould,,
+1314,Anthony Quayle,,
+1315,Ryan's Daughter,,195.0
+1316,Richard S. Castellano,,
+1317,Chief Dan George,,
+1318,John Marley,,
+1319,Leonard Frey,,
+1320,Richard Jaeckel,,
+1321,James Caan,,
+1322,Vincent Gardenia,,
+1323,Jack Gilford,,
+1324,Jason Miller,,
+1325,Randy Quaid,,
+1326,Fred Astaire,,
+1327,Michael V. Gazzo,,
+1328,Lee Strasberg,,
+1329,Brad Dourif,,
+1330,Burgess Meredith,,
+1331,Chris Sarandon,,
+1332,Jack Warden,,
+1333,Ned Beatty,,
+1334,Burt Young,,
+1335,Mikhail Baryshnikov,,
+1336,Peter Firth,,
+1337,Frederic Forrest,,
+1338,Justin Henry,,
+1339,Judd Hirsch,,
+1340,Michael O'Keefe,,
+1341,Joe Pesci,,
+1342,Jason Robards,,
+1343,James Coco,,
+1344,Ian Holm,,
+1345,Howard Rollins,,
+1346,Charles Durning,,
+1347,John Lithgow,,
+1348,Robert Preston,,
+1349,Sam Shepard,,
+1350,Rip Torn,,
+1351,Adolph Caesar,,
+1352,John Malkovich,,
+1353,Pat Morita,,
+1354,Klaus Maria Brandauer,,
+1355,William Hickey,,
+1356,Robert Loggia,,
+1357,Eric Roberts,,
+1358,Tom Berenger,,
+1359,Denholm Elliott,,
+1360,Dennis Hopper,,
+1361,Albert Brooks,,
+1362,Martin Landau,,
+1363,River Phoenix,,
+1364,Dean Stockwell,,
+1365,Danny Aiello,,
+1366,Dan Aykroyd,,
+1367,GoodFellas,,146.0
+1368,Bruce Davison,,
+1369,Andy García,,
+1370,Graham Greene,,
+1371,Harvey Keitel,,
+1372,Michael Lerner,,
+1373,Jaye Davidson,,
+1374,David Paymer,,
+1375,Pete Postlethwaite,,
+1376,Samuel L. Jackson,,
+1377,Chazz Palminteri,,
+1378,Paul Scofield,,
+1379,Gary Sinise,,
+1380,James Cromwell,,
+1381,Tim Roth,,
+1382,William H. Macy,,
+1383,Armin Mueller-Stahl,,
+1384,Robert Forster,,
+1385,Greg Kinnear,,
+1386,Burt Reynolds,,
+1387,Michael Clarke Duncan,,
+1388,Haley Joel Osment,,
+1389,Ethan Hawke,,
+1390,John C. Reilly,,
+1391,Christopher Walken,,
+1392,Alec Baldwin,,
+1393,Benicio del Toro,,
+1394,Djimon Hounsou,,
+1395,Ken Watanabe,,
+1396,Alan Alda,,
+1397,Thomas Haden Church,,
+1398,Jamie Foxx,,
+1399,Clive Owen,,
+1400,Matt Dillon,,
+1401,Jake Gyllenhaal,,
+1402,Jackie Earle Haley,,
+1403,Eddie Murphy,,
+1404,Mark Wahlberg,,
+1405,Casey Affleck,,
+1406,Philip Seymour Hoffman,,
+1407,Hal Holbrook,,
+1408,Josh Brolin,,
+1409,Michael Shannon,,
+1410,Christopher Plummer,,
+1411,Stanley Tucci,,
+1412,The Fighter,,116.0
+1413,John Hawkes,,
+1414,Mark Ruffalo,,
+1415,Jonah Hill,,
+1416,Barkhad Abdi,,
+1417,Tom Hardy,,
+1418,Lucas Hedges,,
+1419,Dev Patel,,
+1420,Sam Elliott,,
+1421,Richard E. Grant,,
+1422,Sam Rockwell,,
+1423,Judas and the Black Messiah,,126.0
+1424,Sacha Baron Cohen,,
+1425,Leslie Odom Jr.,,
+1426,Paul Raci,,
+1427,LaKeith Stanfield,,
+1428,Ciarán Hinds,,
+1429,Jesse Plemons,,
+1430,J. K. Simmons,,
+1431,Kodi Smit-McPhee,,
+1432,Brendan Gleeson,,
+1433,Brian Tyree Henry,,
+1434,Barry Keoghan,,
+1435,Sterling K. Brown,,
+1436,Yura Borisov,,
+1437,Guy Pearce,,
+1438,Jeremy Strong,,
+1439,Beulah Bondi,,
+1440,Alice Brady,,
+1441,Bonita Granville,,
+1442,Maria Ouspenskaya,,
+1443,Andrea Leeds,,
+1444,Anne Shirley,,
+1445,Claire Trevor,,
+1446,May Whitty,,
+1447,Billie Burke,,
+1448,Spring Byington,,
+1449,Miliza Korjus,,
+1450,Geraldine Fitzgerald,,
+1451,Edna May Oliver,,
+1452,Judith Anderson,,
+1453,Ruth Hussey,,
+1454,Barbara O'Neil,,
+1455,Marjorie Rambeau,,
+1456,Sara Allgood,,
+1457,Patricia Collinge,,
+1458,Margaret Wycherly,,
+1459,Gladys Cooper,,
+1460,Agnes Moorehead,,
+1461,Susan Peters,,
+1462,Paulette Goddard,,
+1463,Anne Revere,,
+1464,Lucile Watson,,
+1465,Angela Lansbury,,
+1466,Aline MacMahon,,
+1467,Eve Arden,,
+1468,Ann Blyth,,
+1469,Joan Lorring,,
+1470,Ethel Barrymore,,
+1471,Lillian Gish,,
+1472,Flora Robson,,
+1473,Gale Sondergaard,,
+1474,Gloria Grahame,,
+1475,Marjorie Main,,
+1476,Barbara Bel Geddes,,
+1477,Ellen Corby,,
+1478,Celeste Holm,,
+1479,Elsa Lanchester,,
+1480,Ethel Waters,,
+1481,Harvey,,104.0
+1482,Hope Emerson,,
+1483,Nancy Olson,,
+1484,Thelma Ritter,,
+1485,Joan Blondell,,
+1486,Mildred Dunnock,,
+1487,Lee Grant,,
+1488,Jean Hagen,,
+1489,Colette Marchand,,
+1490,Terry Moore,,
+1491,Grace Kelly,,
+1492,Nina Foch,,
+1493,Katy Jurado,,
+1494,Jan Sterling,,
+1495,Betsy Blair,,
+1496,Peggy Lee,,
+1497,Marisa Pavan,,
+1498,Eileen Heckart,,
+1499,Mercedes McCambridge,,
+1500,Patty McCormack,,
+1501,Carolyn Jones,,
+1502,Hope Lange,,
+1503,Diane Varsi,,
+1504,Peggy Cass,,
+1505,Martha Hyer,,
+1506,Maureen Stapleton,,
+1507,Cara Williams,,
+1508,Hermione Baddeley,,
+1509,Susan Kohner,,
+1510,Juanita Moore,,
+1511,Glynis Johns,,
+1512,Shirley Knight,,
+1513,Janet Leigh,,
+1514,Mary Ure,,
+1515,Lotte Lenya,,
+1516,Una Merkel,,
+1517,Mary Badham,,
+1518,Diane Cilento,,
+1519,Joyce Redman,,
+1520,Lilia Skala,,
+1521,Grayson Hall,,
+1522,Ruth Gordon,,
+1523,Peggy Wood,,
+1524,Jocelyne LaGarde,,
+1525,Vivien Merchant,,
+1526,Carol Channing,,
+1527,Mildred Natwick,,
+1528,Beah Richards,,
+1529,Katharine Ross,,
+1530,Lynn Carlin,,
+1531,Sondra Locke,,
+1532,Kay Medford,,
+1533,Estelle Parsons,,
+1534,Catherine Burns,,
+1535,Dyan Cannon,,
+1536,Sylvia Miles,,
+1537,Susannah York,,
+1538,Airport,,137.0
+1539,Karen Black,,
+1540,Sally Kellerman,,
+1541,Barbara Harris,,
+1542,Margaret Leighton,,
+1543,Jeannie Berlin,,
+1544,Susan Tyrrell,,
+1545,Linda Blair,,
+1546,Candy Clark,,
+1547,Madeline Kahn,,
+1548,Sylvia Sidney,,
+1549,Valentina Cortese,,
+1550,Diane Ladd,,
+1551,Ronee Blakley,,
+1552,Lily Tomlin,,
+1553,Brenda Vaccaro,,
+1554,Leslie Browne,,
+1555,Quinn Cummings,,
+1556,Melinda Dillon,,
+1557,Tuesday Weld,,
+1558,Penelope Milford,,
+1559,Barbara Barrie,,
+1560,Candice Bergen,,
+1561,Mariel Hemingway,,
+1562,Melvin and Howard,,95.0
+1563,Eileen Brennan,,
+1564,Eva Le Gallienne,,
+1565,Cathy Moriarty,,
+1566,Diana Scarwid,,
+1567,Joan Hackett,,
+1568,Elizabeth McGovern,,
+1569,Teri Garr,,
+1570,Lesley Ann Warren,,
+1571,Cher,,
+1572,Amy Irving,,
+1573,Alfre Woodard,,
+1574,Lindsay Crouse,,
+1575,Christine Lahti,,
+1576,Margaret Avery,,
+1577,Amy Madigan,,
+1578,Meg Tilly,,
+1579,Oprah Winfrey,,
+1580,Tess Harper,,
+1581,Mary Elizabeth Mastrantonio,,
+1582,Norma Aleandro,,
+1583,Anne Archer,,
+1584,Anne Ramsey,,
+1585,Ann Sothern,,
+1586,Joan Cusack,,
+1587,Frances McDormand,,
+1588,Lena Olin,,
+1589,Dianne Wiest,,
+1590,Ghost,,127.0
+1591,Lorraine Bracco,,
+1592,Juliette Lewis,,
+1593,Kate Nelligan,,
+1594,Jessica Tandy,,
+1595,Joan Plowright,,
+1596,Rosie Perez,,
+1597,Rosemary Harris,,
+1598,Uma Thurman,,
+1599,Jennifer Tilly,,
+1600,Kathleen Quinlan,,
+1601,Mare Winningham,,
+1602,Lauren Bacall,,
+1603,Barbara Hershey,,
+1604,Marianne Jean-Baptiste,,
+1605,Minnie Driver,,
+1606,Gloria Stuart,,
+1607,Kathy Bates,,
+1608,Rachel Griffiths,,
+1609,Toni Collette,,
+1610,Catherine Keener,,
+1611,Chloë Sevigny,,
+1612,Pollock,,122.0
+1613,Kate Hudson,,
+1614,Marisa Tomei,,
+1615,Queen Latifah,,
+1616,Shohreh Aghdashloo,,
+1617,Patricia Clarkson,,
+1618,Marcia Gay Harden,,
+1619,Virginia Madsen,,
+1620,Sophie Okonedo,,
+1621,Adriana Barraza,,
+1622,Abigail Breslin,,
+1623,Rinko Kikuchi,,
+1624,Ruby Dee,,
+1625,Amy Ryan,,
+1626,Taraji P. Henson,,
+1627,Vera Farmiga,,
+1628,Maggie Gyllenhaal,,
+1629,Anna Kendrick,,
+1630,Hailee Steinfeld,,
+1631,Jacki Weaver,,
+1632,Bérénice Bejo,,
+1633,Sally Field,,
+1634,Helen Hunt,,
+1635,June Squibb,,
+1636,Emma Stone,,
+1637,Jennifer Jason Leigh,,
+1638,Rachel McAdams,,
+1639,Naomie Harris,,
+1640,Octavia Spencer,,
+1641,Mary J. Blige,,
+1642,Lesley Manville,,
+1643,Laurie Metcalf,,
+1644,Marina de Tavira,,
+1645,Rachel Weisz,,
+1646,Florence Pugh,,
+1647,Minari,,115.0
+1648,Maria Bakalova,,
+1649,Amanda Seyfried,,
+1650,Jessie Buckley,,
+1651,Kirsten Dunst,,
+1652,Aunjanue Ellis-Taylor,,
+1653,Hong Chau,,
+1654,Kerry Condon,,
+1655,Stephanie Hsu,,
+1656,Emily Blunt,,
+1657,Danielle Brooks,,
+1658,America Ferrera,,
+1659,Monica Barbaro,,
+1660,Ariana Grande,,
+1661,Isabella Rossellini,,
+1662,Preston Sturges,,
+1663,Angels Over Broadway,,79.0
+1664,Dr. Ehrlich's Magic Bullet,,103.0
+1665,The Devil and Miss Jones,,92.0
+1666,"Tall, Dark and Handsome",,78.0
+1667,"Tom, Dick and Harry",,87.0
+1668,One of Our Aircraft Is Missing,,102.0
+1669,Road to Morocco,,82.0
+1670,The War Against Mrs. Hadley,,86.0
+1671,Air Force,,124.0
+1672,The North Star,,106.0
+1673,So Proudly We Hail!,,126.0
+1674,Hail the Conquering Hero,,101.0
+1675,Two Girls and a Sailor,,124.0
+1676,Wing and a Prayer,,97.0
+1677,Dillinger,,70.0
+1678,Music for Millions,,115.0
+1679,Salty O'Rourke,,100.0
+1680,"What Next, Corporal Hargrove?",,95.0
+1681,The Blue Dahlia,,100.0
+1682,Children of Paradise,,190.0
+1683,Notorious,,101.0
+1684,Road to Utopia,,90.0
+1685,Body and Soul,,104.0
+1686,A Double Life,,104.0
+1687,Monsieur Verdoux,,124.0
+1688,Shoeshine,,93.0
+1689,Jolson Sings Again,,96.0
+1690,Paisan,,126.0
+1691,Passport to Pimlico,,84.0
+1692,The Quiet One,,65.0
+1693,Charles Brackett,,
+1694,Adam's Rib,,101.0
+1695,Caged,,96.0
+1696,The Men,,87.0
+1697,No Way Out,,107.0
+1698,Ace in the Hole,,111.0
+1699,David and Bathsheba,,116.0
+1700,Go for Broke!,,92.0
+1701,The Well,,86.0
+1702,The Atomic City,,85.0
+1703,Breaking the Sound Barrier,,117.0
+1704,Pat and Mike,,95.0
+1705,Viva Zapata!,,113.0
+1706,The Band Wagon,,111.0
+1707,The Desert Rats,,88.0
+1708,The Naked Spur,,91.0
+1709,Take the High Ground!,,101.0
+1710,The Barefoot Contessa,,130.0
+1711,Genevieve,,86.0
+1712,The Glenn Miller Story,,116.0
+1713,Knock on Wood,,103.0
+1714,The Court-Martial of Billy Mitchell,,100.0
+1715,It's Always Fair Weather,,102.0
+1716,Mr. Hulot's Holiday,,98.0
+1717,The Seven Little Foys,,93.0
+1718,The Bold and the Brave,,87.0
+1719,Julie,,99.0
+1720,La Strada,,108.0
+1721,The Ladykillers,,91.0
+1722,Funny Face,,103.0
+1723,Man of a Thousand Faces,,122.0
+1724,The Tin Star,,93.0
+1725,I Vitelloni,,108.0
+1726,The Goddess,,105.0
+1727,Houseboat,,109.0
+1728,The Sheepman,,85.0
+1729,Teacher's Pet,,120.0
+1730,The 400 Blows,,99.0
+1731,North by Northwest,,136.0
+1732,Operation Petticoat,,124.0
+1733,Wild Strawberries,,91.0
+1734,I. A. L. Diamond,,
+1735,The Angry Silence,,95.0
+1736,The Facts of Life,,103.0
+1737,"Hiroshima, Mon Amour",,90.0
+1738,Never on Sunday,,91.0
+1739,Ballad of a Soldier,,88.0
+1740,General Della Rovere,,137.0
+1741,La Dolce Vita,,174.0
+1742,Lover Come Back,,107.0
+1743,Freud,,140.0
+1744,Last Year at Marienbad,,94.0
+1745,That Touch of Mink,,99.0
+1746,Through a Glass Darkly,,90.0
+1747,America America,,174.0
+1748,8½,,138.0
+1749,The Four Days of Naples,,124.0
+1750,Love with the Proper Stranger,,102.0
+1751,A Hard Day's Night,,87.0
+1752,"One Potato, Two Potato",,83.0
+1753,The Organizer,,128.0
+1754,That Man from Rio,,110.0
+1755,Casanova 70,,113.0
+1756,Those Magnificent Men in Their Flying Machines,,138.0
+1757,The Train,,133.0
+1758,The Umbrellas of Cherbourg,,91.0
+1759,Blowup,,111.0
+1760,The Fortune Cookie,,125.0
+1761,Khartoum,,134.0
+1762,The Naked Prey,,96.0
+1763,Bonnie and Clyde,,111.0
+1764,Divorce American Style,,109.0
+1765,La Guerre Est Finie,,121.0
+1766,Two for the Road,,111.0
+1767,The Battle of Algiers,,136.0
+1768,Faces,,183.0
+1769,Hot Millions,,106.0
+1770,2001: A Space Odyssey,,139.0
+1771,Bob & Carol & Ted & Alice,,105.0
+1772,The Damned,,154.0
+1773,Easy Rider,,96.0
+1774,The Wild Bunch,,145.0
+1775,Five Easy Pieces,,98.0
+1776,Joe,,107.0
+1777,Love Story,,101.0
+1778,My Night at Maud's,,110.0
+1779,Investigation of a Citizen Above Suspicion,,115.0
+1780,Klute,,114.0
+1781,Summer of '42,,104.0
+1782,Sunday Bloody Sunday,,110.0
+1783,The Discreet Charm of the Bourgeoisie,,101.0
+1784,Lady Sings the Blues,,144.0
+1785,Murmur of the Heart,,118.0
+1786,Young Winston,,157.0
+1787,American Graffiti,,112.0
+1788,Cries and Whispers,,91.0
+1789,Save the Tiger,,100.0
+1790,A Touch of Class,,106.0
+1791,Alice Doesn't Live Here Anymore,,112.0
+1792,The Conversation,,113.0
+1793,Day for Night,,116.0
+1794,Harry and Tonto,,115.0
+1795,Amarcord,,124.0
+1796,And Now My Love,,150.0
+1797,Lies My Father Told Me,,102.0
+1798,Shampoo,,110.0
+1799,"Cousin, Cousine",,95.0
+1800,The Front,,95.0
+1801,Rocky,,119.0
+1802,Seven Beauties,,115.0
+1803,The Goodbye Girl,,110.0
+1804,The Late Show,,93.0
+1805,Star Wars,,121.0
+1806,The Turning Point,,119.0
+1807,Autumn Sonata,,99.0
+1808,The Deer Hunter,,184.0
+1809,Interiors,,92.0
+1810,An Unmarried Woman,,125.0
+1811,All That Jazz,,123.0
+1812,...And Justice for All.,,119.0
+1813,The China Syndrome,,122.0
+1814,Manhattan,,96.0
+1815,Bo Goldman,,
+1816,Brubaker,,131.0
+1817,Fame,,133.0
+1818,Mon oncle d'Amérique,,126.0
+1819,Private Benjamin,,109.0
+1820,Absence of Malice,,116.0
+1821,Arthur,,97.0
+1822,Atlantic City,,104.0
+1823,Reds,,195.0
+1824,Diner,,110.0
+1825,E.T. the Extra-Terrestrial,,114.0
+1826,An Officer and a Gentleman,,124.0
+1827,Tootsie,,116.0
+1828,The Big Chill,,105.0
+1829,Fanny and Alexander,,312.0
+1830,Silkwood,,131.0
+1831,WarGames,,114.0
+1832,Beverly Hills Cop,,105.0
+1833,Broadway Danny Rose,,84.0
+1834,El Norte,,139.0
+1835,Splash,,111.0
+1836,Back to the Future,,116.0
+1837,Brazil,,91.0
+1838,The Official Story,,112.0
+1839,The Purple Rose of Cairo,,82.0
+1840,Crocodile Dundee,,104.0
+1841,My Beautiful Laundrette,,97.0
+1842,Platoon,,120.0
+1843,Salvador,,123.0
+1844,"Au Revoir Les Enfants (Goodbye, Children)",,104.0
+1845,Broadcast News,,133.0
+1846,Hope and Glory,,113.0
+1847,Radio Days,,85.0
+1848,Big,,104.0
+1849,Bull Durham,,108.0
+1850,A Fish Called Wanda,,108.0
+1851,Running on Empty,,116.0
+1852,Crimes and Misdemeanors,,104.0
+1853,Do the Right Thing,,120.0
+1854,"Sex, Lies, and Videotape",,100.0
+1855,When Harry Met Sally...,,95.0
+1856,Bruce Joel Rubin,,
+1857,Alice,,106.0
+1858,Avalon,,126.0
+1859,Green Card,,107.0
+1860,Metropolitan,,98.0
+1861,Boyz n the Hood,,112.0
+1862,Bugsy,,137.0
+1863,The Fisher King,,137.0
+1864,Grand Canyon,,137.0
+1865,Husbands and Wives,,108.0
+1866,Lorenzo's Oil,,125.0
+1867,Passion Fish,,135.0
+1868,Unforgiven,,131.0
+1869,Dave,,110.0
+1870,In the Line of Fire,,128.0
+1871,Philadelphia,,126.0
+1872,Sleepless in Seattle,,105.0
+1873,Bullets Over Broadway,,98.0
+1874,Four Weddings and a Funeral,,117.0
+1875,Heavenly Creatures,,99.0
+1876,Three Colours: Red,,99.0
+1877,Braveheart,,178.0
+1878,Mighty Aphrodite,,95.0
+1879,Nixon,,192.0
+1880,Toy Story,,81.0
+1881,Jerry Maguire,,139.0
+1882,Lone Star,,135.0
+1883,Secrets & Lies,,136.0
+1884,Shine,,105.0
+1885,As Good as It Gets,,139.0
+1886,Boogie Nights,,155.0
+1887,Deconstructing Harry,,96.0
+1888,The Full Monty,,91.0
+1889,Bulworth,,108.0
+1890,Life Is Beautiful,,116.0
+1891,Saving Private Ryan,,170.0
+1892,The Truman Show,,103.0
+1893,Being John Malkovich,,113.0
+1894,Magnolia,,188.0
+1895,The Sixth Sense,,107.0
+1896,Topsy-Turvy,,160.0
+1897,Cameron Crowe,,
+1898,Billy Elliot,,110.0
+1899,You Can Count on Me,,111.0
+1900,Amélie,,123.0
+1901,Memento,,113.0
+1902,Monster's Ball,,111.0
+1903,The Royal Tenenbaums,,109.0
+1904,Far from Heaven,,107.0
+1905,Gangs of New York,,168.0
+1906,My Big Fat Greek Wedding,,95.0
+1907,Y Tu Mamá También,,106.0
+1908,The Barbarian Invasions,,99.0
+1909,Dirty Pretty Things,,97.0
+1910,Finding Nemo,,100.0
+1911,In America,,105.0
+1912,The Aviator,,170.0
+1913,Hotel Rwanda,,121.0
+1914,The Incredibles,,115.0
+1915,Vera Drake,,125.0
+1916,"Good Night, and Good Luck",,93.0
+1917,Match Point,,124.0
+1918,The Squid and the Whale,,81.0
+1919,Syriana,,128.0
+1920,Babel,,144.0
+1921,Letters from Iwo Jima,,140.0
+1922,Pan's Labyrinth,,120.0
+1923,The Queen,,103.0
+1924,Lars and the Real Girl,,106.0
+1925,Michael Clayton,,120.0
+1926,Ratatouille,,111.0
+1927,The Savages,,113.0
+1928,Frozen River,,97.0
+1929,Happy-Go-Lucky,,118.0
+1930,In Bruges,,107.0
+1931,WALL-E,,97.0
+1932,Inglourious Basterds,,153.0
+1933,The Messenger,,113.0
+1934,A Serious Man,,106.0
+1935,Up,,96.0
+1936,David Seidler,,
+1937,Another Year,,129.0
+1938,Inception,,148.0
+1939,The Kids Are All Right,,107.0
+1940,The Artist,,100.0
+1941,Bridesmaids,,125.0
+1942,Margin Call,,109.0
+1943,A Separation,,123.0
+1944,Amour,,128.0
+1945,Flight,,138.0
+1946,Moonrise Kingdom,,94.0
+1947,Zero Dark Thirty,,157.0
+1948,American Hustle,,138.0
+1949,Blue Jasmine,,98.0
+1950,Dallas Buyers Club,,117.0
+1951,Nebraska,,115.0
+1952,Boyhood,,165.0
+1953,Foxcatcher,,134.0
+1954,The Grand Budapest Hotel,,100.0
+1955,Nightcrawler,,117.0
+1956,Bridge of Spies,,141.0
+1957,Ex Machina,,108.0
+1958,Inside Out,,95.0
+1959,Straight Outta Compton,,147.0
+1960,Hell or High Water,,102.0
+1961,La La Land,,128.0
+1962,The Lobster,,118.0
+1963,20th Century Women,,118.0
+1964,The Big Sick,,120.0
+1965,Lady Bird,,94.0
+1966,The Shape of Water,,123.0
+1967,"Three Billboards Outside Ebbing, Missouri",,115.0
+1968,The Favourite,,120.0
+1969,First Reformed,,113.0
+1970,Roma,,135.0
+1971,Vice,,132.0
+1972,Knives Out,,130.0
+1973,Marriage Story,,137.0
+1974,1917,,
+1975,Once Upon a Time in Hollywood,,161.0
+1976,Sound of Metal,,120.0
+1977,The Trial of the Chicago 7,,130.0
+1978,Don't Look Up,,138.0
+1979,King Richard,,145.0
+1980,Licorice Pizza,,133.0
+1981,The Worst Person in the World,,128.0
+1982,The Banshees of Inisherin,,114.0
+1983,The Fabelmans,,151.0
+1984,Tár,,158.0
+1985,Triangle of Sadness,,147.0
+1986,The Holdovers,,133.0
+1987,Maestro,,129.0
+1988,May December,,117.0
+1989,Past Lives,,106.0
+1990,The Brutalist,,215.0
+1991,A Real Pain,,90.0
+1992,September 5,,94.0
+1993,The Substance,,141.0
+1994,Frances Marion,,
+1995,The novel,,
+1996,The play,,
+1997,Ursula Parrott,,
+1998,Oliver H.P. Garrett,,
+1999,Howard Estabrook,,
+2000,Martin Flavin,,
+2001,W. R. Burnett,,
+2002,The comic strip,,
+2003,Edwin J. Burke,,
+2004,Strange Case of Dr Jekyll and Mr Hyde,,
+2005,Victor Heerman,,
+2006,Damon Runyon,,
+2007,Robert Riskin,,
+2008,"Viva Villa! A Recovery of the Real Pancho Villa, Peon, Bandit, Soldier, Patriot",,
+2009,Dudley Nichols,,
+2010,The memoir,,
+2011,Pierre Collings,,
+2012,Bud Kelland,,
+2013,The novel 1101 Park Avenue by Hatch,,
+2014,Norman Reilly Raine,,
+2015,The play by Arthur Richman,,
+2016,Captain Courageous: A Story of the Grand Banks,,
+2017,George Bernard Shaw,,
+2018,Eleanore Griffin,,
+2019,Fannie Hurst,,
+2020,Sidney Howard,,
+2021,The novella,,
+2022,Lewis R. Foster,,
+2023,Melchior Lengyel,,
+2024,Donald Ogden Stewart,,
+2025,In the Zone,,
+2026,Sidney Buchman,,
+2027,Ketti Frings,,
+2028,George Froeschel,,
+2029,A story by Pressburger,,
+2030,Paul Gallico,,
+2031,Sidney Harmon,,
+2032,Philip G. Epstein,,
+2033,Buried Alive,,
+2034,A story by Ross & Russell,,
+2035,Frank Butler,,
+2036,Double Indemnity in Three of a Kind,,
+2037,Gas Light,,
+2038,Ernie Pyle,,
+2039,"The book Al Schmid, Marine by Roger Butterfield",,
+2040,Robert E. Sherwood,,
+2041,Still Life,,
+2042,The short story,,
+2043,A story by Amidei & Alberto Consiglio,,
+2044,Anthony Abbot,,
+2045,A story by David Shaw,,
+2046,–,,
+2047,Mary Jane Ward,,
+2048,Luigi Bartolini,,
+2049,Ring Lardner,,
+2050,"The short story ""The Basement Room"" by Greene",,
+2051,Elliott Arnold,,
+2052,Harry Brown,,
+2053,Charles Schnee,,
+2054,Ludwig Carl Moyzisch,,
+2055,John W. Cunningham,,
+2056,A story by MacDougall,,
+2057,Maurice Walsh,,
+2058,Daniel Taradash,,
+2059,Dalton Trumbo,,
+2060,Cornell Woolrich,,
+2061,Sabrina Fair,,
+2062,Stephen Vincent Benét,,
+2063,Paddy Chayefsky,,
+2064,Howard Breslin,,
+2065,Evan Hunter,,
+2066,A story by Fuchs,,
+2067,27 Wagons Full of Cotton,,
+2068,Edna Ferber,,
+2069,Pierre Boulle,,
+2070,The teleplay,,60.0
+2071,Alan Jay Lerner,,
+2072,Edward S. Montgomery,,
+2073,The plays,,
+2074,Neil Paterson,,
+2075,John D. Voelker,,
+2076,Ben-Hur: A Tale of the Christ,,
+2077,Fanfare of Love,,115.0
+2078,Abby Mann,,
+2079,The musical,,
+2080,Horton Foote,,
+2081,Dr. Theodore Isaac Rubin,,
+2082,Seven Pillars of Wisdom,,
+2083,John Osborne,,
+2084,Leo Rosten,,
+2085,"Horseman, Pass By",,
+2086,The novel Les dimanches de Ville d'Avray by Bernard Eschassériaux,,
+2087,Edward Anhalt,,
+2088,Red Alert,,
+2089,The novel series,,
+2090,Robert Bolt,,
+2091,The novel The Ballad of Cat Ballou by Roy Chanslor,,
+2092,The play by Gardner,,
+2093,A Mule for the Marquesa,,
+2094,Nathaniel Benchley,,
+2095,Stirling Silliphant,,
+2096,The book,,
+2097,James Goldman,,
+2098,A Jest of God,,
+2099,Waldo Salt,,
+2100,Maxwell Anderson,,
+2101,Vassilis Vassilikos,,
+2102,Ring Lardner Jr.,,
+2103,The play by Anderson,,
+2104,The play by Bologna & Taylor,,
+2105,Ernest Tidyman,,
+2106,The novel by McMurtry,,
+2107,The Emigrants,,
+2108,Peter De Vries,,
+2109,Darryl Ponicsan,,
+2110,Addie Pray,,
+2111,Peter Maas,,
+2112,The play by Barry,,
+2113,"Frankenstein; or, The Modern Prometheus",,
+2114,The Luck of Barry Lyndon,,
+2115,Giovanni Arpino,,
+2116,William Goldman,,
+2117,History of My Life,,
+2118,"The Seven-Per-Cent Solution: Being a Reprint from the Reminiscences of John H. Watson, M.D.",,
+2119,Gordon Thomas,,
+2120,Alvin Sargent,,
+2121,Avery Corman,,
+2122,The Woman and the Puppet,,
+2123,Harry Segall,,
+2124,Heart of Darkness,,
+2125,Patrick Cauvin,,
+2126,"The book Crystal Lee, a Woman of Inheritance by Hank Leiferman",,
+2127,Breaker Morant: A Play in Two Acts,,
+2128,Loretta Lynn,,
+2129,Frederick Treves,,
+2130,Paul Brodeur,,
+2131,Ernest Thompson,,
+2132,The television series,,
+2133,Robert Daley,,
+2134,Barry Reed,,
+2135,Victor and Victoria,,100.0
+2136,Spofford,,
+2137,Peter Shaffer,,
+2138,Tarzan of the Apes,,
+2139,Sydney Schanberg,,
+2140,A Soldier's Play,,
+2141,Kurt Luedtke,,
+2142,Ruth Prawer Jhabvala,,
+2143,The Body,,
+2144,Diversion,,50.0
+2145,The Short-Timers,,
+2146,The novel Mitt liv som hund by Jönsson,,
+2147,Christopher Hampton,,
+2148,Harold Hayes,,
+2149,Alfred Uhry,,
+2150,Shoeless Joe,,
+2151,Michael Blake,,
+2152,Wiseguy: Life in a Mafia Family,,
+2153,Alan Dershowitz,,
+2154,Ted Tally,,
+2155,Solomon Perel,,
+2156,Fried Green Tomatoes at the Whistle Stop Cafe,,
+2157,On the Trail of the Assassins,,
+2158,The novel by Tolkin,,
+2159,Steven Zaillian,,
+2160,Gerry Conlon,,
+2161,Eric Roth,,
+2162,The Madness of George III,,
+2163,Richard Russo,,
+2164,Richard N. Goodwin,,
+2165,Rita Hayworth and Shawshank Redemption,,
+2166,Lost Moon: The Perilous Voyage of Apollo 13,,
+2167,The Sheep-Pig,,
+2168,Ardiente Paciencia,,
+2169,"The Tragedy of Hamlet, Prince of Denmark",,
+2170,Donnie Brasco: My Undercover Life in the Mafia,,
+2171,American Hero,,
+2172,Bill Condon,,
+2173,Primary Colors: A Novel of Politics,,
+2174,John Irving,,
+2175,Marie Brenner,,
+2176,Stephen Gaghan,,
+2177,Odyssey,,
+2178,Akiva Goldsman,,
+2179,The graphic novel,,
+2180,Killings,,
+2181,The Fellowship of the Ring,,
+2182,The picture book,,
+2183,Ronald Harwood,,
+2184,The Orchid Thief,,
+2185,Philippa Boyens,,
+2186,The comic books,,
+2187,Seabiscuit: An American Legend,,
+2188,Before Sunrise,,101.0
+2189,Allan Knee,,
+2190,F.X. Toole,,
+2191,Alberto Granado,,
+2192,Larry McMurtry,,
+2193,Gerald Clarke,,
+2194,Vengeance,,
+2195,William Monahan,,
+2196,Borat Sagdiyev,,
+2197,Coen Brothers,,
+2198,Alice Munro,,
+2199,Oil!,,
+2200,Simon Beaufoy,,
+2201,Doubt: A Parable,,
+2202,Geoffrey S. Fletcher,,
+2203,The short film Alive in Joburg by Blomkamp,,
+2204,Lynn Barber,,
+2205,Malcolm Tucker,,
+2206,Aaron Sorkin,,
+2207,Between a Rock and a Hard Place,,
+2208,Characters,,
+2209,Daniel Woodrell,,
+2210,Nat Faxon,,
+2211,The Invention of Hugo Cabret,,
+2212,Farragut North,,
+2213,Moneyball: The Art of Winning an Unfair Game,,
+2214,Chris Terrio,,
+2215,The play Juicy and Delicious by Alibar,,
+2216,Team of Rivals: The Political Genius of Abraham Lincoln,,
+2217,John Ridley,,
+2218,"A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea",,
+2219,Martin Sixsmith,,
+2220,Graham Moore,,
+2221,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,,
+2222,Jane Hawking,,
+2223,The short film,,18.0
+2224,Charles Randolph,,
+2225,The Price of Salt,,
+2226,Story of Your Life,,
+2227,Hidden Figures: The American Dream and the Untold Story of the Black Women Who Helped Win the Space Race,,
+2228,A Long Way Home,,
+2229,"The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made",,
+2230,Wolverine,,
+2231,Molly Bloom,,
+2232,Jack London,,94.0
+2233,Lee Israel,,
+2234,1954 film,,182.0
+2235,Taika Waititi,,
+2236,"I Heard You Paint Houses: Frank ""The Irishman"" Sheeran and Closing the Case on Jimmy Hoffa",,
+2237,The character,,
+2238,The play The Pope by McCarten,,
+2239,Nomadland: Surviving America in the Twenty-First Century,,
+2240,Sian Heder,,
+2241,Sarah Polley,,
+2242,Ikiru,,143.0
+2243,Top Gun,,109.0
+2244,characters,,
+2245,American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,,
+2246,"Poor Things: Episodes from the Early Life of Archibald McCandless M.D., Scottish Public Health Officer",,
+2247,Peter Straughan,,
+2248,Elijah Wald,,
+2249,The novel Écoute by Boris Razon & the opera libretto by Audiard,,
+2250,The Nickel Boys,,
+2251,The book The Sing Sing Follies by John H. Richardson & the play Breakin' the Mummy's Code by Brent Buell,,
+2252,Aron Warner,,
+2253,Jimmy Neutron: Boy Genius,,82.0
+2254,"Monsters, Inc.",,92.0
+2255,75th,,
+2256,Ice Age,,81.0
+2257,Lilo & Stitch,,85.0
+2258,Spirit: Stallion of the Cimarron,,83.0
+2259,Treasure Planet,,95.0
+2260,76th,,
+2261,Brother Bear,,85.0
+2262,The Triplets of Belleville,,78.0
+2263,77th,,
+2264,Shark Tale,,90.0
+2265,Shrek 2,,92.0
+2266,78th,,
+2267,Corpse Bride,,77.0
+2268,Howl's Moving Castle,,119.0
+2269,79th,,
+2270,Cars,,117.0
+2271,Monster House,,91.0
+2272,80th,,
+2273,Persepolis,,96.0
+2274,Surf's Up,,85.0
+2275,81st,,
+2276,Bolt,,96.0
+2277,Kung Fu Panda,,92.0
+2278,82nd,,
+2279,Coraline,,100.0
+2280,Fantastic Mr. Fox,,87.0
+2281,The Princess and the Frog,,97.0
+2282,The Secret of Kells,,75.0
+2283,Lee Unkrich,,
+2284,How to Train Your Dragon,,98.0
+2285,The Illusionist,,109.0
+2286,84th,,
+2287,A Cat in Paris,,65.0
+2288,Chico and Rita,,94.0
+2289,Kung Fu Panda 2,,90.0
+2290,Puss in Boots,,90.0
+2291,85th,,
+2292,Frankenweenie,,87.0
+2293,ParaNorman,,92.0
+2294,The Pirates! Band of Misfits,,88.0
+2295,Wreck-It Ralph,,101.0
+2296,86th,,
+2297,The Croods,,98.0
+2298,Despicable Me 2,,98.0
+2299,Ernest & Celestine,,80.0
+2300,The Wind Rises,,126.0
+2301,87th,,
+2302,The Boxtrolls,,97.0
+2303,How to Train Your Dragon 2,,102.0
+2304,Song of the Sea,,94.0
+2305,The Tale of the Princess Kaguya,,137.0
+2306,88th,,
+2307,Anomalisa,,90.0
+2308,Boy and the World,,80.0
+2309,Shaun the Sheep Movie,,85.0
+2310,When Marnie Was There,,103.0
+2311,89th,,
+2312,Kubo and the Two Strings,,102.0
+2313,Moana,,107.0
+2314,My Life as a Zucchini,,65.0
+2315,The Red Turtle,,80.0
+2316,90th,,
+2317,The Boss Baby,,97.0
+2318,The Breadwinner,,94.0
+2319,Ferdinand,,108.0
+2320,Loving Vincent,,95.0
+2321,91st,,
+2322,Incredibles 2,,118.0
+2323,Isle of Dogs,,101.0
+2324,Mirai,,98.0
+2325,Ralph Breaks the Internet,,112.0
+2326,92nd,,
+2327,How to Train Your Dragon: The Hidden World,,104.0
+2328,I Lost My Body,,81.0
+2329,Klaus,,97.0
+2330,Missing Link,,94.0
+2331,Pete Docter,,
+2332,Onward,,102.0
+2333,Over the Moon,,100.0
+2334,A Shaun the Sheep Movie: Farmageddon,,87.0
+2335,Wolfwalkers,,103.0
+2336,94th,,
+2337,Flee,,90.0
+2338,Luca,,95.0
+2339,The Mitchells vs. the Machines,,109.0
+2340,Raya and the Last Dragon,,107.0
+2341,95th,,
+2342,Marcel the Shell with Shoes On,,90.0
+2343,Puss in Boots: The Last Wish,,102.0
+2344,The Sea Beast,,115.0
+2345,Turning Red,,100.0
+2346,96th,,
+2347,Elemental,,101.0
+2348,Nimona,,99.0
+2349,Robot Dreams,,102.0
+2350,Spider-Man: Across the Spider-Verse,,140.0
+2351,97th,,
+2352,Inside Out 2,,96.0
+2353,Memoir of a Snail,,94.0
+2354,Wallace & Gromit: Vengeance Most Fowl,,79.0
+2355,The Wild Robot,,102.0
+2356,Sciuscià,,
+2357,Maurice Cloche,,
+2358,Ladri di biciclette,,
+2359,FrenchAu-delà des grillesItalianLe mura di Malapaga,,
+2360,羅生門,,
+2361,Jeux interdits,,
+2362,地獄門,,
+2363,宮本武蔵,,
+2364,Helmut Käutner,,
+2365,France,,
+2366,Kon Ichikawa,,
+2367,Denmark,,
+2368,Le notti di Cabiria,,
+2369,René Clair,,
+2370,Mehboob Khan,,
+2371,Arne Skouen,,
+2372,Jacques Tati,,
+2373,Franz Peter Wirth,,
+2374,Spain,,
+2375,Giuseppe De Santis,,
+2376,Mario Monicelli,,
+2377,Orfeu Negro,,
+2378,Bernhard Wicki,,
+2379,Fons Rademakers,,
+2380,Jungfrukällan,,
+2381,Italy,,
+2382,Mexico,,
+2383,France Štiglic,,
+2384,Såsom i en spegel,,
+2385,Bent Christensen,,
+2386,Keisuke Kinoshita,,
+2387,Ismael Rodríguez,,
+2388,Les Dimanches de Ville d'Avray,,
+2389,Nanni Loy,,
+2390,Anselmo Duarte,,
+2391,Vasilis Georgiadis,,
+2392,Noboru Nakamura,,
+2393,"Ieri, oggi, domani",,
+2394,Bo Widerberg,,
+2395,Ephraim Kishon,,
+2396,Jacques Demy,,
+2397,Obchod na korze,,
+2398,Lars-Magnus Lindgren,,
+2399,Masaki Kobayashi,,
+2400,Un homme et une femme,,
+2401,Jerzy Kawalerowicz,,
+2402,Aleksandar Petrović,,
+2403,Ostře sledované vlaky,,
+2404,Francisco Rovira Beleta,,
+2405,Война и мир,,
+2406,Zoltán Fábri,,
+2407,Sweden,,
+2408,Veljko Bulajić,,
+2409,Kirill Lavrov,,
+2410,Éric Rohmer,,
+2411,Indagine su un cittadino al di sopra di ogni sospetto,,
+2412,Jacques Boigelot,,
+2413,Il giardino dei Finzi-Contini,,
+2414,Igor Talankin,,
+2415,Le Charme discret de la bourgeoisie,,
+2416,Stanislav Rostotsky,,
+2417,Moshé Mizrahi,,
+2418,Jaime de Armiñán,,
+2419,La Nuit américaine,,
+2420,Switzerland,,
+2421,Paul Verhoeven,,
+2422,Károly Makk,,
+2423,Jerzy Hoffman,,
+2424,Sergio Renán,,
+2425,Дерсу Узала,,
+2426,Miguel Littín,,
+2427,Andrzej Wajda,,
+2428,Kei Kumai,,
+2429,Dino Risi,,
+2430,[M],,
+2431,Frank Beyer,,
+2432,Jerzy Antczak,,
+2433,La Vie devant soi,,
+2434,Menahem Golan,,
+2435,Ettore Scola,,
+2436,Luis Buñuel,,
+2437,Préparez vos mouchoirs,,
+2438,Hans W. Geißendörfer,,
+2439,Die Blechtrommel,,
+2440,Carlos Saura,,
+2441,Claude Sautet,,
+2442,Franco Brusati,,
+2443,Москва слезам не верит,,
+2444,István Szabó,,
+2445,Markus Imhoof,,
+2446,Kōhei Oguri,,
+2447,Francesco Rosi,,
+2448,Volver a empezar,,
+2449,Bertrand Tavernier,,
+2450,Yuli Raizman,,
+2451,Fanny och Alexander,,
+2452,Diane Kurys,,
+2453,Imre Gyöngyössy,,
+2454,Algeria,,
+2455,La Diagonale du fou,,
+2456,Uri Barbash,,
+2457,Argentina,,
+2458,José Luis Garci,,
+2459,Pyotr Todorovsky,,
+2460,La historia oficial,,
+2461,Agnieszka Holland,,
+2462,Coline Serreau,,
+2463,Emir Kusturica,,
+2464,De aanslag,,
+2465,Wolfgang Glück,,
+2466,Jean-Jacques Beineix,,
+2467,Denys Arcand,,
+2468,Jiří Menzel,,
+2469,Babettes gæstebud,,
+2470,Nils Gaup,,
+2471,Pelle Erobreren,,
+2472,Hungary,,
+2473,Gérard Corbiau,,
+2474,Mira Nair,,
+2475,Nuovo cinema Paradiso,,
+2476,Kaspar Rostrup,,
+2477,Jacobo Morales,,
+2478,Reise der Hoffnung,,
+2479,Zhang Yimou,,
+2480,Michael Verhoeven,,
+2481,Gianni Amelio,,
+2482,Gabriele Salvatores,,
+2483,Friðrik Þór Friðriksson,,
+2484,Jan Svěrák,,
+2485,Sven Nykvist,,
+2486,Régis Wargnier,,
+2487,Nikita Mikhalkov,,
+2488,Belgium,,
+2489,Adolfo Aristarain,,
+2490,Germany,,
+2491,Fernando Trueba,,
+2492,Chen Kaige,,
+2493,United Kingdom,,
+2494,Trần Anh Hùng,,
+2495,Утомлённые солнцем,,
+2496,Milcho Manchevski,,
+2497,Tomás Gutiérrez Alea,,
+2498,Antonia,,
+2499,Rachid Bouchareb,,
+2500,Giuseppe Tornatore,,
+2501,Kolja,,
+2502,Nana Jorjadze,,
+2503,Berit Nesheim,,
+2504,Sergei Bodrov,,
+2505,Karakter,,
+2506,Caroline Link,,
+2507,Bruno Barreto,,
+2508,Montxo Armendáriz,,
+2509,Pavel Chukhray,,
+2510,La vita è bella,,
+2511,Walter Salles,,
+2512,Majid Majidi,,
+2513,Todo sobre mi madre,,
+2514,Éric Valli,,
+2515,Paul Morrison,,
+2516,Colin Nutley,,
+2517,臥虎藏龍,,
+2518,Jan Hřebejk,,
+2519,Dominique Deruddere,,
+2520,Agnès Jaoui,,
+2521,Ničija zemlja,,
+2522,Jean-Pierre Jeunet,,
+2523,Norway,,
+2524,Ashutosh Gowariker,,
+2525,Juan José Campanella,,
+2526,Nirgendwo in Afrika,,
+2527,Carlos Carrera,,
+2528,Aki Kaurismäki,,
+2529,Netherlands,,
+2530,Les Invasions barbares,,
+2531,Mikael Håfström,,
+2532,Yoji Yamada,,
+2533,Ben Sombogaart,,
+2534,Czech Republic,,
+2535,Mar adentro,,
+2536,Kay Pollak,,
+2537,Christophe Barratier,,
+2538,Oliver Hirschbiegel,,
+2539,South Africa,,
+2540,Gavin Hood,,
+2541,Cristina Comencini,,
+2542,Hany Abu-Assad,,
+2543,Marc Rothemund,,
+2544,Das Leben der Anderen,,
+2545,Susanne Bier,,
+2546,Deepa Mehta,,
+2547,Die Fälscher,,
+2548,Joseph Cedar,,
+2549,Poland,,
+2550,Russia,,
+2551,おくりびと,,
+2552,Uli Edel,,
+2553,Laurent Cantet,,
+2554,Austria,,
+2555,Ari Folman,,
+2556,El secreto de sus ojos,,
+2557,Scandar Copti,,
+2558,Claudia Llosa,,
+2559,Hævnen,,
+2560,Canada,,
+2561,جدایی نادر از سیمین,,
+2562,Michaël R. Roskam,,
+2563,Chile,,
+2564,Nikolaj Arcel,,
+2565,Kim Nguyen,,
+2566,La grande bellezza,,
+2567,Rithy Panh,,
+2568,Andrey Zvyagintsev,,
+2569,Zaza Urushadze,,
+2570,Mauritania,,
+2571,Damián Szifron,,
+2572,Saul fia,,
+2573,Ciro Guerra,,
+2574,Naji Abu Nowar,,
+2575,Tobias Lindholm,,
+2576,فروشنده,,
+2577,Martin Zandvliet,,
+2578,Hannes Holm,,
+2579,Australia,,165.0
+2580,Una mujer fantástica,,
+2581,Ziad Doueiri,,
+2582,Ildikó Enyedi,,
+2583,Nadine Labaki,,
+2584,Florian Henckel von Donnersmarck,,
+2585,Hirokazu Kore-eda,,
+2586,기생충,,
+2587,Jan Komasa,,
+2588,Tamara Kotevska,,
+2589,Druk,,
+2590,Derek Tsang,,
+2591,Alexander Nanau,,
+2592,Kaouther Ben Hania,,
+2593,Bosnia and Herzegovina,,
+2594,ドライブ・マイ・カー,,
+2595,Jonas Poher Rasmussen,,
+2596,Paolo Sorrentino,,
+2597,Pawo Choyning Dorji,,
+2598,Joachim Trier,,
+2599,Im Westen nichts Neues,,
+2600,Jerzy Skolimowski,,
+2601,Colm Bairéad,,
+2602,Japan,,
+2603,J.A. Bayona,,
+2604,İlker Çatak,,
+2605,Ainda Estou Aqui,,
+2606,Gints Zilbalodis,,
+2607,Magnus von Horn,,
+2608,Mohammad Rasoulof,,
+2609,Kokoda Front Line!,,9.0
+2610,Moscow Strikes Back,,55.0
+2611,Prelude to War,,52.0
+2612,"Africa, Prelude to Victory",,22.0
+2613,Combat Report,,
+2614,Conquer by the Clock,,
+2615,The Grain That Built a Hemisphere,,11.0
+2616,"Henry Browne, Farmer",,9.0
+2617,High Over the Borders,,
+2618,High Stakes in the East,,
+2619,Inside Fighting China,,22.0
+2620,It's Everybody's War,,18.0
+2621,Listen to Britain,,19.0
+2622,Little Belgium,,
+2623,Little Isles of Freedom,,
+2624,Mr. Blabbermouth,,
+2625,Mr. Gardenia Jones,,
+2626,The New Spirit,,7.0
+2627,The Price of Victory,,14.0
+2628,A Ship Is Born,,22.0
+2629,Twenty-One Miles,,
+2630,We Refuse to Die,,
+2631,The White Eagle,,
+2632,Winning Your Wings,,18.0
+2633,Desert Victory,,60.0
+2634,Baptism of Fire,,
+2635,The Battle of Russia,,83.0
+2636,Report from the Aleutians,,47.0
+2637,War Department Report,,47.0
+2638,The Fighting Lady,,61.0
+2639,Resisting Enemy Interrogation,,70.0
+2640,The True Glory,,87.0
+2641,The Last Bomb,,35.0
+2642,Design for Death,,48.0
+2643,Journey into Medicine,,40.0
+2644,The World Is Rich,,46.0
+2645,The Secret Land,,71.0
+2646,Daybreak in Udi,,47.0
+2647,Kenji Comes Home,,
+2648,Robert Snyder,,
+2649,With These Hands,,52.0
+2650,Kon-Tiki,,77.0
+2651,I Was a Communist for the F.B.I.,,83.0
+2652,The Sea Around Us,,62.0
+2653,The Hoaxters,,36.0
+2654,Navajo,,70.0
+2655,The Living Desert,,69.0
+2656,The Conquest of Everest,,78.0
+2657,A Queen Is Crowned,,79.0
+2658,The Vanishing Prairie,,60.0
+2659,The Stratford Adventure,,17.0
+2660,Helen Keller in Her Story,,55.0
+2661,Heartbreak Ridge,,130.0
+2662,The Silent World,,86.0
+2663,The Naked Eye,,
+2664,Where Mountains Float,,49.0
+2665,Albert Schweitzer,,85.0
+2666,On the Bowery,,65.0
+2667,Torero!,,75.0
+2668,White Wilderness,,72.0
+2669,Antarctic Crossing,,47.0
+2670,The Hidden World,,
+2671,Psychiatric Nursing,,34.0
+2672,Serengeti Shall Not Die,,85.0
+2673,The Race for Space,,55.0
+2674,Larry Lansburgh,,
+2675,Rebel in Paradise,,40.0
+2676,Le Ciel et la Boue (Sky Above and Mud Beneath),,92.0
+2677,La Grande Olimpiade (Olympic Games 1960),,142.0
+2678,Black Fox,,89.0
+2679,Alvorada (Brazil's Changing Face),,77.0
+2680,Robert Frost: A Lover's Quarrel with the World,,41.0
+2681,Le Maillon et la Chaine (The Link and the Chain),,80.0
+2682,The Yanks Are Coming,,
+2683,Jacques-Yves Cousteau's World without Sun,,93.0
+2684,The Finest Hours,,116.0
+2685,Four Days in November,,122.0
+2686,The Human Dutch,,90.0
+2687,"Over There, 1914–18",,90.0
+2688,The Eleanor Roosevelt Story,,90.0
+2689,The Battle of the Bulge... The Brave Rifles,,52.0
+2690,The Forth Road Bridge,,55.0
+2691,Let My People Go,,60.0
+2692,To Die in Madrid,,85.0
+2693,The War Game,,47.0
+2694,The Face of a Genius,,
+2695,Helicopter Canada,,50.0
+2696,The Really Big Family,,
+2697,Le Volcan Interdit (The Forbidden Volcano),,80.0
+2698,The Anderson Platoon,,60.0
+2699,Festival,,97.0
+2700,Harvest,,
+2701,A King's Story,,102.0
+2702,A Time for Burning,,56.0
+2703,Journey into Self,,47.0
+2704,A Few Notes on Our Food Problem,,
+2705,The Legendary Champions,,77.0
+2706,Other Voices,,100.0
+2707,Arthur Rubinstein – The Love of Life,,89.0
+2708,Before the Mountain Was Moved,,60.0
+2709,In the Year of the Pig,,104.0
+2710,The Olympics in Mexico,,240.0
+2711,The Wolf Men,,
+2712,Bob Maurice,,
+2713,Chariots of the Gods,,92.0
+2714,Jack Johnson,,90.0
+2715,King: A Filmed Record... Montgomery to Memphis,,185.0
+2716,Say Goodbye,,52.0
+2717,The Hellstrom Chronicle,,90.0
+2718,Alaska Wilderness Lake,,
+2719,On Any Sunday,,96.0
+2720,The RA Expeditions,,106.0
+2721,The Sorrow and the Pity,,251.0
+2722,Marjoe,,88.0
+2723,Ape and Super-Ape,,104.0
+2724,Malcolm X,,91.0
+2725,Manson,,83.0
+2726,The Silent Revolution,,44.0
+2727,The Great American Cowboy,,89.0
+2728,Always a New Beginning,,90.0
+2729,Battle of Berlin,,
+2730,Journey to the Outer Limits,,52.0
+2731,Walls of Fire,,
+2732,Hearts and Minds,,112.0
+2733,Antonia: A Portrait of the Woman,,58.0
+2734,The Challenge... A Tribute to Modern Art,,104.0
+2735,The 81st Blow,,115.0
+2736,The Wild and the Brave,,102.0
+2737,The Man Who Skied Down Everest,,84.0
+2738,The California Reich,,55.0
+2739,Fighting for Our Lives,,59.0
+2740,The Incredible Machine,,59.0
+2741,The Other Half of the Sky: A China Memoir,,74.0
+2742,"Harlan County, U.S.A.",,103.0
+2743,Hollywood on Trial,,105.0
+2744,Off the Edge,,77.0
+2745,People of the Wind,,110.0
+2746,Volcano: An Inquiry into the Life and Death of Malcolm Lowry,,100.0
+2747,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,,72.0
+2748,The Children of Theatre Street,,90.0
+2749,High Grass Circus,,57.0
+2750,Homage to Chagall: The Colours of Love,,88.0
+2751,Union Maids,,50.0
+2752,Scared Straight!,,52.0
+2753,The Lovers' Wind,,71.0
+2754,Mysterious Castles of Clay,,
+2755,Raoni,,84.0
+2756,With Babies and Banners: Story of the Women's Emergency Brigade,,45.0
+2757,Best Boy,,110.0
+2758,Generation on the Wind,,
+2759,Going the Distance,,89.0
+2760,The Killing Ground,,50.0
+2761,The War at Home,,100.0
+2762,Murray Lerner,,
+2763,Agee,,98.0
+2764,The Day After Trinity,,88.0
+2765,Front Line,,4.0
+2766,The Yellow Star: The Persecution of the Jews in Europe 1933-45,,89.0
+2767,Genocide,,90.0
+2768,Against Wind and Tide: A Cuban Odyssey,,60.0
+2769,Brooklyn Bridge,,58.0
+2770,Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,,60.0
+2771,El Salvador: Another Vietnam,,53.0
+2772,Just Another Missing Kid,,90.0
+2773,After the Axe,,
+2774,Ben's Mill,,59.0
+2775,In Our Water,,60.0
+2776,A Portrait of Giselle,,
+2777,He Makes Me Feel Like Dancin',,60.0
+2778,Children of Darkness,,57.0
+2779,First Contact,,58.0
+2780,The Profession of Arms,,57.0
+2781,Seeing Red,,100.0
+2782,The Times of Harvey Milk,,90.0
+2783,High Schools,,28.0
+2784,In the Name of the People,,73.0
+2785,Marlene,,94.0
+2786,Streetwise,,91.0
+2787,Broken Rainbow,,70.0
+2788,Las Madres: The Mothers of Plaza de Mayo,,64.0
+2789,Soldiers in Hiding,,53.0
+2790,The Statue of Liberty,,60.0
+2791,Unfinished Business,,60.0
+2792,Artie Shaw: Time Is All You've Got,,115.0
+2793,Down and Out in America,,57.0
+2794,Chile: Hasta Cuando?,,57.0
+2795,Isaac in America: A Journey with Isaac Bashevis Singer,,58.0
+2796,Witness to Apartheid,,58.0
+2797,The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,,56.0
+2798,Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,,60.0
+2799,Hellfire: A Journey from Hiroshima,,58.0
+2800,Radio Bikini,,56.0
+2801,A Stitch for Time,,
+2802,Hôtel Terminus: The Life and Times of Klaus Barbie,,267.0
+2803,The Cry of Reason – Beyers Naudé: An Afrikaner Speaks Out,,58.0
+2804,Let's Get Lost,,120.0
+2805,Promises to Keep,,
+2806,Who Killed Vincent Chin?,,87.0
+2807,Common Threads: Stories from the Quilt,,79.0
+2808,Adam Clayton Powell,,54.0
+2809,Crack USA: County Under Siege,,42.0
+2810,For All Mankind,,80.0
+2811,Super Chief: The Life and Legacy of Earl Warren,,88.0
+2812,Barbara Kopple,,
+2813,Berkeley in the Sixties,,118.0
+2814,Building Bombs,,54.0
+2815,Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,,60.0
+2816,Waldo Salt: A Screenwriter's Journey,,
+2817,In the Shadow of the Stars,,93.0
+2818,Death on the Job,,
+2819,Doing Time: Life Inside the Big House,,60.0
+2820,The Restless Conscience: Resistance to Hitler Within Germany 1933-1945,,113.0
+2821,Wild by Law,,
+2822,The Panama Deception,,91.0
+2823,Changing Our Minds: The Story of Dr. Evelyn Hooker,,77.0
+2824,Fires of Kuwait,,36.0
+2825,Liberators: Fighting on Two Fronts in World War II,,90.0
+2826,Music for the Movies: Bernard Herrmann,,
+2827,I Am a Promise: The Children of Stanton Elementary School,,88.0
+2828,The Broadcast Tapes of Dr. Peter,,45.0
+2829,Children of Fate,,85.0
+2830,For Better or For Worse,,57.0
+2831,The War Room,,96.0
+2832,Maya Lin: A Strong Clear Vision,,105.0
+2833,Complaints of a Dutiful Daughter,,44.0
+2834,D-Day Remembered,,54.0
+2835,Freedom on My Mind,,105.0
+2836,A Great Day in Harlem,,60.0
+2837,Anne Frank Remembered,,117.0
+2838,The Battle Over Citizen Kane,,113.0
+2839,Small Wonders,,77.0
+2840,Hank Aaron: Chasing the Dream,,120.0
+2841,Troublesome Creek: A Midwestern,,88.0
+2842,When We Were Kings,,89.0
+2843,The Line King: The Al Hirschfeld Story,,86.0
+2844,Mandela,,118.0
+2845,Suzanne Farrell: Elusive Muse,,90.0
+2846,Tell the Truth and Run: George Seldes and the American Press,,111.0
+2847,The Long Way Home,,120.0
+2848,4 Little Girls,,102.0
+2849,Ayn Rand: A Sense of Life,,145.0
+2850,Colors Straight Up,,
+2851,Waco: The Rules of Engagement,,136.0
+2852,The Last Days,,87.0
+2853,Dancemaker,,98.0
+2854,"The Farm: Angola, USA",,88.0
+2855,Lenny Bruce: Swear to Tell the Truth,,100.0
+2856,Regret to Inform,,72.0
+2857,One Day in September,,94.0
+2858,Buena Vista Social Club,,105.0
+2859,Genghis Blues,,88.0
+2860,On the Ropes,,94.0
+2861,Speaking in Strings,,73.0
+2862,Into the Arms of Strangers: Stories of the Kindertransport,,122.0
+2863,Legacy,,90.0
+2864,Long Night's Journey into Day,,94.0
+2865,Scottsboro: An American Tragedy,,84.0
+2866,Sound and Fury,,80.0
+2867,Murder on a Sunday Morning,,111.0
+2868,Children Underground,,104.0
+2869,LaLee's Kin: The Legacy of Cotton,,89.0
+2870,Promises,,106.0
+2871,War Photographer,,96.0
+2872,Bowling for Columbine,,120.0
+2873,Daughter from Danang,,83.0
+2874,Prisoner of Paradise,,96.0
+2875,Winged Migration,,97.0
+2876,The Fog of War,,107.0
+2877,Balseros,,
+2878,Capturing the Friedmans,,107.0
+2879,My Architect,,110.0
+2880,The Weather Underground,,95.0
+2881,Born into Brothels,,85.0
+2882,The Story of the Weeping Camel,,87.0
+2883,Super Size Me,,98.0
+2884,Tupac: Resurrection,,111.0
+2885,Twist of Faith,,87.0
+2886,March of the Penguins,,86.0
+2887,Darwin's Nightmare,,107.0
+2888,Enron: The Smartest Guys in the Room,,109.0
+2889,Murderball,,88.0
+2890,Street Fight,,83.0
+2891,An Inconvenient Truth,,97.0
+2892,Deliver Us from Evil,,101.0
+2893,Iraq in Fragments,,94.0
+2894,Jesus Camp,,85.0
+2895,"My Country, My Country",,90.0
+2896,Taxi to the Dark Side,,106.0
+2897,No End in Sight,,102.0
+2898,Operation Homecoming: Writing the Wartime Experience,,81.0
+2899,Sicko,,123.0
+2900,War/Dance,,105.0
+2901,Man on Wire,,94.0
+2902,The Betrayal (Nerakhoon),,87.0
+2903,Encounters at the End of the World,,99.0
+2904,The Garden,,80.0
+2905,Trouble the Water,,93.0
+2906,The Cove,,87.0
+2907,Burma VJ,,84.0
+2908,"Food, Inc.",,94.0
+2909,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,,92.0
+2910,Which Way Home,,90.0
+2911,Charles Ferguson,,
+2912,Exit Through the Gift Shop,,87.0
+2913,Gasland,,104.0
+2914,Restrepo,,93.0
+2915,Waste Land,,99.0
+2916,Undefeated,,113.0
+2917,Hell and Back Again,,88.0
+2918,If a Tree Falls: A Story of the Earth Liberation Front,,85.0
+2919,Paradise Lost 3: Purgatory,,121.0
+2920,Pina,,106.0
+2921,Searching for Sugar Man,,86.0
+2922,5 Broken Cameras,,94.0
+2923,The Gatekeepers,,95.0
+2924,How to Survive a Plague,,109.0
+2925,The Invisible War,,97.0
+2926,20 Feet from Stardom,,90.0
+2927,The Act of Killing,,122.0
+2928,Cutie and the Boxer,,82.0
+2929,Dirty Wars,,86.0
+2930,The Square,,108.0
+2931,Citizenfour,,113.0
+2932,Finding Vivian Maier,,84.0
+2933,Last Days in Vietnam,,98.0
+2934,The Salt of the Earth,,110.0
+2935,Virunga,,100.0
+2936,Amy,,128.0
+2937,Cartel Land,,100.0
+2938,The Look of Silence,,103.0
+2939,"What Happened, Miss Simone?",,101.0
+2940,Winter on Fire: Ukraine's Fight for Freedom,,102.0
+2941,O.J.: Made in America,,467.0
+2942,Fire at Sea,,114.0
+2943,I Am Not Your Negro,,95.0
+2944,"Life, Animated",,92.0
+2945,13th,,100.0
+2946,Icarus,,121.0
+2947,Abacus: Small Enough to Jail,,88.0
+2948,Faces Places,,93.0
+2949,Last Men in Aleppo,,104.0
+2950,Strong Island,,107.0
+2951,Free Solo,,100.0
+2952,"Hale County This Morning, This Evening",,76.0
+2953,Minding the Gap,,93.0
+2954,Of Fathers and Sons,,99.0
+2955,RBG,,98.0
+2956,American Factory,,110.0
+2957,The Cave,,95.0
+2958,The Edge of Democracy,,121.0
+2959,For Sama,,100.0
+2960,Honeyland,,87.0
+2961,Pippa Ehrlich,,85.0
+2962,Collective,,109.0
+2963,Crip Camp,,108.0
+2964,The Mole Agent,,84.0
+2965,Time,,81.0
+2966,Summer of Soul,,117.0
+2967,Ascension,,97.0
+2968,Attica,,116.0
+2969,Writing with Fire,,94.0
+2970,Navalny,,98.0
+2971,All That Breathes,,91.0
+2972,All the Beauty and the Bloodshed,,122.0
+2973,Fire of Love,,93.0
+2974,A House Made of Splinters,,87.0
+2975,20 Days in Mariupol,,94.0
+2976,Bobi Wine: The People's President,,113.0
+2977,The Eternal Memory,,85.0
+2978,To Kill a Tiger,,127.0
+2979,No Other Land,,92.0
+2980,Black Box Diaries,,103.0
+2981,Porcelain War,,87.0
+2982,Soundtrack to a Coup d'Etat,,150.0
+2983,Sugarcane,,107.0
+2984,Columbia Studio Music Department,,
+2985,The Lost Patrol,,73.0
+2986,Peter Ibbetson,,88.0
+2987,The Charge of the Light Brigade,,115.0
+2988,The Garden of Allah,,79.0
+2989,The General Died at Dawn,,98.0
+2990,Winterset,,77.0
+2991,The Hurricane,,110.0
+2992,Make a Wish,,77.0
+2993,Maytime,,132.0
+2994,Portia on Trial,,72.0
+2995,The Prisoner of Zenda,,101.0
+2996,Quality Street,,83.0
+2997,Snow White and the Seven Dwarfs,,83.0
+2998,Something to Sing About,,93.0
+2999,Souls at Sea,,92.0
+3000,Way Out West,,
+3001,Army Girl,,80.0
+3002,Block-Heads,,
+3003,Blockade,,85.0
+3004,Breaking the Ice,,81.0
+3005,The Cowboy and the Lady,,91.0
+3006,If I Were King,,101.0
+3007,Marie Antoinette,,150.0
+3008,Pacific Liner,,76.0
+3009,Suez,,104.0
+3010,The Young in Heart,,90.0
+3011,Carefree,,83.0
+3012,Girls' School,,72.0
+3013,The Goldwyn Follies,,122.0
+3014,Mad About Music,,100.0
+3015,Storm Over Bengal,,65.0
+3016,Sweethearts,,114.0
+3017,There Goes My Heart,,83.0
+3018,Tropic Holiday,,78.0
+3019,Eternally Yours,,95.0
+3020,Golden Boy,,99.0
+3021,Gulliver's Travels,,76.0
+3022,The Man in the Iron Mask,,96.0
+3023,Man of Conquest,,99.0
+3024,Nurse Edith Cavell,,98.0
+3025,The Rains Came,,105.0
+3026,Babes in Arms,,93.0
+3027,First Love,,84.0
+3028,The Great Victor Herbert,,91.0
+3029,The Hunchback of Notre Dame,,116.0
+3030,Intermezzo,,70.0
+3031,The Private Lives of Elizabeth and Essex,,106.0
+3032,She Married a Cop,,66.0
+3033,Swanee River,,84.0
+3034,They Shall Have Music,,105.0
+3035,Way Down South,,61.0
+3036,(13th),,
+3037,Pinocchio,,125.0
+3038,Arizona,,122.0
+3039,The Fight for Life,,69.0
+3040,The House of the Seven Gables,,89.0
+3041,The Howards of Virginia,,116.0
+3042,The Mark of Zorro,,94.0
+3043,My Favorite Wife,,88.0
+3044,North West Mounted Police,,125.0
+3045,One Million B.C.,,80.0
+3046,Rebecca,,130.0
+3047,The Thief of Bagdad,,106.0
+3048,Waterloo Bridge,,108.0
+3049,Tin Pan Alley,,94.0
+3050,"Arise, My Love",,110.0
+3051,Hit Parade of 1941,,88.0
+3052,Irene,,101.0
+3053,The Sea Hawk,,127.0
+3054,Second Chorus,,84.0
+3055,Spring Parade,,89.0
+3056,Strike Up the Band,,120.0
+3057,The Devil and Daniel Webster,,107.0
+3058,Back Street,,89.0
+3059,Ball of Fire,,111.0
+3060,Cheers for Miss Bishop,,95.0
+3061,Dr. Jekyll and Mr. Hyde,,127.0
+3062,King of the Zombies,,67.0
+3063,Ladies in Retirement,,91.0
+3064,Lydia,,104.0
+3065,Mercy Island,,72.0
+3066,So Ends Our Night,,117.0
+3067,Sundown,,90.0
+3068,Tanks a Million,,50.0
+3069,That Uncertain Feeling,,84.0
+3070,This Woman Is Mine,,92.0
+3071,Dumbo,,64.0
+3072,All-American Co-Ed,,53.0
+3073,Birth of the Blues,,84.0
+3074,Buck Privates,,84.0
+3075,The Chocolate Soldier,,102.0
+3076,Ice-Capades,,88.0
+3077,The Strawberry Blonde,,97.0
+3078,Sun Valley Serenade,,86.0
+3079,Sunny,,98.0
+3080,You'll Never Get Rich,,88.0
+3081,"Now, Voyager",,117.0
+3082,Arabian Nights,,87.0
+3083,Bambi,,70.0
+3084,The Black Swan,,85.0
+3085,The Corsican Brothers,,111.0
+3086,Flying Tigers,,102.0
+3087,The Gold Rush,,95.0
+3088,I Married a Witch,,77.0
+3089,Jungle Book,,108.0
+3090,Klondike Fury,,68.0
+3091,The Shanghai Gesture,,99.0
+3092,Silver Queen,,80.0
+3093,To Be or Not to Be,,99.0
+3094,Flying with Music,,46.0
+3095,For Me and My Gal,,104.0
+3096,Holiday Inn,,100.0
+3097,It Started with Eve,,90.0
+3098,Johnny Doughboy,,63.0
+3099,My Gal Sal,,103.0
+3100,You Were Never Lovelier,,97.0
+3101,The Amazing Mrs. Holliday,,96.0
+3102,Commandos Strike at Dawn,,100.0
+3103,The Fallen Sparrow,,94.0
+3104,Hangmen Also Die!,,134.0
+3105,Hi Diddle Diddle,,72.0
+3106,In Old Oklahoma,,102.0
+3107,Johnny Come Lately,,97.0
+3108,The Kansan,,79.0
+3109,Lady of Burlesque,,91.0
+3110,The Moon and Sixpence,,89.0
+3111,Victory Through Air Power,,65.0
+3112,This Is the Army,,120.0
+3113,Coney Island,,96.0
+3114,Hit Parade of 1943,,82.0
+3115,Phantom of the Opera,,92.0
+3116,Saludos Amigos,,42.0
+3117,The Sky's the Limit,,89.0
+3118,Something to Shout About,,90.0
+3119,Stage Door Canteen,,132.0
+3120,Star Spangled Rhythm,,99.0
+3121,Thousands Cheer,,125.0
+3122,Address Unknown,,72.0
+3123,The Adventures of Mark Twain,,130.0
+3124,The Bridge of San Luis Rey,,107.0
+3125,Casanova Brown,,91.0
+3126,Christmas Holiday,,93.0
+3127,The Fighting Seabees,,100.0
+3128,The Hairy Ape,,92.0
+3129,It Happened Tomorrow,,85.0
+3130,Kismet,,100.0
+3131,None but the Lonely Heart,,113.0
+3132,The Princess and the Pirate,,94.0
+3133,Summer Storm,,106.0
+3134,Three Russian Girls,,81.0
+3135,Up in Mabel's Room,,76.0
+3136,Voice in the Wind,,85.0
+3137,The Woman of the Town,,90.0
+3138,Cover Girl,,107.0
+3139,Higher and Higher,,90.0
+3140,Hollywood Canteen,,124.0
+3141,Irish Eyes Are Smiling,,90.0
+3142,Knickerbocker Holiday,,85.0
+3143,Lady in the Dark,,100.0
+3144,"Lady, Let's Dance",,88.0
+3145,Meet Me in St. Louis,,113.0
+3146,The Merry Monahans,,91.0
+3147,Minstrel Man,,67.0
+3148,Sensations of 1945,,86.0
+3149,Song of the Open Road,,93.0
+3150,Up in Arms,,106.0
+3151,Brewster's Millions,,79.0
+3152,Captain Kidd,,90.0
+3153,The Enchanted Cottage,,91.0
+3154,Flame of Barbary Coast,,91.0
+3155,G. I. Honeymoon,,70.0
+3156,G. I. Joe,,108.0
+3157,Guest in the House,,120.0
+3158,Guest Wife,,90.0
+3159,The Keys of the Kingdom,,136.0
+3160,Love Letters,,101.0
+3161,The Man Who Walked Alone,,71.0
+3162,"Objective, Burma!",,142.0
+3163,Paris Underground,,97.0
+3164,A Song to Remember,,112.0
+3165,The Southerner,,92.0
+3166,This Love of Ours,,90.0
+3167,The Valley of Decision,,119.0
+3168,The Woman in the Window,,99.0
+3169,Belle of the Yukon,,84.0
+3170,Can't Help Singing,,90.0
+3171,Hitchhike to Happiness,,74.0
+3172,Incendiary Blonde,,113.0
+3173,Rhapsody in Blue,,151.0
+3174,Sunbonnet Sue,,89.0
+3175,The Three Caballeros,,71.0
+3176,Tonight and Every Night,,92.0
+3177,Why Girls Leave Home,,69.0
+3178,Wonder Man,,98.0
+3179,Anna and the King of Siam,,128.0
+3180,Humoresque,,125.0
+3181,The Killers,,103.0
+3182,The Jolson Story,,130.0
+3183,Blue Skies,,104.0
+3184,Centennial Summer,,102.0
+3185,The Harvey Girls,,102.0
+3186,Night and Day,,128.0
+3187,Captain from Castile,,141.0
+3188,Forever Amber,,138.0
+3189,Life with Father,,118.0
+3190,Mother Wore Tights,,107.0
+3191,Fiesta,,104.0
+3192,My Wild Irish Rose,,101.0
+3193,Road to Rio,,100.0
+3194,Song of the South,,94.0
+3195,Joan of Arc,,145.0
+3196,Easter Parade,,108.0
+3197,The Emperor Waltz,,106.0
+3198,The Pirate,,102.0
+3199,Romance on the High Seas,,99.0
+3200,When My Baby Smiles at Me,,98.0
+3201,Beyond the Forest,,97.0
+3202,Champion,,99.0
+3203,On the Town,,98.0
+3204,Look for the Silver Lining,,106.0
+3205,(23rd),,
+3206,The Flame and the Arrow,,88.0
+3207,No Sad Songs for Me,,88.0
+3208,Samson and Delilah,,134.0
+3209,Annie Get Your Gun,,107.0
+3210,Cinderella,,76.0
+3211,I'll Get By,,83.0
+3212,Three Little Words,,102.0
+3213,The West Point Story,,107.0
+3214,Death of a Salesman,,115.0
+3215,Alice in Wonderland,,108.0
+3216,The Great Caruso,,109.0
+3217,On the Riviera,,90.0
+3218,Show Boat,,107.0
+3219,The Miracle of Our Lady of Fatima,,102.0
+3220,The Thief,,86.0
+3221,With a Song in My Heart,,117.0
+3222,Hans Christian Andersen,,112.0
+3223,The Jazz Singer,,107.0
+3224,The Medium,,84.0
+3225,Singin' in the Rain,,103.0
+3226,Lili,,81.0
+3227,Above and Beyond,,122.0
+3228,This Is Cinerama,,115.0
+3229,Call Me Madam,,114.0
+3230,"The 5,000 Fingers of Dr. T.",,92.0
+3231,Calamity Jane,,101.0
+3232,Kiss Me Kate,,109.0
+3233,The High and the Mighty,,147.0
+3234,The Silver Chalice,,135.0
+3235,Carmen Jones,,105.0
+3236,There's No Business Like Show Business,,117.0
+3237,Battle Cry,,149.0
+3238,The Man with the Golden Arm,,119.0
+3239,Oklahoma!,,148.0
+3240,Daddy Long Legs,,126.0
+3241,Guys and Dolls,,150.0
+3242,Love Me or Leave Me,,122.0
+3243,Anastasia,,94.0
+3244,Between Heaven and Hell,,94.0
+3245,The Rainmaker,,121.0
+3246,The Best Things in Life Are Free,,104.0
+3247,The Eddy Duchin Story,,123.0
+3248,High Society,,111.0
+3249,Meet Me in Las Vegas,,112.0
+3250,An Affair to Remember,,115.0
+3251,Perri,,75.0
+3252,Raintree County,,186.0
+3253,The Old Man and the Sea,,87.0
+3254,The Big Country,,166.0
+3255,The Young Lions,,167.0
+3256,The Bolshoi Ballet,,100.0
+3257,Damn Yankees,,111.0
+3258,Mardi Gras,,107.0
+3259,South Pacific,,157.0
+3260,On the Beach,,134.0
+3261,Pillow Talk,,102.0
+3262,Porgy and Bess,,138.0
+3263,The Five Pennies,,117.0
+3264,Li'l Abner,,114.0
+3265,Say One for Me,,119.0
+3266,Sleeping Beauty,,75.0
+3267,(33rd),,
+3268,Exodus,,208.0
+3269,The Alamo,,202.0
+3270,The Magnificent Seven,,128.0
+3271,Song Without End,,141.0
+3272,Bells Are Ringing,,126.0
+3273,Can-Can,,131.0
+3274,Let's Make Love,,119.0
+3275,Pepe,,157.0
+3276,Breakfast at Tiffany's,,114.0
+3277,El Cid,,184.0
+3278,Fanny,,134.0
+3279,The Guns of Navarone,,157.0
+3280,Summer and Smoke,,118.0
+3281,West Side Story,,156.0
+3282,Babes in Toyland,,105.0
+3283,Flower Drum Song,,132.0
+3284,Khovanshchina,,124.0
+3285,Paris Blues,,98.0
+3286,Lawrence of Arabia,,222.0
+3287,Taras Bulba,,122.0
+3288,To Kill a Mockingbird,,129.0
+3289,The Music Man,,151.0
+3290,Billy Rose's Jumbo,,127.0
+3291,Gigot,,105.0
+3292,Gypsy,,143.0
+3293,The Wonderful World of the Brothers Grimm,,140.0
+3294,Tom Jones,,128.0
+3295,55 Days at Peking,,153.0
+3296,How the West Was Won,,164.0
+3297,"It's a Mad, Mad, Mad, Mad World",,192.0
+3298,Irma la Douce,,147.0
+3299,Bye Bye Birdie,,112.0
+3300,A New Kind of Love,,110.0
+3301,Sundays and Cybele,,111.0
+3302,The Sword in the Stone,,79.0
+3303,Mary Poppins,,139.0
+3304,Becket,,148.0
+3305,The Fall of the Roman Empire,,185.0
+3306,"Hush...Hush, Sweet Charlotte",,133.0
+3307,The Pink Panther,,113.0
+3308,My Fair Lady,,173.0
+3309,Robin and the 7 Hoods,,124.0
+3310,The Unsinkable Molly Brown,,128.0
+3311,Doctor Zhivago,,193.0
+3312,The Agony and the Ecstasy,,138.0
+3313,The Greatest Story Ever Told,,199.0
+3314,A Patch of Blue,,105.0
+3315,The Sound of Music,,174.0
+3316,Cat Ballou,,96.0
+3317,The Pleasure Seekers,,107.0
+3318,A Thousand Clowns,,116.0
+3319,Born Free,,95.0
+3320,The Bible: In the Beginning...,,174.0
+3321,Hawaii,,188.0
+3322,The Sand Pebbles,,182.0
+3323,Who's Afraid of Virginia Woolf?,,132.0
+3324,A Funny Thing Happened on the Way to the Forum,,99.0
+3325,The Gospel According to St. Matthew,,137.0
+3326,Return of the Seven,,95.0
+3327,The Singing Nun,,97.0
+3328,Stop the World – I Want to Get Off,,
+3329,Thoroughly Modern Millie,,151.0
+3330,Cool Hand Luke,,126.0
+3331,Doctor Dolittle,,152.0
+3332,Far from the Madding Crowd,,170.0
+3333,In Cold Blood,,135.0
+3334,Camelot,,180.0
+3335,Guess Who's Coming to Dinner,,108.0
+3336,Valley of the Dolls,,123.0
+3337,The Lion in Winter,,134.0
+3338,The Fox,,110.0
+3339,Planet of the Apes,,112.0
+3340,The Shoes of the Fisherman,,162.0
+3341,The Thomas Crown Affair,,102.0
+3342,Oliver!,,153.0
+3343,Finian's Rainbow,,145.0
+3344,Funny Girl,,149.0
+3345,Star!,,175.0
+3346,The Young Girls of Rochefort,,126.0
+3347,Butch Cassidy and the Sundance Kid,,110.0
+3348,Anne of the Thousand Days,,145.0
+3349,The Reivers,,107.0
+3350,The Secret of Santa Vittoria,,139.0
+3351,"Hello, Dolly!",,148.0
+3352,Paint Your Wagon,,154.0
+3353,Sweet Charity,,149.0
+3354,"They Shoot Horses, Don't They?",,120.0
+3355,(43rd),,
+3356,Cromwell,,140.0
+3357,Sunflower,,101.0
+3358,Let It Be,,80.0
+3359,The Baby Maker,,109.0
+3360,A Boy Named Charlie Brown,,85.0
+3361,Darling Lili,,136.0
+3362,Scrooge,,113.0
+3363,"Mary, Queen of Scots",,128.0
+3364,Nicholas and Alexandra,,188.0
+3365,Shaft,,100.0
+3366,Straw Dogs,,117.0
+3367,Fiddler on the Roof,,181.0
+3368,Bedknobs and Broomsticks,,118.0
+3369,The Boy Friend,,137.0
+3370,Tchaikovsky,,157.0
+3371,Willy Wonka & the Chocolate Factory,,100.0
+3372,Limelight,,137.0
+3373,The Godfather,,175.0
+3374,Images,,101.0
+3375,Napoleon and Samantha,,92.0
+3376,The Poseidon Adventure,,117.0
+3377,Sleuth,,138.0
+3378,Cabaret,,124.0
+3379,Man of La Mancha,,132.0
+3380,The Way We Were,,118.0
+3381,Cinderella Liberty,,117.0
+3382,The Day of the Dolphin,,104.0
+3383,Papillon,,150.0
+3384,The Sting,,129.0
+3385,Jesus Christ Superstar,,106.0
+3386,Tom Sawyer,,104.0
+3387,The Godfather Part II,,200.0
+3388,Chinatown,,131.0
+3389,Murder on the Orient Express,,128.0
+3390,Shanks,,93.0
+3391,The Towering Inferno,,165.0
+3392,The Great Gatsby,,146.0
+3393,The Little Prince,,88.0
+3394,Phantom of the Paradise,,91.0
+3395,Jaws,,124.0
+3396,"Birds Do It, Bees Do It",,90.0
+3397,Bite the Bullet,,131.0
+3398,One Flew Over the Cuckoo's Nest,,135.0
+3399,The Wind and the Lion,,119.0
+3400,Barry Lyndon,,185.0
+3401,Funny Lady,,136.0
+3402,Tommy,,108.0
+3403,The Omen,,111.0
+3404,Obsession,,98.0
+3405,The Outlaw Josey Wales,,135.0
+3406,Taxi Driver,,114.0
+3407,Voyage of the Damned,,155.0
+3408,Bound for Glory,,147.0
+3409,Bugsy Malone,,93.0
+3410,Close Encounters of the Third Kind,,135.0
+3411,Julia,,118.0
+3412,"Mohammad, Messenger of God",,178.0
+3413,The Spy Who Loved Me,,125.0
+3414,A Little Night Music,,119.0
+3415,Pete's Dragon,,129.0
+3416,The Slipper and the Rose,,146.0
+3417,Midnight Express,,121.0
+3418,The Boys from Brazil,,125.0
+3419,Days of Heaven,,94.0
+3420,Superman,,143.0
+3421,The Buddy Holly Story,,114.0
+3422,Pretty Baby,,109.0
+3423,The Wiz,,133.0
+3424,A Little Romance,,108.0
+3425,10,,
+3426,The Amityville Horror,,118.0
+3427,Star Trek: The Motion Picture,,132.0
+3428,Breaking Away,,101.0
+3429,The Muppet Movie,,97.0
+3430,Michael Gore,,
+3431,Altered States,,103.0
+3432,The Elephant Man,,123.0
+3433,The Empire Strikes Back,,124.0
+3434,Tess,,172.0
+3435,Chariots of Fire,,124.0
+3436,Dragonslayer,,109.0
+3437,On Golden Pond,,109.0
+3438,Ragtime,,155.0
+3439,Raiders of the Lost Ark,,115.0
+3440,Gandhi,,191.0
+3441,Poltergeist,,114.0
+3442,Sophie's Choice,,151.0
+3443,Victor/Victoria,,132.0
+3444,Annie,,128.0
+3445,One from the Heart,,107.0
+3446,The Right Stuff,,192.0
+3447,Cross Creek,,127.0
+3448,Return of the Jedi,,132.0
+3449,Terms of Endearment,,132.0
+3450,Under Fire,,128.0
+3451,Yentl,,134.0
+3452,The Sting II,,102.0
+3453,Trading Places,,116.0
+3454,A Passage to India,,163.0
+3455,Indiana Jones and the Temple of Doom,,118.0
+3456,The Natural,,138.0
+3457,The River,,123.0
+3458,Under the Volcano,,112.0
+3459,Purple Rain,,111.0
+3460,The Muppets Take Manhattan,,94.0
+3461,Songwriter,,94.0
+3462,Out of Africa,,161.0
+3463,Agnes of God,,99.0
+3464,The Color Purple,,154.0
+3465,Silverado,,133.0
+3466,Witness,,112.0
+3467,Round Midnight,,133.0
+3468,Aliens,,137.0
+3469,Hoosiers,,115.0
+3470,The Mission,,125.0
+3471,Star Trek IV: The Voyage Home,,122.0
+3472,The Last Emperor,,163.0
+3473,Cry Freedom,,157.0
+3474,Empire of the Sun,,154.0
+3475,The Untouchables,,119.0
+3476,The Witches of Eastwick,,118.0
+3477,The Milagro Beanfield War,,117.0
+3478,The Accidental Tourist,,121.0
+3479,Dangerous Liaisons,,119.0
+3480,Gorillas in the Mist,,129.0
+3481,Rain Man,,134.0
+3482,The Little Mermaid,,83.0
+3483,Born on the Fourth of July,,145.0
+3484,The Fabulous Baker Boys,,114.0
+3485,Field of Dreams,,106.0
+3486,Indiana Jones and the Last Crusade,,128.0
+3487,John Barry,,
+3488,Havana,,144.0
+3489,Home Alone,,103.0
+3490,Beauty and the Beast,,129.0
+3491,JFK,,188.0
+3492,The Prince of Tides,,132.0
+3493,Aladdin,,90.0
+3494,Basic Instinct,,128.0
+3495,Chaplin,,145.0
+3496,Howards End,,142.0
+3497,A River Runs Through It,,123.0
+3498,Schindler's List,,195.0
+3499,The Age of Innocence,,139.0
+3500,The Firm,,154.0
+3501,The Fugitive,,130.0
+3502,The Remains of the Day,,134.0
+3503,The Lion King,,118.0
+3504,Forrest Gump,,142.0
+3505,Interview with the Vampire,,122.0
+3506,The Postman,,108.0
+3507,Apollo 13,,140.0
+3508,Sense and Sensibility,,136.0
+3509,Pocahontas,,81.0
+3510,The American President,,113.0
+3511,Sabrina,,113.0
+3512,Unstrung Heroes,,93.0
+3513,The English Patient,,162.0
+3514,Michael Collins,,132.0
+3515,Sleepers,,147.0
+3516,Emma,,124.0
+3517,The First Wives Club,,103.0
+3518,James and the Giant Peach,,79.0
+3519,The Preacher's Wife,,124.0
+3520,Titanic,,195.0
+3521,Amistad,,154.0
+3522,Good Will Hunting,,126.0
+3523,Kundun,,134.0
+3524,L.A. Confidential,,138.0
+3525,Men in Black,,98.0
+3526,My Best Friend's Wedding,,104.0
+3527,Elizabeth,,123.0
+3528,Pleasantville,,124.0
+3529,The Thin Red Line,,171.0
+3530,Shakespeare in Love,,123.0
+3531,A Bug's Life,,95.0
+3532,Mulan,,115.0
+3533,Patch Adams,,115.0
+3534,The Prince of Egypt,,99.0
+3535,The Red Violin,,131.0
+3536,American Beauty,,122.0
+3537,Angela's Ashes,,145.0
+3538,The Cider House Rules,,125.0
+3539,The Talented Mr. Ripley,,139.0
+3540,Tan Dun,,
+3541,Chocolat,,121.0
+3542,Malèna,,108.0
+3543,The Patriot,,165.0
+3544,The Lord of the Rings: The Fellowship of the Ring,,178.0
+3545,A.I. Artificial Intelligence,,146.0
+3546,A Beautiful Mind,,135.0
+3547,Harry Potter and the Sorcerer's Stone,,152.0
+3548,Frida,,123.0
+3549,Catch Me If You Can,,141.0
+3550,The Hours,,114.0
+3551,Road to Perdition,,117.0
+3552,The Lord of the Rings: The Return of the King,,201.0
+3553,Big Fish,,125.0
+3554,Cold Mountain,,154.0
+3555,House of Sand and Fog,,124.0
+3556,Finding Neverland,,101.0
+3557,Harry Potter and the Prisoner of Azkaban,,142.0
+3558,Lemony Snicket's A Series of Unfortunate Events,,108.0
+3559,The Passion of the Christ,,127.0
+3560,The Village,,108.0
+3561,Brokeback Mountain,,134.0
+3562,The Constant Gardener,,129.0
+3563,Memoirs of a Geisha,,145.0
+3564,Pride & Prejudice,,127.0
+3565,The Good German,,105.0
+3566,Notes on a Scandal,,91.0
+3567,Atonement,,123.0
+3568,3:10 to Yuma,,122.0
+3569,The Kite Runner,,128.0
+3570,Slumdog Millionaire,,120.0
+3571,The Curious Case of Benjamin Button,,166.0
+3572,Defiance,,137.0
+3573,Milk,,128.0
+3574,Avatar,,162.0
+3575,The Hurt Locker,,131.0
+3576,Sherlock Holmes,,129.0
+3577,Trent Reznor,,
+3578,127 Hours,,94.0
+3579,The Adventures of Tintin,,107.0
+3580,Hugo,,126.0
+3581,Tinker Tailor Soldier Spy,,127.0
+3582,War Horse,,146.0
+3583,Life of Pi,,127.0
+3584,Anna Karenina,,130.0
+3585,Argo,,120.0
+3586,Lincoln,,150.0
+3587,Skyfall,,143.0
+3588,Gravity,,91.0
+3589,The Book Thief,,130.0
+3590,Her,,126.0
+3591,Philomena,,98.0
+3592,Saving Mr. Banks,,125.0
+3593,The Imitation Game,,115.0
+3594,Interstellar,,169.0
+3595,Mr. Turner,,150.0
+3596,The Theory of Everything,,123.0
+3597,The Hateful Eight,,187.0
+3598,Carol,,119.0
+3599,Sicario,,121.0
+3600,Star Wars: The Force Awakens,,138.0
+3601,Jackie,,100.0
+3602,Lion,,118.0
+3603,Moonlight,,111.0
+3604,Passengers,,116.0
+3605,Dunkirk,,106.0
+3606,Phantom Thread,,130.0
+3607,Star Wars: The Last Jedi,,152.0
+3608,Black Panther,,134.0
+3609,BlacKkKlansman,,135.0
+3610,If Beale Street Could Talk,,117.0
+3611,Mary Poppins Returns,,131.0
+3612,Joker,,122.0
+3613,Star Wars: The Rise of Skywalker,,142.0
+3614,Da 5 Bloods,,156.0
+3615,Mank,,131.0
+3616,News of the World,,118.0
+3617,Encanto,,102.0
+3618,Parallel Mothers,,120.0
+3619,The Power of the Dog,,126.0
+3620,Babylon,,189.0
+3621,American Fiction,,117.0
+3622,Indiana Jones and the Dial of Destiny,,154.0
+3623,Killers of the Flower Moon,,206.0
+3624,Poor Things,,142.0
+3625,Conclave,,120.0
+3626,Emilia Pérez,,132.0
+3627,Wicked,,160.0
+3628,Con Conrad,,
+3629,Flying Down to Rio,,89.0
+3630,She Loves Me Not,,85.0
+3631,Gold Diggers of 1935,,95.0
+3632,Roberta,,5.0
+3633,Swing Time,,103.0
+3634,Born to Dance,,106.0
+3635,Pennies from Heaven,,108.0
+3636,"Sing, Baby, Sing",,90.0
+3637,Suzy,,93.0
+3638,The Trail of the Lonesome Pine,,102.0
+3639,Waikiki Wedding,,89.0
+3640,Artists and Models,,97.0
+3641,Mr. Dodd Takes the Air,,87.0
+3642,Shall We Dance,,109.0
+3643,Walter Wanger's Vogues of 1938,,109.0
+3644,The Big Broadcast of 1938,,
+3645,Going Places,,84.0
+3646,The Lady Objects,,66.0
+3647,Mannequin,,90.0
+3648,Merrily We Live,,95.0
+3649,That Certain Age,,95.0
+3650,Under Western Stars,,65.0
+3651,Second Fiddle,,85.0
+3652,Down Argentine Way,,89.0
+3653,Music in My Heart,,70.0
+3654,Rhythm on the River,,92.0
+3655,You'll Find Out,,97.0
+3656,Lady Be Good,,112.0
+3657,All-American Co-ed,,53.0
+3658,Blues in the Night,,88.0
+3659,Las Vegas Nights,,90.0
+3660,Ridin' on a Rainbow,,75.0
+3661,Always in My Heart,,92.0
+3662,Babes on Broadway,,118.0
+3663,Hellzapoppin',,84.0
+3664,The Mayor of 44th Street,,86.0
+3665,Orchestra Wives,,98.0
+3666,Youth on Parade,,72.0
+3667,"Hello, Frisco, Hello",,99.0
+3668,Cabin in the Sky,,98.0
+3669,Hers to Hold,,94.0
+3670,Thank Your Lucky Stars,,127.0
+3671,Follow the Boys,,122.0
+3672,Sweet and Low-Down,,76.0
+3673,Earl Carroll Vanities,,91.0
+3674,Here Come the Waves,,99.0
+3675,San Antonio,,109.0
+3676,Sing Your Way Home,,72.0
+3677,The Story of G.I. Joe,,108.0
+3678,Canyon Passage,,92.0
+3679,The Dolly Sisters,,114.0
+3680,Good News,,93.0
+3681,The Perils of Pauline,,96.0
+3682,"The Time, the Place and the Girl",,105.0
+3683,The Paleface,,91.0
+3684,Casbah,,94.0
+3685,That Lady in Ermine,,89.0
+3686,Wet Blanket Policy,,
+3687,Neptune's Daughter,,95.0
+3688,Come to the Stable,,94.0
+3689,It's a Great Feeling,,85.0
+3690,My Foolish Heart,,98.0
+3691,So Dear to My Heart,,82.0
+3692,Ray Evans,,
+3693,Singing Guns,,91.0
+3694,The Toast of New Orleans,,97.0
+3695,Wabash Avenue,,92.0
+3696,Here Comes the Groom,,113.0
+3697,Golden Girl,,108.0
+3698,"Rich, Young and Pretty",,95.0
+3699,Royal Wedding,,93.0
+3700,The Strip,,85.0
+3701,Because You're Mine,,103.0
+3702,Just for You,,104.0
+3703,Son of Paleface,,95.0
+3704,The Caddy,,95.0
+3705,Miss Sadie Thompson,,91.0
+3706,The Moon Is Blue,,99.0
+3707,Small Town Girl,,92.0
+3708,Susan Slept Here,,98.0
+3709,White Christmas,,120.0
+3710,The Tender Trap,,111.0
+3711,Unchained,,75.0
+3712,The Man Who Knew Too Much,,120.0
+3713,Written on the Wind,,99.0
+3714,The Joker Is Wild,,126.0
+3715,April Love,,97.0
+3716,Tammy and the Bachelor,,89.0
+3717,Wild Is the Wind,,114.0
+3718,A Certain Smile,,104.0
+3719,Marjorie Morningstar,,123.0
+3720,Some Came Running,,136.0
+3721,A Hole in the Head,,120.0
+3722,The Best of Everything,,121.0
+3723,The Hanging Tree,,107.0
+3724,The Young Land,,89.0
+3725,Manos Hatzidakis,,
+3726,High Time,,103.0
+3727,Bachelor in Paradise,,109.0
+3728,Pocketful of Miracles,,137.0
+3729,Town Without Pity,,105.0
+3730,Days of Wine and Roses,,117.0
+3731,Tender Is the Night,,142.0
+3732,Two for the Seesaw,,119.0
+3733,Walk on the Wild Side,,114.0
+3734,Papa's Delicate Condition,,98.0
+3735,Charade,,113.0
+3736,Mondo Cane,,108.0
+3737,Dear Heart,,113.0
+3738,Where Love Has Gone,,114.0
+3739,The Sandpiper,,117.0
+3740,The Great Race,,160.0
+3741,What's New Pussycat?,,108.0
+3742,Alfie,,114.0
+3743,An American Dream,,103.0
+3744,Georgy Girl,,99.0
+3745,Banning,,102.0
+3746,Casino Royale,,144.0
+3747,The Jungle Book,,106.0
+3748,Chitty Chitty Bang Bang,,145.0
+3749,For Love of Ivy,,101.0
+3750,The Happy Ending,,112.0
+3751,The Prime of Miss Jean Brodie,,116.0
+3752,The Sterile Cuckoo,,107.0
+3753,True Grit,,110.0
+3754,Fred Karlin,,
+3755,Madron,,90.0
+3756,Pieces of Dreams,,99.0
+3757,Bless the Beasts & Children,,109.0
+3758,Kotch,,113.0
+3759,Sometimes a Great Notion,,113.0
+3760,Ben,,94.0
+3761,The Life and Times of Judge Roy Bean,,120.0
+3762,The Little Ark,,100.0
+3763,The Stepmother,,94.0
+3764,Live and Let Die,,121.0
+3765,Robin Hood,,83.0
+3766,Benji,,85.0
+3767,Blazing Saddles,,93.0
+3768,Gold,,120.0
+3769,Nashville,,160.0
+3770,Mahogany,,109.0
+3771,The Other Side of the Mountain,,103.0
+3772,Whiffs,,91.0
+3773,Half a House,,95.0
+3774,The Pink Panther Strikes Again,,103.0
+3775,You Light Up My Life,,90.0
+3776,The Rescuers,,77.0
+3777,Thank God It's Friday,,89.0
+3778,Foul Play,,116.0
+3779,Grease,,110.0
+3780,The Magic of Lassie,,100.0
+3781,"Same Time, Next Year",,119.0
+3782,Norma Rae,,110.0
+3783,Ice Castles,,110.0
+3784,The Promise,,97.0
+3785,9 to 5,,110.0
+3786,The Competition,,126.0
+3787,Honeysuckle Rose,,119.0
+3788,Endless Love,,116.0
+3789,For Your Eyes Only,,127.0
+3790,The Great Muppet Caper,,97.0
+3791,Best Friends,,108.0
+3792,Rocky III,,100.0
+3793,"Yes, Giorgio",,110.0
+3794,Flashdance,,97.0
+3795,Tender Mercies,,92.0
+3796,The Woman in Red,,86.0
+3797,Against All Odds,,121.0
+3798,Footloose,,107.0
+3799,Let's Hear It for the Boy,,
+3800,Ghostbusters,,105.0
+3801,White Nights,,136.0
+3802,A Chorus Line,,118.0
+3803,An American Tail,,81.0
+3804,The Karate Kid Part II,,113.0
+3805,Little Shop of Horrors,,94.0
+3806,That's Life!,,102.0
+3807,Dirty Dancing,,100.0
+3808,Beverly Hills Cop II,,103.0
+3809,The Princess Bride,,98.0
+3810,Working Girl,,113.0
+3811,Bagdad Cafe,,108.0
+3812,Buster,,102.0
+3813,Chances Are,,108.0
+3814,Parenthood,,124.0
+3815,Shirley Valentine,,108.0
+3816,Stephen Sondheim,,
+3817,The Godfather Part III,,162.0
+3818,Postcards from the Edge,,101.0
+3819,Young Guns II,,104.0
+3820,Hook,,142.0
+3821,Robin Hood: Prince of Thieves,,143.0
+3822,The Bodyguard,,129.0
+3823,Run to You,,
+3824,The Mambo Kings,,104.0
+3825,Beethoven's 2nd,,89.0
+3826,Poetic Justice,,109.0
+3827,Junior,,109.0
+3828,The Paper,,112.0
+3829,Dead Man Walking,,122.0
+3830,Don Juan DeMarco,,97.0
+3831,Evita,,134.0
+3832,The Mirror Has Two Faces,,126.0
+3833,One Fine Day,,108.0
+3834,That Thing You Do!,,108.0
+3835,Up Close and Personal,,124.0
+3836,Con Air,,115.0
+3837,Hercules,,93.0
+3838,Armageddon,,150.0
+3839,Babe: Pig in the City,,96.0
+3840,The Horse Whisperer,,169.0
+3841,Quest for Camelot,,86.0
+3842,Tarzan,,88.0
+3843,Music of the Heart,,123.0
+3844,"South Park: Bigger, Longer & Uncut",,81.0
+3845,Toy Story 2,,92.0
+3846,Bob Dylan,,
+3847,"Crouching Tiger, Hidden Dragon",,120.0
+3848,Dancer in the Dark,,140.0
+3849,The Emperor's New Groove,,78.0
+3850,Meet the Parents,,108.0
+3851,Kate & Leopold,,123.0
+3852,Pearl Harbor,,183.0
+3853,Vanilla Sky,,136.0
+3854,8 Mile,,111.0
+3855,Chicago,,113.0
+3856,The Wild Thornberrys Movie,,85.0
+3857,You Will Be My Ain True Love,,
+3858,A Mighty Wind,,92.0
+3859,The Motorcycle Diaries,,126.0
+3860,The Chorus,,96.0
+3861,The Phantom of the Opera,,143.0
+3862,The Polar Express,,100.0
+3863,Hustle & Flow,,116.0
+3864,Crash,,112.0
+3865,Transamerica,,103.0
+3866,Dreamgirls,,130.0
+3867,Love You I Do,,
+3868,Patience,,
+3869,Once,,86.0
+3870,August Rush,,114.0
+3871,Enchanted,,107.0
+3872,Crazy Heart,,112.0
+3873,Nine,,118.0
+3874,Paris 36,,120.0
+3875,Randy Newman,,
+3876,Country Strong,,117.0
+3877,Tangled,,100.0
+3878,The Muppets,,103.0
+3879,Rio,,96.0
+3880,Chasing Ice,,75.0
+3881,Ted,,106.0
+3882,Frozen,,102.0
+3883,Mandela: Long Walk to Freedom,,146.0
+3884,Selma,,128.0
+3885,Begin Again,,104.0
+3886,Beyond the Lights,,116.0
+3887,Glen Campbell: I'll Be Me,,116.0
+3888,The Lego Movie,,101.0
+3889,Spectre,,148.0
+3890,Fifty Shades of Grey,,125.0
+3891,The Hunting Ground,,103.0
+3892,Racing Extinction,,94.0
+3893,Youth,,124.0
+3894,Jim: The James Foley Story,,111.0
+3895,Trolls,,92.0
+3896,Coco,,105.0
+3897,Call Me by Your Name,,132.0
+3898,The Greatest Showman,,105.0
+3899,Marshall,,118.0
+3900,Mudbound,,134.0
+3901,The Ballad of Buster Scruggs,,133.0
+3902,Rocketman,,121.0
+3903,Breakthrough,,116.0
+3904,Frozen II,,103.0
+3905,Harriet,,125.0
+3906,Toy Story 4,,100.0
+3907,D'Mile,,
+3908,Eurovision Song Contest: The Story of Fire Saga,,123.0
+3909,The Life Ahead,,95.0
+3910,One Night in Miami...,,114.0
+3911,Belfast,,97.0
+3912,Four Good Days,,100.0
+3913,Black Panther: Wakanda Forever,,161.0
+3914,Tell It Like a Woman,,110.0
+3915,Top Gun: Maverick,,130.0
+3916,American Symphony,,104.0
+3917,Barbie,,114.0
+3918,Flamin' Hot,,99.0
+3919,Elton John: Never Too Late,,102.0
+3920,Sing Sing,,105.0
+3921,The Six Triple Eight,,127.0
+3922,Joseph T. Rucker,,
+3923,Anna Christie,,89.0
+3924,Hell's Angels,,131.0
+3925,1930/31,,
+3926,Morocco,,91.0
+3927,The Right to Love,,79.0
+3928,Svengali,,81.0
+3929,1932/33,,
+3930,Reunion in Vienna,,100.0
+3931,The Sign of the Cross,,125.0
+3932,The Affairs of Cellini,,80.0
+3933,Operator 13,,85.0
+3934,Barbary Coast,,90.0
+3935,The Crusades,,125.0
+3936,The Gorgeous Hussy,,103.0
+3937,Wings over Honolulu,,78.0
+3938,The Great Waltz,,104.0
+3939,Algiers,,99.0
+3940,The Buccaneer,,126.0
+3941,Vivacious Lady,,90.0
+3942,Abe Lincoln in Illinois,,110.0
+3943,Boom Town,,119.0
+3944,Bitter Sweet,,94.0
+3945,The Blue Bird,,88.0
+3946,Northwest Passage,,125.0
+3947,That Hamilton Woman,,128.0
+3948,Blood and Sand,,125.0
+3949,Aloma of the South Seas,,78.0
+3950,Billy the Kid,,94.0
+3951,Dive Bomber,,133.0
+3952,Louisiana Purchase,,98.0
+3953,Moontide,,95.0
+3954,"Take a Letter, Darling",,92.0
+3955,Ten Gentlemen from West Point,,103.0
+3956,This Above All,,110.0
+3957,Captains of the Clouds,,114.0
+3958,Reap the Wild Wind,,123.0
+3959,To the Shores of Tripoli,,86.0
+3960,Corvette K-225,,98.0
+3961,Five Graves to Cairo,,96.0
+3962,Sahara,,98.0
+3963,Lassie Come Home,,89.0
+3964,Laura,,88.0
+3965,Dragon Seed,,147.0
+3966,Lifeboat,,97.0
+3967,Thirty Seconds Over Tokyo,,138.0
+3968,The Uninvited,,98.0
+3969,The White Cliffs of Dover,,126.0
+3970,Home in Indiana,,103.0
+3971,The Picture of Dorian Gray,,110.0
+3972,Leave Her to Heaven,,110.0
+3973,National Velvet,,123.0
+3974,The Spanish Main,,100.0
+3975,The Green Years,,127.0
+3976,Green Dolphin Street,,142.0
+3977,The Ghost and Mrs. Muir,,104.0
+3978,Black Narcissus,,100.0
+3979,The Naked City,,96.0
+3980,A Foreign Affair,,116.0
+3981,I Remember Mama,,134.0
+3982,Portrait of Jennie,,86.0
+3983,Green Grass of Wyoming,,89.0
+3984,The Loves of Carmen,,97.0
+3985,The Three Musketeers,,125.0
+3986,Prince of Foxes,,107.0
+3987,She Wore a Yellow Ribbon,,103.0
+3988,The Barkleys of Broadway,,109.0
+3989,Sand,,78.0
+3990,The Third Man,,104.0
+3991,The Asphalt Jungle,,112.0
+3992,The Furies,,109.0
+3993,Broken Arrow,,93.0
+3994,The Frogmen,,96.0
+3995,Strangers on a Train,,101.0
+3996,When Worlds Collide,,83.0
+3997,The Bad and the Beautiful,,118.0
+3998,The Big Sky,,122.0
+3999,My Cousin Rachel,,98.0
+4000,Sudden Fear,,110.0
+4001,Million Dollar Mermaid,,115.0
+4002,The Snows of Kilimanjaro,,114.0
+4003,The Four Poster,,103.0
+4004,Martin Luther,,105.0
+4005,All the Brothers Were Valiant,,95.0
+4006,Beneath the 12-Mile Reef,,102.0
+4007,Executive Suite,,103.0
+4008,Rogue Cop,,92.0
+4009,The Egyptian,,140.0
+4010,Rear Window,,111.0
+4011,Blackboard Jungle,,101.0
+4012,I'll Cry Tomorrow,,119.0
+4013,Queen Bee,,95.0
+4014,To Catch a Thief,,106.0
+4015,A Man Called Peter,,119.0
+4016,Somebody Up There Likes Me,,114.0
+4017,Baby Doll,,114.0
+4018,The Bad Seed,,129.0
+4019,The Harder They Fall,,109.0
+4020,Stagecoach to Fury,,76.0
+4021,War and Peace,,208.0
+4022,Desire Under the Elms,,111.0
+4023,I Want to Live!,,120.0
+4024,Career,,105.0
+4025,Some Like It Hot,,121.0
+4026,The Young Philadelphians,,136.0
+4027,The Big Fisherman,,180.0
+4028,Sons and Lovers,,103.0
+4029,Inherit the Wind,,128.0
+4030,Psycho,,109.0
+4031,The Hustler,,135.0
+4032,The Absent-Minded Professor,,97.0
+4033,The Children's Hour,,107.0
+4034,Judgment at Nuremberg,,190.0
+4035,"One, Two, Three",,104.0
+4036,A Majority of One,,156.0
+4037,One-Eyed Jacks,,141.0
+4038,The Longest Day,,178.0
+4039,Birdman of Alcatraz,,143.0
+4040,What Ever Happened to Baby Jane?,,134.0
+4041,Hatari!,,157.0
+4042,Hud,,112.0
+4043,The Balcony,,84.0
+4044,The Caretakers,,97.0
+4045,Lilies of the Field,,94.0
+4046,The Cardinal,,175.0
+4047,Zorba the Greek,,142.0
+4048,The Americanization of Emily,,115.0
+4049,Fate Is the Hunter,,106.0
+4050,The Night of the Iguana,,125.0
+4051,Cheyenne Autumn,,154.0
+4052,Ship of Fools,,150.0
+4053,In Harm's Way,,165.0
+4054,King Rat,,134.0
+4055,Morituri,,123.0
+4056,Is Paris Burning?,,173.0
+4057,Seconds,,107.0
+4058,A Man for All Seasons,,120.0
+4059,Fantastic Voyage,,100.0
+4060,The Professionals,,117.0
+4061,Ice Station Zebra,,149.0
+4062,Marooned,,134.0
+4063,Freddie Young,,
+4064,Tora! Tora! Tora!,,144.0
+4065,The French Connection,,104.0
+4066,The Last Picture Show,,118.0
+4067,1776,,
+4068,Butterflies Are Free,,109.0
+4069,Travels with My Aunt,,109.0
+4070,The Exorcist,,122.0
+4071,Jonathan Livingston Seagull,,99.0
+4072,Earthquake,,123.0
+4073,Lenny,,111.0
+4074,The Day of the Locust,,144.0
+4075,The Hindenburg,,125.0
+4076,King Kong,,187.0
+4077,Logan's Run,,118.0
+4078,Network,,121.0
+4079,Islands in the Stream,,105.0
+4080,Looking for Mr. Goodbar,,136.0
+4081,1941,,
+4082,The Black Hole,,98.0
+4083,Kramer vs. Kramer,,105.0
+4084,Geoffrey Unsworth,,
+4085,The Blue Lagoon,,105.0
+4086,The Formula,,117.0
+4087,Excalibur,,141.0
+4088,Das Boot,,149.0
+4089,Zelig,,79.0
+4090,Amadeus,,161.0
+4091,Murphy's Romance,,107.0
+4092,Ran,,162.0
+4093,Peggy Sue Got Married,,103.0
+4094,A Room with a View,,117.0
+4095,Matewan,,132.0
+4096,Tequila Sunrise,,115.0
+4097,The Unbearable Lightness of Being,,171.0
+4098,Who Framed Roger Rabbit,,104.0
+4099,The Abyss,,140.0
+4100,Blaze,,117.0
+4101,Dean Semler,,
+4102,Dick Tracy,,105.0
+4103,Henry & June,,136.0
+4104,Terminator 2: Judgment Day,,137.0
+4105,Thelma & Louise,,129.0
+4106,Hoffa,,140.0
+4107,The Lover,,115.0
+4108,Farewell My Concubine,,171.0
+4109,The Piano,,117.0
+4110,Searching for Bobby Fischer,,109.0
+4111,The Shawshank Redemption,,142.0
+4112,Wyatt Earp,,190.0
+4113,Batman Forever,,122.0
+4114,A Little Princess,,97.0
+4115,Shanghai Triad,,103.0
+4116,Fargo,,98.0
+4117,Fly Away Home,,107.0
+4118,The Wings of the Dove,,102.0
+4119,A Civil Action,,115.0
+4120,The End of the Affair,,102.0
+4121,The Insider,,158.0
+4122,Sleepy Hollow,,106.0
+4123,Snow Falling on Cedars,,127.0
+4124,Peter Pau,,
+4125,"O Brother, Where Art Thou?",,107.0
+4126,Black Hawk Down,,144.0
+4127,The Man Who Wasn't There,,116.0
+4128,Moulin Rouge!,,128.0
+4129,The Pianist,,149.0
+4130,City of God,,130.0
+4131,Girl with a Pearl Earring,,100.0
+4132,Seabiscuit,,141.0
+4133,House of Flying Daggers,,119.0
+4134,A Very Long Engagement,,134.0
+4135,Batman Begins,,140.0
+4136,The New World,,150.0
+4137,The Black Dahlia,,120.0
+4138,Children of Men,,109.0
+4139,The Prestige,,130.0
+4140,The Assassination of Jesse James by the Coward Robert Ford,,160.0
+4141,The Diving Bell and the Butterfly,,112.0
+4142,No Country for Old Men,,122.0
+4143,Changeling,,142.0
+4144,The Dark Knight,,152.0
+4145,The Reader,,124.0
+4146,Harry Potter and the Half-Blood Prince,,153.0
+4147,The White Ribbon,,144.0
+4148,Wally Pfister,,
+4149,The Social Network,,120.0
+4150,The Girl with the Dragon Tattoo,,158.0
+4151,The Tree of Life,,139.0
+4152,Django Unchained,,165.0
+4153,The Grandmaster,,130.0
+4154,Inside Llewyn Davis,,105.0
+4155,Prisoners,,153.0
+4156,Ida,,82.0
+4157,Unbroken,,138.0
+4158,Mad Max: Fury Road,,120.0
+4159,Arrival,,116.0
+4160,Silence,,161.0
+4161,Darkest Hour,,125.0
+4162,Cold War,,88.0
+4163,Never Look Away,,188.0
+4164,The Irishman,,209.0
+4165,The Lighthouse,,109.0
+4166,Erik Messerschmidt,,
+4167,Nightmare Alley,,150.0
+4168,The Tragedy of Macbeth,,105.0
+4169,"Bardo, False Chronicle of a Handful of Truths",,174.0
+4170,Elvis,,159.0
+4171,Empire of Light,,115.0
+4172,El Conde,,110.0
+4173,Dune: Part Two,,166.0
+4174,Maria,,124.0
+4175,Nosferatu,,132.0
+4176,Conrad A. Nervig,,
+4177,Lloyd's of London,,115.0
+4178,Theodora Goes Wild,,94.0
+4179,Anne Bauchens,,
+4180,Janie,,102.0
+4181,Odd Man Out,,116.0
+4182,Red River,,133.0
+4183,Sands of Iwo Jima,,100.0
+4184,The Window,,73.0
+4185,Ralph E. Winters,,
+4186,"Come Back, Little Sheba",,99.0
+4187,Flat Top,,85.0
+4188,Crazylegs,,87.0
+4189,The War of the Worlds,,85.0
+4190,"20,000 Leagues Under the Sea",,127.0
+4191,The Bridges at Toko-Ri,,102.0
+4192,The Brave One,,100.0
+4193,Gunfight at the O.K. Corral,,122.0
+4194,Pal Joey,,109.0
+4195,Cowboy,,92.0
+4196,Daniel Mandell,,
+4197,The Parent Trap,,128.0
+4198,The Manchurian Candidate,,126.0
+4199,The Great Escape,,172.0
+4200,Father Goose,,118.0
+4201,The Flight of the Phoenix,,142.0
+4202,Grand Prix,,176.0
+4203,"The Russians Are Coming, the Russians Are Coming",,126.0
+4204,In the Heat of the Night,,110.0
+4205,Beach Red,,105.0
+4206,The Dirty Dozen,,150.0
+4207,Bullitt,,113.0
+4208,The Odd Couple,,105.0
+4209,Wild in the Streets,,97.0
+4210,Z,,
+4211,Midnight Cowboy,,113.0
+4212,Hugh S. Fowler,,
+4213,M*A*S*H,,116.0
+4214,Woodstock,,185.0
+4215,The Andromeda Strain,,130.0
+4216,A Clockwork Orange,,136.0
+4217,Deliverance,,109.0
+4218,The Hot Rock,,105.0
+4219,The Day of the Jackal,,142.0
+4220,The Longest Yard,,121.0
+4221,Dog Day Afternoon,,125.0
+4222,The Man Who Would Be King,,129.0
+4223,Three Days of the Condor,,118.0
+4224,All the President's Men,,138.0
+4225,Two-Minute Warning,,115.0
+4226,Smokey and the Bandit,,96.0
+4227,Coming Home,,128.0
+4228,Apocalypse Now,,147.0
+4229,The Black Stallion,,118.0
+4230,The Rose,,134.0
+4231,Thelma Schoonmaker,,
+4232,The French Lieutenant's Woman,,127.0
+4233,Blue Thunder,,109.0
+4234,The Killing Fields,,141.0
+4235,The Cotton Club,,128.0
+4236,Romancing the Stone,,106.0
+4237,Prizzi's Honor,,129.0
+4238,Runaway Train,,110.0
+4239,Hannah and Her Sisters,,106.0
+4240,Fatal Attraction,,119.0
+4241,RoboCop,,102.0
+4242,Die Hard,,132.0
+4243,Mississippi Burning,,128.0
+4244,The Bear,,94.0
+4245,Driving Miss Daisy,,99.0
+4246,Glory,,122.0
+4247,Neil Travis,,
+4248,Goodfellas,,146.0
+4249,The Hunt for Red October,,135.0
+4250,The Commitments,,118.0
+4251,The Silence of the Lambs,,118.0
+4252,The Crying Game,,111.0
+4253,A Few Good Men,,138.0
+4254,The Player,,124.0
+4255,In the Name of the Father,,133.0
+4256,Hoop Dreams,,171.0
+4257,Pulp Fiction,,154.0
+4258,Speed,,116.0
+4259,Babe,,92.0
+4260,Crimson Tide,,116.0
+4261,Seven,,127.0
+4262,Air Force One,,124.0
+4263,Out of Sight,,123.0
+4264,The Matrix,,136.0
+4265,Stephen Mirrione,,
+4266,Almost Famous,,122.0
+4267,Wonder Boys,,111.0
+4268,The Lord of the Rings: The Two Towers,,179.0
+4269,Master and Commander: The Far Side of the World,,138.0
+4270,Collateral,,120.0
+4271,Million Dollar Baby,,132.0
+4272,Ray,,152.0
+4273,Cinderella Man,,144.0
+4274,Munich,,163.0
+4275,Walk the Line,,136.0
+4276,The Departed,,151.0
+4277,Blood Diamond,,143.0
+4278,United 93,,110.0
+4279,The Bourne Ultimatum,,115.0
+4280,Into the Wild,,148.0
+4281,There Will Be Blood,,158.0
+4282,Frost/Nixon,,122.0
+4283,District 9,,112.0
+4284,Precious: Based on the Novel 'Push' by Sapphire,,110.0
+4285,Angus Wall,,
+4286,The Descendants,,115.0
+4287,Moneyball,,133.0
+4288,Silver Linings Playbook,,122.0
+4289,12 Years a Slave,,134.0
+4290,Captain Phillips,,134.0
+4291,Whiplash,,106.0
+4292,American Sniper,,132.0
+4293,The Big Short,,130.0
+4294,The Revenant,,156.0
+4295,Spotlight,,129.0
+4296,Hacksaw Ridge,,139.0
+4297,Baby Driver,,113.0
+4298,"I, Tonya",,120.0
+4299,Bohemian Rhapsody,,134.0
+4300,Green Book,,130.0
+4301,Ford v Ferrari,,152.0
+4302,Jojo Rabbit,,108.0
+4303,Mikkel E. G. Nielsen,,
+4304,Promising Young Woman,,114.0
+4305,"tick, tick... BOOM!",,121.0
+4306,Anatomy of a Fall,,152.0
+4307,King of Jazz,,105.0
+4308,William Cameron Menzies,,
+4309,Hans Dreier,,
+4310,Jack Okey,,
+4311,Max Rée,,
+4312,Stephen Goosson,,
+4313,Anton Grot,,
+4314,Richard Day,,
+4315,Gordon Wiles,,
+4316,Lazare Meerson,,
+4317,William S. Darling,,
+4318,Cedric Gibbons,,
+4319,Van Nest Polglase,,
+4320,Carroll Clark,,
+4321,Albert S. D'Agostino,,
+4322,Perry Ferguson,,
+4323,Wiard Ihnen,,
+4324,John Victor Mackay,,
+4325,Lyle R. Wheeler,,
+4326,Alexander Toluboff,,
+4327,Jack Otterson,,
+4328,Carl Jules Weyl,,
+4329,Bernard Herzbrun,,
+4330,Charles D. Hall,,
+4331,Lionel Banks,,
+4332,James Basevi,,
+4333,Black-and-White,,
+4334,Alexander Golitzen,,
+4335,John DuCasse Schulze,,
+4336,Lewis J. Rachmil,,
+4337,Vincent Korda,,
+4338,Martin Obzina,,
+4339,John Hughes,,
+4340,Raoul Pene Du Bois,,
+4341,Max Parker,,
+4342,Boris Leven,,
+4343,Ralph Berger,,
+4344,John B. Goodman,,
+4345,Ted Smith,,
+4346,Mark-Lee Kirk,,
+4347,Charles Novi,,
+4348,Ernst Fegté,,
+4349,John Bryan,,
+4350,Paul Sheriff,,
+4351,Wilfred Shingleton,,
+4352,Alfred Junge,,
+4353,Robert M. Haas,,
+4354,Roger K. Furse,,
+4355,Hein Heckroth,,
+4356,Harry Horner,,
+4357,Edward Carrere,,
+4358,Jim Morahan,,
+4359,George W. Davis,,
+4360,Leland Fuller,,
+4361,John DeCuir,,
+4362,D'Eaubonne,,
+4363,E. Preston Ames,,
+4364,George Davis,,
+4365,Edward Carfagno,,
+4366,Roland Anderson,,
+4367,So Matsuyama,,
+4368,Clavé,,
+4369,Frank Hotaling,,
+4370,Paul Markwitz,,
+4371,Hal Pereira,,
+4372,Maurice Ransford,,
+4373,Max Ophüls,,
+4374,John Meehan,,
+4375,Malcolm Bert,,
+4376,Joseph C. Wright,,
+4377,Edward S. Haworth,,
+4378,William Flannery,,
+4379,Oliver Smith,,
+4380,Ross Bellah,,
+4381,James W. Sullivan,,
+4382,Walter H. Tyler,,
+4383,Ted Haworth,,
+4384,William A. Horning,,
+4385,Walter Holscher,,
+4386,Cary Odell,,
+4387,Carl Anderson,,
+4388,Oliver Messel,,
+4389,Richard H. Riedel,,
+4390,Alexandre Trauner,,
+4391,Joseph McMillan Johnson,,
+4392,Joseph Hurley,,
+4393,Tom Morahan,,
+4394,Fernando Carrere,,
+4395,Rudolph Sternad,,
+4396,Piero Gherardi,,
+4397,Veniero Colasanti,,
+4398,John Box,,
+4399,Paul Groesse,,
+4400,Gene Callahan,,
+4401,Ralph W. Brinton,,
+4402,Vassilis Photopoulos,,
+4403,William Glasgow,,
+4404,Stephen B. Grimes,,
+4405,Gene Allen,,
+4406,Jack Martin Smith,,
+4407,Robert Clatworthy,,
+4408,Robert Emmet Smith,,
+4409,Richard Sylbert,,
+4410,Robert Luthardt,,
+4411,Luigi Scaccianoce,,
+4412,Willy Holt,,
+4413,John Truscott,,
+4414,Mario Chiari,,
+4415,Renzo Mongiardino,,
+4416,Anthony Masters,,
+4417,Mikhail Bogdanov,,
+4418,Maurice Carter,,
+4419,Robert F. Boyle,,
+4420,Urie McCleary,,
+4421,Tambi Larsen,,
+4422,Terence Marsh,,
+4423,John B. Mansbridge,,
+4424,Rolf Zehetbauer,,
+4425,William Creber,,
+4426,Donald M. Ashton,,
+4427,Henry Bumstead,,
+4428,Lorenzo Mongiardino,,
+4429,Bill Malley,,
+4430,Philip M. Jefferies,,
+4431,Dean Tavoularis,,
+4432,Peter Ellenshaw,,
+4433,Ken Adam,,
+4434,Albert Brenner,,
+4435,George Jenkins,,
+4436,Elliot Scott,,
+4437,Dale Hennesy,,
+4438,George C. Webb,,
+4439,Joe Alves,,
+4440,Paul Sylbert,,
+4441,Mel Bourne,,
+4442,Tony Walton,,
+4443,Philip Rosenberg,,
+4444,Michael Seymour,,
+4445,Harold Michelson,,
+4446,Pierre Guffroy,,
+4447,John W. Corso,,
+4448,Stuart Craig,,
+4449,Norman Reynolds,,
+4450,Yoshirō Muraki,,
+4451,Assheton Gorton,,
+4452,John Graysmark,,
+4453,Lawrence G. Paull,,
+4454,Rodger Maus,,
+4455,Anna Asp,,
+4456,Geoffrey Kirkland,,
+4457,Polly Platt,,
+4458,Roy Walker,,
+4459,Patrizia von Brandenstein,,
+4460,Norman Garwood,,
+4461,J. Michael Riva,,
+4462,Stan Jolley,,
+4463,Gianni Quaranta,,
+4464,Peter Lamont,,
+4465,Stuart Wurtzel,,
+4466,Ferdinando Scarfiotti,,
+4467,Anthony Pratt,,
+4468,Santo Loquasto,,
+4469,Ida Random,,
+4470,Anton Furst,,
+4471,Leslie Dilley,,
+4472,Dante Ferretti,,
+4473,Bruno Rubeo,,
+4474,Ezio Frigerio,,
+4475,Jeffrey Beecroft,,
+4476,Dennis Gassner,,
+4477,Luciana Arrighi,,
+4478,Thomas E. Sanders,,
+4479,Allan Starski,,
+4480,Ben Van Os,,
+4481,Rick Carter,,
+4482,Lilly Kilvert,,
+4483,Eugenio Zanetti,,
+4484,Michael Corenblith,,
+4485,Roger Ford,,
+4486,Bo Welch,,
+4487,Tony Burrough,,
+4488,Brian Morris,,
+4489,Tim Harvey,,
+4490,Catherine Martin,,
+4491,Jan Roelfs,,
+4492,Jeannine Oppewall,,
+4493,Martin Childs,,
+4494,John Myhre,,
+4495,Tom Sanders,,
+4496,Rick Heinrichs,,
+4497,David Gropman,,
+4498,Eve Stewart,,
+4499,Arthur Max,,
+4500,Jean Rabasse,,
+4501,Aline Bonetto,,
+4502,Stephen Altman,,
+4503,Grant Major,,
+4504,Felipe Fernández del Paso,,
+4505,William Sandell,,
+4506,Gemma Jackson,,
+4507,Jim Bissell,,
+4508,Sarah Greenwood,,
+4509,Eugenio Caballero,,
+4510,Jeannine Claudia Oppewall,,
+4511,Nathan Crowley,,
+4512,Jack Fisk,,
+4513,Donald Graham Burt,,
+4514,James J. Murakami,,
+4515,Michael Carlin,,
+4516,Kristi Zea,,
+4517,Anastasia Masaro,,
+4518,Patrice Vermette,,
+4519,Robert Stromberg,,
+4520,Stephenie McMillan,,
+4521,Larry Dias,,
+4522,Judy Farr,,
+4523,Nancy Haigh,,
+4524,Francesca Lo Schiavo,,
+4525,Robert Gould,,
+4526,Hélène Dubreuil,,
+4527,Lee Sandales,,
+4528,Jim Erickson,,
+4529,Katie Spencer,,
+4530,Ra Vincent,,
+4531,Anna Lynch-Robinson,,
+4532,Anna Pinnock,,
+4533,Beverley Dunn,,
+4534,Heather Loeffler,,
+4535,Rosie Goodwin,,
+4536,Gene Serdena,,
+4537,Alice Baker,,
+4538,Tatiana Macdonald,,
+4539,Gary Fettis,,
+4540,Charlotte Watts,,
+4541,Lisa Thompson,,
+4542,Rena DeAngelo,,
+4543,Michael Standish,,
+4544,Celia Bobak,,
+4545,Hamish Purdy,,
+4546,Sandy Reynolds-Wasco,,
+4547,Paul Hotte,,
+4548,Shane Vieau,,
+4549,Alessandra Querzola,,
+4550,Jay Hart,,
+4551,Alice Felton,,
+4552,Kathy Lucas,,
+4553,Gordon Sim,,
+4554,Bárbara Enrı́quez,,
+4555,Regina Graves,,
+4556,Nora Sopková,,
+4557,Cho Won-woo,,
+4558,Cathy Featherstone,,
+4559,Karen O'Hara,,
+4560,Elizabeth Keenan,,
+4561,Zsuzsanna Sipos,,
+4562,Amber Richards,,
+4563,Ernestine Hipper,,
+4564,Vanessa Cole,,
+4565,Anthony Carlino,,
+4566,Bev Dunn,,
+4567,Zsuzsa Mihalek,,
+4568,Adam Willis,,
+4569,Elli Griff,,
+4570,Claire Kaufman,,
+4571,Patricia Cuccia,,
+4572,Cynthia Sleiter,,
+4573,Beatrice Brentnerová,,
+4574,Dorothy Jeakins,,
+4575,Edith Head,,
+4576,Vittorio Nino Novarese,,
+4577,Leah Rhodes,,
+4578,Kay Nelson,,
+4579,Jean Louis,,
+4580,Walter Plunkett,,
+4581,Michael Whittaker,,
+4582,Charles LeMaire,,
+4583,Edward Stevenson,,
+4584,Lucinda Ballard,,
+4585,Orry-Kelly,,
+4586,Helen Rose,,
+4587,Herschel McCoy,,
+4588,Sheila O'Brien,,
+4589,Marcel Vertès,,
+4590,Mary Ann Nyberg,,
+4591,Irene Sharaff,,
+4592,Georges Annenkov,,
+4593,Christian Dior,,
+4594,Sanzo Wada,,
+4595,Beatrice Dawson,,
+4596,Tadaoto Kainosho,,
+4597,Kohei Ezaki,,
+4598,Miles White,,
+4599,Moss Mabry,,
+4600,Maria De Matteis,,
+4601,Cecil Beaton,,
+4602,Ralph Jester,,
+4603,Howard Shoup,,
+4604,Elizabeth Haffenden,,
+4605,Adele Palmer,,
+4606,Renié,,
+4607,Deni Vachlioti,,
+4608,Bill Thomas,,
+4609,Marik Vos,,
+4610,Valles,,
+4611,Marjorie Best,,
+4612,Norma Koch,,
+4613,Don Feld,,
+4614,Ruth Morley,,
+4615,Denny Vachlioti,,
+4616,Mary Wills,,
+4617,Travilla,,
+4618,Donald Brooks,,
+4619,Piero Tosi,,
+4620,René Hubert,,
+4621,Margaret Furse,,
+4622,Morton Haack,,
+4623,Phyllis Dalton,,
+4624,Danilo Donati,,
+4625,Jocelyn Rickards,,
+4626,Theadora Van Runkle,,
+4627,Ray Aghayan,,
+4628,Donfeld,,
+4629,Jack Bear,,
+4630,Yvonne Blake,,
+4631,Anthony Powell,,
+4632,Anna Hill Johnstone,,
+4633,Paul Zastupnevich,,
+4634,Anthony Mendleson,,
+4635,Theoni V. Aldredge,,
+4636,Anthea Sylbert,,
+4637,John Furniss,,
+4638,Milena Canonero,,
+4639,Karin Erskine,,
+4640,William Ware Theiss,,
+4641,Alan Barrett,,
+4642,John Mollo,,
+4643,Florence Klotz,,
+4644,Patricia Norris,,
+4645,Albert Wolsky,,
+4646,Shirley Ann Russell,,
+4647,Ambra Danon,,
+4648,Judy Moorcroft,,
+4649,Anna Senior,,
+4650,Jean-Pierre Dorleac,,
+4651,Tom Rand,,
+4652,Bob Mackie,,
+4653,Bhanu Athaiya,,
+4654,Elois Jenssen,,
+4655,Marik Vos-Lundh,,
+4656,Joe I. Tompkins,,
+4657,Anne-Marie Marchand,,
+4658,Theodor Pištěk,,
+4659,Jenny Beavan,,
+4660,Ann Roth,,
+4661,Emi Wada,,
+4662,Aggie Guerard Rodgers,,
+4663,Enrico Sabbatini,,
+4664,Anna Anni,,
+4665,James Acheson,,
+4666,Bob Ringwood,,
+4667,Marilyn Vance-Straker,,
+4668,Deborah Nadoolman,,
+4669,Jane Robinson,,
+4670,Gabriella Pescucci,,
+4671,Elizabeth McBride,,
+4672,Franca Squarciapino,,
+4673,Gloria Gresham,,
+4674,Elsa Zamparelli,,
+4675,Maurizio Millenotti,,
+4676,Ruth Myers,,
+4677,Richard Hornung,,
+4678,Corinne Jorry,,
+4679,Eiko Ishioka,,
+4680,Sheena Napier,,
+4681,Ruth E. Carter,,
+4682,Sandy Powell,,
+4683,Janet Patterson,,
+4684,Anna B. Sheppard,,
+4685,Tim Chappel,,
+4686,Jeffrey Kurland,,
+4687,Colleen Atwood,,
+4688,April Ferry,,
+4689,Moidele Bickel,,
+4690,Julie Weiss,,
+4691,Charles Knode,,
+4692,Shuna Harwood,,
+4693,Paul Brown,,
+4694,Alexandra Byrne,,
+4695,Deborah Lynn Scott,,
+4696,Judianna Makovsky,,
+4697,Lindy Hemming,,
+4698,Gary Jones,,
+4699,Janty Yates,,
+4700,Tim Yip,,
+4701,Rita Ryack,,
+4702,Jacqueline West,,
+4703,Ngila Dickson,,
+4704,Dien van Straalen,,
+4705,Wendy Stites,,
+4706,Sharen Davis,,
+4707,Jacqueline Durran,,
+4708,Arianne Phillips,,
+4709,Chung Man Yee,,
+4710,Patricia Field,,
+4711,Consolata Boyle,,
+4712,Marit Allen,,
+4713,Michael O'Connor,,
+4714,Danny Glicker,,
+4715,Catherine Leterrier,,
+4716,Monique Prudhomme,,
+4717,Antonella Cannarozzi,,
+4718,Mary Zophres,,
+4719,Mark Bridges,,
+4720,Lisy Christl,,
+4721,Paco Delgado,,
+4722,Joanna Johnston,,
+4723,Michael Wilkinson,,
+4724,William Chang Suk Ping,,
+4725,Madeline Fontaine,,
+4726,Luis Sequeira,,
+4727,Mayes C. Rubeo,,
+4728,Trish Summerville,,
+4729,Bina Daigeler,,
+4730,Massimo Cantini Parrini,,
+4731,Paul Tazewell,,
+4732,Shirley Kurata,,
+4733,Holly Waddington,,
+4734,Ellen Mirojnick,,
+4735,Linda Muir,,
+4736,William J. Tuttle,,
+4737,Rick Baker,,
+4738,Heartbeeps,,78.0
+4739,Quest for Fire,,100.0
+4740,2010: The Year We Make Contact,,116.0
+4741,"Greystoke: The Legend of Tarzan, Lord of the Apes",,130.0
+4742,Mask,,120.0
+4743,Remo Williams: The Adventure Begins,,116.0
+4744,The Fly,,96.0
+4745,The Clan of the Cave Bear,,98.0
+4746,Legend,,89.0
+4747,Harry and the Hendersons,,110.0
+4748,Happy New Year,,85.0
+4749,Beetlejuice,,92.0
+4750,Coming to America,,117.0
+4751,Scrooged,,100.0
+4752,The Adventures of Baron Munchausen,,126.0
+4753,Dad,,117.0
+4754,John Caglione Jr.,,
+4755,Edward Scissorhands,,105.0
+4756,Star Trek VI: The Undiscovered Country,,110.0
+4757,Bram Stoker's Dracula,,128.0
+4758,Batman Returns,,126.0
+4759,Mrs. Doubtfire,,120.0
+4760,Ed Wood,,127.0
+4761,Mary Shelley's Frankenstein,,123.0
+4762,My Family,,126.0
+4763,Roommates,,108.0
+4764,The Nutty Professor,,96.0
+4765,Ghosts of Mississippi,,130.0
+4766,Star Trek: First Contact,,111.0
+4767,Mrs Brown,,103.0
+4768,Austin Powers: The Spy Who Shagged Me,,95.0
+4769,Bicentennial Man,,132.0
+4770,Life,,109.0
+4771,The Cell,,107.0
+4772,Shadow of the Vampire,,92.0
+4773,The Time Machine,,96.0
+4774,Pirates of the Caribbean: The Curse of the Black Pearl,,143.0
+4775,The Sea Inside,,125.0
+4776,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,143.0
+4777,Star Wars: Episode III – Revenge of the Sith,,140.0
+4778,Apocalypto,,138.0
+4779,Click,,107.0
+4780,La Vie en Rose,,140.0
+4781,Norbit,,102.0
+4782,Pirates of the Caribbean: At World's End,,168.0
+4783,Hellboy II: The Golden Army,,120.0
+4784,Star Trek,,127.0
+4785,Il divo,,110.0
+4786,The Young Victoria,,105.0
+4787,Barney's Version,,134.0
+4788,The Way Back,,133.0
+4789,The Iron Lady,,104.0
+4790,Albert Nobbs,,113.0
+4791,Harry Potter and the Deathly Hallows – Part 2,,130.0
+4792,Hitchcock,,98.0
+4793,The Hobbit: An Unexpected Journey,,169.0
+4794,Jackass Presents: Bad Grandpa,,92.0
+4795,The Lone Ranger,,149.0
+4796,Guardians of the Galaxy,,122.0
+4797,The 100-Year-Old Man Who Climbed Out of the Window and Disappeared,,112.0
+4798,Suicide Squad,,123.0
+4799,A Man Called Ove,,116.0
+4800,Star Trek Beyond,,122.0
+4801,Victoria & Abdul,,111.0
+4802,Wonder,,113.0
+4803,Border,,110.0
+4804,Mary Queen of Scots,,125.0
+4805,Judy,,118.0
+4806,Maleficent: Mistress of Evil,,119.0
+4807,Sergio López-Rivera,,
+4808,Hillbilly Elegy,,115.0
+4809,The Eyes of Tammy Faye,,126.0
+4810,Coming 2 America,,110.0
+4811,Cruella,,134.0
+4812,Dune,,137.0
+4813,House of Gucci,,158.0
+4814,The Whale,,117.0
+4815,The Batman,,176.0
+4816,Golda,,100.0
+4817,Society of the Snow,,144.0
+4818,A Different Man,,112.0
+4819,Blast from the Past,,112.0
+4820,Bedazzled,,93.0
+4821,A History of Violence,,96.0
+4822,Pirates of the Caribbean: Dead Man's Chest,,151.0
+4823,Anonymous,,130.0
+4824,The Amazing Spider-Man 2,,142.0
+4825,Black Mass,,123.0
+4826,Deadpool,,108.0
+4827,Bright,,118.0
+4828,Dolemite Is My Name,,118.0
+4829,Birds of Prey,,109.0
+4830,Cyrano,,124.0
+4831,Amsterdam,,134.0
+4832,Beau Is Afraid,,179.0
+4833,The Apprentice,,122.0
+4834,The Case of Sergeant Grischa,,82.0
+4835,Raffles,,72.0
+4836,Song of the Flame,,70.0
+4837,Gold Diggers of 1933,,96.0
+4838,"$1,000 a Minute",,70.0
+4839,Bride of Frankenstein,,75.0
+4840,The Dark Angel,,110.0
+4841,I Dream Too Much,,97.0
+4842,Love Me Forever,,91.0
+4843,Thanks a Million,,87.0
+4844,Banjo on My Knee,,95.0
+4845,General Spanky,,71.0
+4846,The Texas Rangers,,98.0
+4847,That Girl from Paris,,104.0
+4848,The Girl Said No,,76.0
+4849,Hitting a New High,,85.0
+4850,Topper,,97.0
+4851,Wells Fargo,,97.0
+4852,When Tomorrow Comes,,90.0
+4853,Balalaika,,102.0
+4854,Behind the News,,75.0
+4855,Captain Caution,,86.0
+4856,Too Many Husbands,,84.0
+4857,Appointment for Love,,89.0
+4858,The Devil Pays Off,,70.0
+4859,The Men in Her Life,,89.0
+4860,Skylark,,94.0
+4861,Topper Returns,,88.0
+4862,Friendly Enemies,,95.0
+4863,Once Upon a Honeymoon,,117.0
+4864,This Land Is Mine,,103.0
+4865,Riding High,,88.0
+4866,So This Is Washington,,64.0
+4867,His Butler's Sister,,87.0
+4868,Music in Manhattan,,81.0
+4869,Lady on a Train,,94.0
+4870,They Were Expendable,,135.0
+4871,Three Is a Family,,81.0
+4872,The Unseen,,80.0
+4873,T-Men,,92.0
+4874,Moonrise,,90.0
+4875,"Once More, My Darling",,92.0
+4876,Louisa,,90.0
+4877,Our Very Own,,93.0
+4878,Trio,,91.0
+4879,Bright Victory,,97.0
+4880,I Want You,,102.0
+4881,Two Tickets to Broadway,,106.0
+4882,The Promoter,,91.0
+4883,Knights of the Round Table,,115.0
+4884,The Mississippi Gambler,,99.0
+4885,Brigadoon,,108.0
+4886,Not as a Stranger,,135.0
+4887,Les Girls,,114.0
+4888,A Time to Love and a Time to Die,,132.0
+4889,Vertigo,,128.0
+4890,Journey to the Center of the Earth,,129.0
+4891,Libel,,100.0
+4892,Sunrise at Campobello,,144.0
+4893,Bon Voyage!,,130.0
+4894,"Captain Newman, M.D.",,126.0
+4895,A Gathering of Eagles,,116.0
+4896,Goldfinger,,110.0
+4897,The Lively Set,,95.0
+4898,Shenandoah,,105.0
+4899,Von Ryan's Express,,117.0
+4900,Gambit,,109.0
+4901,"Gaily, Gaily",,107.0
+4902,Diamonds Are Forever,,120.0
+4903,The Candidate,,109.0
+4904,The Paper Chase,,111.0
+4905,Paper Moon,,102.0
+4906,Young Frankenstein,,105.0
+4907,Silver Streak,,114.0
+4908,The Deep,,124.0
+4909,Sorcerer,,121.0
+4910,Hooper,,99.0
+4911,The Electric Horseman,,121.0
+4912,Meteor,,107.0
+4913,Outland,,109.0
+4914,Tron,,96.0
+4915,Never Cry Wolf,,105.0
+4916,Ladyhawke,,121.0
+4917,Rambo: First Blood Part II,,96.0
+4918,Lethal Weapon,,112.0
+4919,Bird,,160.0
+4920,Willow,,126.0
+4921,Black Rain,,125.0
+4922,Lethal Weapon 2,,114.0
+4923,(63rd),,
+4924,Days of Thunder,,108.0
+4925,Total Recall,,113.0
+4926,Flatliners,,114.0
+4927,Backdraft,,137.0
+4928,The Last of the Mohicans,,112.0
+4929,Under Siege,,103.0
+4930,Jurassic Park,,127.0
+4931,Cliffhanger,,113.0
+4932,Geronimo: An American Legend,,115.0
+4933,Clear and Present Danger,,141.0
+4934,Legends of the Fall,,133.0
+4935,Waterworld,,135.0
+4936,Independence Day,,145.0
+4937,The Rock,,136.0
+4938,Twister,,113.0
+4939,The Ghost and the Darkness,,110.0
+4940,Daylight,,114.0
+4941,Eraser,,114.0
+4942,Contact,,150.0
+4943,Face/Off,,139.0
+4944,The Fifth Element,,126.0
+4945,The Mask of Zorro,,137.0
+4946,The Green Mile,,189.0
+4947,The Mummy,,125.0
+4948,Star Wars: Episode I – The Phantom Menace,,134.0
+4949,Fight Club,,139.0
+4950,(73rd),,
+4951,Cast Away,,144.0
+4952,The Perfect Storm,,130.0
+4953,U-571,,116.0
+4954,Space Cowboys,,130.0
+4955,Spider-Man,,121.0
+4956,Minority Report,,145.0
+4957,The Last Samurai,,154.0
+4958,Spider-Man 2,,127.0
+4959,War of the Worlds,,116.0
+4960,Flags of Our Fathers,,132.0
+4961,Transformers,,143.0
+4962,Wanted,,110.0
+4963,Iron Man,,126.0
+4964,Transformers: Revenge of the Fallen,,150.0
+4965,(83rd),,
+4966,Salt,,100.0
+4967,Toy Story 3,,103.0
+4968,Tron: Legacy,,125.0
+4969,Unstoppable,,98.0
+4970,Transformers: Dark of the Moon,,154.0
+4971,Drive,,100.0
+4972,The Hobbit: The Desolation of Smaug,,161.0
+4973,Lone Survivor,,121.0
+4974,All Is Lost,,105.0
+4975,Birdman or (The Unexpected Virtue of Ignorance),,119.0
+4976,The Hobbit: The Battle of the Five Armies,,144.0
+4977,The Martian,,142.0
+4978,Rogue One: A Star Wars Story,,134.0
+4979,13 Hours: The Secret Soldiers of Benghazi,,144.0
+4980,Deepwater Horizon,,107.0
+4981,Sully,,96.0
+4982,Blade Runner 2049,,163.0
+4983,First Man,,141.0
+4984,A Quiet Place,,90.0
+4985,Ad Astra,,124.0
+4986,Greyhound,,91.0
+4987,Soul,,101.0
+4988,No Time to Die,,163.0
+4989,Avatar: The Way of Water,,192.0
+4990,The Zone of Interest,,105.0
+4991,The Creator,,133.0
+4992,Mission: Impossible – Dead Reckoning Part One,,163.0
+4993,A Complete Unknown,,141.0
+4994,Paramount production,,
+4995,Fred Sersen,,
+4996,Only Angels Have Wings,,121.0
+4997,Topper Takes a Trip,,80.0
+4998,Union Pacific,,135.0
+4999,Lawrence Butler,,
+5000,The Boys from Syracuse,,73.0
+5001,Dr. Cyclops,,77.0
+5002,The Invisible Man Returns,,81.0
+5003,Swiss Family Robinson,,92.0
+5004,Typhoon,,70.0
+5005,Women in War,,71.0
+5006,Flight Command,,115.0
+5007,The Invisible Woman,,72.0
+5008,The Sea Wolf,,100.0
+5009,A Yank in the R.A.F.,,98.0
+5010,Desperate Journey,,107.0
+5011,Invisible Agent,,81.0
+5012,The Navy Comes Through,,82.0
+5013,Bombardier,,99.0
+5014,Stand By for Action,,109.0
+5015,Days of Glory,,86.0
+5016,Secret Command,,82.0
+5017,The Story of Dr. Wassell,,140.0
+5018,Captain Eddie,,107.0
+5019,A Thousand and One Nights,,94.0
+5020,A Stolen Life,,109.0
+5021,Unconquered,,146.0
+5022,Deep Waters,,85.0
+5023,Tulsa,,90.0
+5024,George Pal Productions,,
+5025,Hell and High Water,,103.0
+5026,Them!,,94.0
+5027,The Dam Busters,,124.0
+5028,The Rains of Ranchipur,,104.0
+5029,Forbidden Planet,,98.0
+5030,The Spirit of St. Louis,,135.0
+5031,Torpedo Run,,98.0
+5032,Gene Warren,,
+5033,The Last Voyage,,91.0
+5034,Emil Kosa Jr.,,
+5035,The Birds,,119.0
+5036,7 Faces of Dr. Lao,,100.0
+5037,Thunderball,,130.0
+5038,Tobruk,,109.0
+5039,"Krakatoa, East of Java",,131.0
+5040,A. D. Flowers,,
+5041,When Dinosaurs Ruled the Earth,,100.0
+5042,Moonraker,,126.0
+5043,Brian Johnson,,
+5044,Blade Runner,,117.0
+5045,2010,,
+5046,Cocoon,,117.0
+5047,Return to Oz,,113.0
+5048,Young Sherlock Holmes,,109.0
+5049,Poltergeist II: The Other Side,,91.0
+5050,Innerspace,,120.0
+5051,Predator,,107.0
+5052,Back to the Future Part II,,108.0
+5053,Eric Brevig,,
+5054,Death Becomes Her,,104.0
+5055,Alien 3,,114.0
+5056,The Nightmare Before Christmas,,76.0
+5057,The Mask,,101.0
+5058,True Lies,,141.0
+5059,Dragonheart,,103.0
+5060,The Lost World: Jurassic Park,,129.0
+5061,Starship Troopers,,129.0
+5062,What Dreams May Come,,113.0
+5063,Mighty Joe Young,,114.0
+5064,Stuart Little,,84.0
+5065,John Nelson,,
+5066,Hollow Man,,112.0
+5067,Star Wars: Episode II – Attack of the Clones,,142.0
+5068,"I, Robot",,115.0
+5069,Poseidon,,98.0
+5070,Superman Returns,,154.0
+5071,The Golden Compass,,113.0
+5072,Paul Franklin,,
+5073,Harry Potter and the Deathly Hallows – Part 1,,146.0
+5074,Hereafter,,129.0
+5075,Iron Man 2,,125.0
+5076,Real Steel,,127.0
+5077,Rise of the Planet of the Apes,,105.0
+5078,Marvel's The Avengers,,143.0
+5079,Prometheus,,124.0
+5080,Snow White and the Huntsman,,127.0
+5081,Iron Man 3,,131.0
+5082,Star Trek Into Darkness,,132.0
+5083,Captain America: The Winter Soldier,,136.0
+5084,Dawn of the Planet of the Apes,,130.0
+5085,X-Men: Days of Future Past,,132.0
+5086,Doctor Strange,,115.0
+5087,Guardians of the Galaxy Vol. 2,,136.0
+5088,Kong: Skull Island,,118.0
+5089,War for the Planet of the Apes,,140.0
+5090,Avengers: Infinity War,,149.0
+5091,Christopher Robin,,104.0
+5092,Ready Player One,,140.0
+5093,Solo: A Star Wars Story,,135.0
+5094,Avengers: Endgame,,181.0
+5095,Andrew Jackson,,
+5096,Love and Monsters,,109.0
+5097,The Midnight Sky,,118.0
+5098,The One and Only Ivan,,95.0
+5099,Free Guy,,115.0
+5100,Shang-Chi and the Legend of the Ten Rings,,132.0
+5101,Spider-Man: No Way Home,,148.0
+5102,Godzilla Minus One,,125.0
+5103,Guardians of the Galaxy Vol. 3,,150.0
+5104,Napoleon,,157.0
+5105,Alien: Romulus,,119.0
+5106,Better Man,,135.0
+5107,Kingdom of the Planet of the Apes,,145.0
+5108,Addams Family Values,,94.0
+5109,The Hudsucker Proxy,,111.0
+5110,Mars Attacks!,,106.0
+5111,Batman & Robin,,125.0
+5112,Harry Potter and the Chamber of Secrets,,161.0
+5113,Hulk,,138.0
+5114,Beowulf,,114.0
+5115,The Chronicles of Narnia: The Voyage of the Dawn Treader,,113.0
+5116,Cowboys & Aliens,,119.0
+5117,The Amazing Spider-Man,,136.0
+5118,Elysium,,109.0
+5119,Godzilla,,123.0
+5120,Alice Through the Looking Glass,,113.0
+5121,Aquaman,,143.0
+5122,Black Widow,,134.0
+5123,Doctor Strange in the Multiverse of Madness,,126.0
+5124,Ant-Man and the Wasp: Quantumania,,124.0
+5125,Beetlejuice Beetlejuice,,104.0

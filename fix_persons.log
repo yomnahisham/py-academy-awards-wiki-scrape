@@ -1,0 +1,154 @@
+17:01:47 - INFO - Starting persons.csv fix script...
+17:01:47 - INFO - Using 20 worker threads
+17:01:47 - INFO - Using chunk size of 500
+17:01:47 - INFO - Reading input CSV: data/persons.csv
+17:01:47 - INFO - Checking for invalid person entries...
+17:01:47 - INFO - Found 35 invalid person entries
+17:01:47 - INFO - Removed 0 entries from data/award_edition_person.csv
+17:01:47 - INFO - Removed 0 entries from data/nomination_person.csv
+17:01:47 - INFO - Removed 0 entries from data/movie_crew.csv
+17:01:47 - INFO - Removed 35 invalid persons from persons table
+17:01:47 - INFO - Processing 12503 valid rows from data/persons.csv
+17:01:47 - INFO - Processing chunk 0-500 of 12503
+17:02:03 - INFO - Processed 100/12503 (0.8%) - Updated: 91 countries, 91 birth dates
+17:02:09 - INFO - Processed 200/12503 (1.6%) - Updated: 169 countries, 161 birth dates
+17:02:13 - INFO - Processed 300/12503 (2.4%) - Updated: 238 countries, 220 birth dates
+17:02:17 - INFO - Processed 400/12503 (3.2%) - Updated: 314 countries, 281 birth dates
+17:02:24 - INFO - Processed 500/12503 (4.0%) - Updated: 381 countries, 340 birth dates
+17:02:24 - INFO - Processing chunk 500-1000 of 12503
+17:02:35 - INFO - Processed 600/12503 (4.8%) - Updated: 449 countries, 401 birth dates
+17:02:39 - INFO - Processed 700/12503 (5.6%) - Updated: 520 countries, 461 birth dates
+17:02:48 - INFO - Processed 800/12503 (6.4%) - Updated: 587 countries, 520 birth dates
+17:02:53 - INFO - Processed 900/12503 (7.2%) - Updated: 653 countries, 577 birth dates
+17:03:09 - INFO - Processed 1000/12503 (8.0%) - Updated: 670 countries, 593 birth dates
+17:03:10 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:03:17 - INFO - Processing chunk 1000-1500 of 12503
+17:03:28 - INFO - Processed 1100/12503 (8.8%) - Updated: 692 countries, 614 birth dates
+17:03:44 - INFO - Processed 1200/12503 (9.6%) - Updated: 720 countries, 642 birth dates
+17:03:54 - INFO - Processed 1300/12503 (10.4%) - Updated: 784 countries, 703 birth dates
+17:04:16 - INFO - Processed 1400/12503 (11.2%) - Updated: 819 countries, 735 birth dates
+17:04:26 - INFO - Processed 1500/12503 (12.0%) - Updated: 855 countries, 765 birth dates
+17:04:26 - INFO - Processing chunk 1500-2000 of 12503
+17:04:32 - INFO - Processed 1600/12503 (12.8%) - Updated: 886 countries, 796 birth dates
+17:04:40 - INFO - Processed 1700/12503 (13.6%) - Updated: 928 countries, 837 birth dates
+17:05:41 - INFO - Processed 1800/12503 (14.4%) - Updated: 967 countries, 877 birth dates
+17:05:46 - INFO - Processed 1900/12503 (15.2%) - Updated: 996 countries, 903 birth dates
+17:05:52 - INFO - Processed 2000/12503 (16.0%) - Updated: 1026 countries, 931 birth dates
+17:05:52 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:06:17 - INFO - Processing chunk 2000-2500 of 12503
+17:06:23 - INFO - Processed 2100/12503 (16.8%) - Updated: 1061 countries, 965 birth dates
+17:06:30 - INFO - Processed 2200/12503 (17.6%) - Updated: 1098 countries, 1002 birth dates
+17:06:36 - INFO - Processed 2300/12503 (18.4%) - Updated: 1136 countries, 1037 birth dates
+17:06:40 - INFO - Processed 2400/12503 (19.2%) - Updated: 1159 countries, 1060 birth dates
+17:06:45 - INFO - Processed 2500/12503 (20.0%) - Updated: 1181 countries, 1082 birth dates
+17:06:45 - INFO - Processing chunk 2500-3000 of 12503
+17:06:51 - INFO - Processed 2600/12503 (20.8%) - Updated: 1217 countries, 1118 birth dates
+17:08:36 - INFO - Processed 2700/12503 (21.6%) - Updated: 1261 countries, 1161 birth dates
+17:08:40 - INFO - Processed 2800/12503 (22.4%) - Updated: 1285 countries, 1185 birth dates
+17:08:45 - INFO - Processed 2900/12503 (23.2%) - Updated: 1306 countries, 1204 birth dates
+17:08:49 - INFO - Processed 3000/12503 (24.0%) - Updated: 1335 countries, 1232 birth dates
+17:08:50 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:11:31 - INFO - Processing chunk 3000-3500 of 12503
+17:11:37 - INFO - Processed 3100/12503 (24.8%) - Updated: 1367 countries, 1264 birth dates
+17:11:41 - INFO - Processed 3200/12503 (25.6%) - Updated: 1412 countries, 1305 birth dates
+17:11:45 - INFO - Processed 3300/12503 (26.4%) - Updated: 1464 countries, 1351 birth dates
+17:11:49 - INFO - Processed 3400/12503 (27.2%) - Updated: 1532 countries, 1412 birth dates
+17:11:53 - INFO - Processed 3500/12503 (28.0%) - Updated: 1595 countries, 1474 birth dates
+17:11:54 - INFO - Processing chunk 3500-4000 of 12503
+17:12:00 - INFO - Processed 3600/12503 (28.8%) - Updated: 1661 countries, 1533 birth dates
+17:12:05 - INFO - Processed 3700/12503 (29.6%) - Updated: 1714 countries, 1588 birth dates
+17:12:10 - INFO - Processed 3800/12503 (30.4%) - Updated: 1788 countries, 1659 birth dates
+17:12:15 - INFO - Processed 3900/12503 (31.2%) - Updated: 1857 countries, 1727 birth dates
+17:16:32 - INFO - Processed 4000/12503 (32.0%) - Updated: 1921 countries, 1792 birth dates
+17:16:33 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:21:20 - INFO - Processing chunk 4000-4500 of 12503
+17:21:28 - INFO - Processed 4100/12503 (32.8%) - Updated: 1977 countries, 1847 birth dates
+17:21:34 - INFO - Processed 4200/12503 (33.6%) - Updated: 2033 countries, 1896 birth dates
+17:21:38 - INFO - Processed 4300/12503 (34.4%) - Updated: 2086 countries, 1939 birth dates
+17:21:44 - INFO - Processed 4400/12503 (35.2%) - Updated: 2139 countries, 1991 birth dates
+17:21:49 - INFO - Processed 4500/12503 (36.0%) - Updated: 2181 countries, 2035 birth dates
+17:21:49 - INFO - Processing chunk 4500-5000 of 12503
+17:21:54 - INFO - Processed 4600/12503 (36.8%) - Updated: 2218 countries, 2070 birth dates
+17:22:00 - INFO - Processed 4700/12503 (37.6%) - Updated: 2275 countries, 2120 birth dates
+17:22:06 - INFO - Processed 4800/12503 (38.4%) - Updated: 2340 countries, 2175 birth dates
+17:22:12 - INFO - Processed 4900/12503 (39.2%) - Updated: 2401 countries, 2231 birth dates
+17:29:12 - INFO - Processed 5000/12503 (40.0%) - Updated: 2470 countries, 2293 birth dates
+17:29:13 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:36:28 - INFO - Processing chunk 5000-5500 of 12503
+17:36:36 - INFO - Processed 5100/12503 (40.8%) - Updated: 2529 countries, 2351 birth dates
+17:36:41 - INFO - Processed 5200/12503 (41.6%) - Updated: 2567 countries, 2391 birth dates
+17:36:45 - INFO - Processed 5300/12503 (42.4%) - Updated: 2606 countries, 2429 birth dates
+17:36:52 - INFO - Processed 5400/12503 (43.2%) - Updated: 2641 countries, 2458 birth dates
+17:37:09 - INFO - Processed 5500/12503 (44.0%) - Updated: 2670 countries, 2486 birth dates
+17:37:09 - INFO - Processing chunk 5500-6000 of 12503
+17:37:15 - INFO - Processed 5600/12503 (44.8%) - Updated: 2708 countries, 2520 birth dates
+17:37:20 - INFO - Processed 5700/12503 (45.6%) - Updated: 2753 countries, 2561 birth dates
+17:37:25 - INFO - Processed 5800/12503 (46.4%) - Updated: 2791 countries, 2597 birth dates
+17:37:30 - INFO - Processed 5900/12503 (47.2%) - Updated: 2821 countries, 2625 birth dates
+17:37:38 - INFO - Processed 6000/12503 (48.0%) - Updated: 2842 countries, 2647 birth dates
+17:37:38 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:47:03 - INFO - Processing chunk 6000-6500 of 12503
+17:47:12 - INFO - Processed 6100/12503 (48.8%) - Updated: 2873 countries, 2678 birth dates
+17:47:17 - INFO - Processed 6200/12503 (49.6%) - Updated: 2900 countries, 2700 birth dates
+17:47:23 - INFO - Processed 6300/12503 (50.4%) - Updated: 2924 countries, 2721 birth dates
+17:47:28 - INFO - Processed 6400/12503 (51.2%) - Updated: 2957 countries, 2747 birth dates
+17:47:35 - INFO - Processed 6500/12503 (52.0%) - Updated: 2991 countries, 2779 birth dates
+17:47:36 - INFO - Processing chunk 6500-7000 of 12503
+17:47:42 - INFO - Processed 6600/12503 (52.8%) - Updated: 3020 countries, 2801 birth dates
+17:47:48 - INFO - Processed 6700/12503 (53.6%) - Updated: 3047 countries, 2829 birth dates
+17:47:53 - INFO - Processed 6800/12503 (54.4%) - Updated: 3072 countries, 2854 birth dates
+17:47:58 - INFO - Processed 6900/12503 (55.2%) - Updated: 3091 countries, 2870 birth dates
+17:48:04 - INFO - Processed 7000/12503 (56.0%) - Updated: 3118 countries, 2895 birth dates
+17:48:04 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+17:58:17 - INFO - Processing chunk 7000-7500 of 12503
+17:58:24 - INFO - Processed 7100/12503 (56.8%) - Updated: 3185 countries, 2948 birth dates
+17:58:27 - INFO - Processed 7200/12503 (57.6%) - Updated: 3255 countries, 3001 birth dates
+17:58:31 - INFO - Processed 7300/12503 (58.4%) - Updated: 3313 countries, 3049 birth dates
+17:58:35 - INFO - Processed 7400/12503 (59.2%) - Updated: 3377 countries, 3094 birth dates
+17:58:39 - INFO - Processed 7500/12503 (60.0%) - Updated: 3430 countries, 3137 birth dates
+17:58:39 - INFO - Processing chunk 7500-8000 of 12503
+17:58:44 - INFO - Processed 7600/12503 (60.8%) - Updated: 3490 countries, 3191 birth dates
+17:58:48 - INFO - Processed 7700/12503 (61.6%) - Updated: 3553 countries, 3248 birth dates
+17:58:55 - INFO - Processed 7800/12503 (62.4%) - Updated: 3617 countries, 3302 birth dates
+17:58:59 - INFO - Processed 7900/12503 (63.2%) - Updated: 3677 countries, 3355 birth dates
+17:59:04 - INFO - Processed 8000/12503 (64.0%) - Updated: 3747 countries, 3424 birth dates
+17:59:05 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+18:11:45 - INFO - Processing chunk 8000-8500 of 12503
+18:11:52 - INFO - Processed 8100/12503 (64.8%) - Updated: 3809 countries, 3480 birth dates
+18:11:57 - INFO - Processed 8200/12503 (65.6%) - Updated: 3877 countries, 3541 birth dates
+18:12:03 - INFO - Processed 8300/12503 (66.4%) - Updated: 3947 countries, 3606 birth dates
+18:12:09 - INFO - Processed 8400/12503 (67.2%) - Updated: 4003 countries, 3658 birth dates
+18:12:14 - INFO - Processed 8500/12503 (68.0%) - Updated: 4047 countries, 3693 birth dates
+18:12:15 - INFO - Processing chunk 8500-9000 of 12503
+18:12:20 - INFO - Processed 8600/12503 (68.8%) - Updated: 4072 countries, 3716 birth dates
+18:12:24 - INFO - Processed 8700/12503 (69.6%) - Updated: 4100 countries, 3736 birth dates
+18:12:29 - INFO - Processed 8800/12503 (70.4%) - Updated: 4127 countries, 3760 birth dates
+18:12:33 - INFO - Processed 8900/12503 (71.2%) - Updated: 4162 countries, 3792 birth dates
+18:12:39 - INFO - Processed 9000/12503 (72.0%) - Updated: 4200 countries, 3826 birth dates
+18:12:40 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+18:28:12 - INFO - Processing chunk 9000-9500 of 12503
+18:28:21 - INFO - Processed 9100/12503 (72.8%) - Updated: 4243 countries, 3864 birth dates
+18:28:27 - INFO - Processed 9200/12503 (73.6%) - Updated: 4281 countries, 3901 birth dates
+18:28:34 - INFO - Processed 9300/12503 (74.4%) - Updated: 4327 countries, 3948 birth dates
+18:28:39 - INFO - Processed 9400/12503 (75.2%) - Updated: 4364 countries, 3981 birth dates
+18:28:45 - INFO - Processed 9500/12503 (76.0%) - Updated: 4402 countries, 4013 birth dates
+18:28:45 - INFO - Processing chunk 9500-10000 of 12503
+18:28:52 - INFO - Processed 9600/12503 (76.8%) - Updated: 4441 countries, 4047 birth dates
+18:28:59 - INFO - Processed 9700/12503 (77.6%) - Updated: 4480 countries, 4086 birth dates
+18:29:04 - INFO - Processed 9800/12503 (78.4%) - Updated: 4536 countries, 4135 birth dates
+18:29:08 - INFO - Processed 9900/12503 (79.2%) - Updated: 4596 countries, 4185 birth dates
+18:29:13 - INFO - Processed 10000/12503 (80.0%) - Updated: 4646 countries, 4231 birth dates
+18:29:13 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim
+18:45:29 - INFO - Processing chunk 10000-10500 of 12503
+18:45:40 - INFO - Processed 10100/12503 (80.8%) - Updated: 4694 countries, 4277 birth dates
+18:45:45 - INFO - Processed 10200/12503 (81.6%) - Updated: 4748 countries, 4326 birth dates
+18:45:49 - INFO - Processed 10300/12503 (82.4%) - Updated: 4810 countries, 4385 birth dates
+18:45:56 - INFO - Processed 10400/12503 (83.2%) - Updated: 4872 countries, 4445 birth dates
+18:45:59 - INFO - Processed 10500/12503 (84.0%) - Updated: 4929 countries, 4501 birth dates
+18:46:03 - INFO - Processing chunk 10500-11000 of 12503
+18:46:06 - INFO - Processed 10600/12503 (84.8%) - Updated: 4956 countries, 4528 birth dates
+18:46:12 - INFO - Processed 10700/12503 (85.6%) - Updated: 4957 countries, 4530 birth dates
+18:46:15 - INFO - Processed 10800/12503 (86.4%) - Updated: 4996 countries, 4563 birth dates
+18:46:19 - INFO - Processed 10900/12503 (87.2%) - Updated: 5039 countries, 4607 birth dates
+18:46:24 - INFO - Processed 11000/12503 (88.0%) - Updated: 5085 countries, 4648 birth dates
+18:46:24 - INFO - Saved interim results (1000 rows) to data/persons_fixed.csv.interim

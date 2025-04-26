@@ -1,0 +1,2001 @@
+person_id,first_name,middle_name,last_name,birthDate,country,deathDate
+9,George,,Jessel,,,
+13,John,,Cromwell,,,
+10,Bob,,Burns,,,
+18,Robert,,Montgomery,,,
+19,Paul,,Douglas,,,
+4,Lawrence,,Grant,1870-01-01,United Kingdom,1952-01-01
+7,Irvin,S.,Cobb,1876-01-01,United States,1944-01-01
+2,William,C.,deMille,1878-01-01,United States,1955-01-01
+3,Conrad,,Nagel,1897-01-01,United States,1970-01-01
+17,Dick,,Powell,1904-01-01,United States,1963-01-01
+12,Jack,,Benny,1894-01-01,United States,1974-01-01
+1,Douglas,,Fairbanks,1883-01-01,United States,1939-01-01
+16,Agnes,,Moorehead,1900-01-01,United States,1974-01-01
+24,Donald,,O'Connor,1925-01-01,United States,2003-01-01
+23,Fredric,,March,1897-01-01,United States,1975-01-01
+25,Thelma,,Ritter,1902-01-01,United States,1969-01-01
+6,Will,,Rogers,1879-01-01,India,1935-01-01
+29,Celeste,,Holm,1917-01-01,United States,2012-01-01
+8,Frank,,Capra,1897-01-01,France,1991-01-01
+27,Claudette,,Colbert,1903-01-01,France,1996-01-01
+30,Rosalind,,Russell,1907-01-01,United States,1976-01-01
+21,Danny,,Kaye,1911-01-01,United States,1987-01-01
+34,Clarence,,Nash,1904-01-01,United States,1985-01-01
+20,Fred,,Astaire,1899-01-01,United States,1987-01-01
+31,David,,Niven,1910-01-01,United Kingdom,1983-01-01
+40,Alan,,King,1927-01-01,United States,2004-01-01
+11,Bob,,Hope,1903-01-01,United Kingdom,2003-01-01
+35,Mort,,Sahl,1927-01-01,Canada,2021-01-01
+28,Joseph,L.,Mankiewicz,1909-01-01,United States,1993-01-01
+51,Robert,,Shaw,,,
+32,Jack,,Lemmon,1925-01-01,United States,2001-01-01
+26,Jerry,,Lewis,1926-01-01,United States,2017-01-01
+36,Tony,,Randall,1920-01-01,United States,2004-01-01
+33,Donald,,Duck,,,
+45,Rock,,Hudson,1925-01-01,United States,1985-01-01
+41,Sammy,Davis,Jr.,1925-01-01,United States,1990-01-01
+39,Helen,,Hayes,1900-01-01,United States,1993-01-01
+50,Walter,,Matthau,1920-01-01,United States,2000-01-01
+42,Carol,,Burnett,1933-01-01,United States,
+44,Charlton,,Heston,1923-01-01,United States,2008-01-01
+46,Burt,,Reynolds,1936-01-01,United States,2018-01-01
+15,James,,Stewart,1908-01-01,United States,1997-01-01
+53,Goldie,,Hawn,1945-01-01,United States,
+43,Michael,,Caine,1933-01-01,United Kingdom,
+49,Shirley,,MacLaine,1934-01-01,United States,
+54,Gene,,Kelly,1912-01-01,United States,1996-01-01
+48,John,,Huston,1906-01-01,United States,1987-01-01
+52,George,,Segal,1934-01-01,United States,2021-01-01
+47,Diana,,Ross,1944-01-01,United States,
+61,Dudley,,Moore,1935-01-01,United Kingdom,2002-01-01
+55,Richard,,Pryor,1940-01-01,United States,2005-01-01
+70,Jim,,Moret,1956-01-01,United States,
+72,Chris,,Connelly,,,
+37,Laurence,,Olivier,1907-01-01,United Kingdom,1989-01-01
+59,Johnny,,Carson,1925-01-01,United States,2005-01-01
+65,Paul,,Hogan,1939-01-01,United Kingdom,
+56,Ellen,,Burstyn,1932-01-01,United States,
+60,Liza,,Minnelli,1946-01-01,United States,
+76,Julie,,Moran,1962-01-01,United States,
+73,Meredith,,Vieira,1953-01-01,United States,
+79,Jann,,Carl,1960-01-01,United States,
+78,Ananda,,Lewis,1973-01-01,United States,
+77,Leeza,,Gibbons,1957-01-01,United States,
+58,Warren,,Beatty,1937-01-01,United States,
+62,Alan,,Alda,1936-01-01,United States,
+80,Shaun,,Robinson,1962-01-01,United States,
+64,Chevy,,Chase,1943-01-01,United States,
+71,Tyra,,Banks,1973-01-01,United States,
+66,Billy,,Crystal,1948-01-01,United States,
+81,Billy,,Bush,1971-01-01,United States,
+69,Geena,,Davis,1956-01-01,United States,
+57,Jane,,Fonda,1937-01-01,United States,
+95,Robin,,Roberts,,,
+91,Samantha,,Harris,1973-01-01,United States,
+82,Maria,,Menounos,1978-01-01,United States,
+68,David,,Letterman,1947-01-01,United States,
+87,Lisa,,Ling,1973-01-01,United States,
+85,Vanessa,,Minnillo,1980-01-01,Philippines,
+94,Tim,,Gunn,1953-01-01,United States,
+38,Frank,,Sinatra,1915-01-01,United States,1998-01-01
+88,André,Leon,Talley,1948-01-01,United States,2022-01-01
+63,Robin,,Williams,1951-01-01,United States,2014-01-01
+67,Whoopi,,Goldberg,1955-01-01,United States,
+102,Louise,,Roe,1981-01-01,United Kingdom,
+98,Sherri,,Shepherd,1967-01-01,United States,
+101,Nina,,García,1965-01-01,Colombia,
+83,Chris,,Rock,1965-01-01,United States,
+97,Kathy,,Ireland,1963-01-01,United States,
+110,Joe,,Zee,1968-01-01,1968,
+75,Steve,,Martin,1945-01-01,United States,
+107,Tyson,,Beckford,1970-01-01,United States,
+106,Lara,,Spencer,1969-01-01,United States,
+92,Regis,,Philbin,1931-01-01,United States,2020-01-01
+111,Amy,,Robach,1973-01-01,United States,
+86,Ellen,,DeGeneres,1958-01-01,United States,
+113,Sara,,Haines,1977-01-01,United States,
+93,Hugh,,Jackman,1968-01-01,United Kingdom,
+96,Alec,,Baldwin,1958-01-01,United States,
+114,Wendi,,McLendon-Covey,1969-01-01,United States,
+118,Elaine,,Welteroth,1986-01-01,United States,
+119,Lily,,Aldridge,1985-01-01,United States,
+115,Ashley,,Graham,1987-01-01,1987,
+121,Elvis,,Mitchell,1958-01-01,United States,
+120,Tamron,,Hall,1970-01-01,United States,
+109,Michael,,Strahan,1971-01-01,United States,
+84,Jon,,Stewart,1962-01-01,United States,
+99,James,,Franco,1978-01-01,United States,
+117,Ryan,,Seacrest,1974-01-01,United States,
+123,Lil,Rel,Howery,1979-01-01,United States,
+112,Jimmy,,Kimmel,1967-01-01,United States,
+104,Kristin,,Chenoweth,1968-01-01,United States,
+129,Brandon,,Maxwell,1984-01-01,United States,
+122,Ariana,,DeBose,1991-01-01,United States,
+128,Terrence,,J,1982-01-01,South Africa,
+116,Billy,,Porter,1969-01-01,United States,
+124,Regina,,Hall,1970-01-01,United States,
+108,Neil,Patrick,Harris,1973-01-01,United States,
+135,George,,Hill,,,
+103,Seth,,MacFarlane,1973-01-01,United States,
+105,Kelly,,Rowland,1981-01-01,United States,
+100,Anne,,Hathaway,1982-01-01,United States,
+138,Joe,,Farnham,1884-01-01,United States,1931-01-01
+141,Harold,,Wenstrom,,US,1944-01-01
+140,Blanche,,Sewell,1898-01-01,United States,1949-01-01
+126,Wanda,,Sykes,1964-01-01,United States,
+134,Jesse,,Palmer,1978-01-01,Canada,
+139,Martin,,Flavin,1883-01-01,United States,1967-01-01
+142,no,,credit,,,
+143,Alfred,E.,Green,1889-01-01,United States,1960-01-01
+127,Vanessa,,Hudgens,1988-01-01,United States,
+125,Amy,,Schumer,1981-01-01,United States,
+136,Irving,,Thalberg,1899-01-01,United States,1936-01-01
+130,Sofia,,Carson,1993-01-01,United States,
+131,Lilly,,Singh,1988-01-01,Canada,
+137,Frances,,Marion,1888-01-01,United States,1973-01-01
+146,Julien,,Josephson,,,
+132,Julianne,,Hough,1988-01-01,United States,
+148,Lee,,Garmes,1898-01-01,United States,1978-01-01
+153,John,,Meehan,,,
+151,Nick,,Grinde,1893-01-01,US,1979-01-01
+150,Robert,Z.,Leonard,1889-01-01,United States,1968-01-01
+147,Owen,,Marks,1899-01-01,United Kingdom,1960-01-01
+154,Hugh,,Wynn,,United States,1936-01-01
+157,Milton,,Ager,1893-01-01,United States,1979-01-01
+156,Jack,,Yellen,1892-01-01,Russia,1991-01-01
+155,Norbert,,Brodine,1896-01-01,US,1970-01-01
+145,Darryl,F.,Zanuck,1902-01-01,United States,1979-01-01
+160,Merrill,G.,White,,United States,1959-01-01
+152,Zelda,,Sears,1873-01-01,United States,1935-01-01
+163,John,,Leipold,,,
+159,Guy,,Bolton,,,
+158,Ernst,,Lubitsch,1892-01-01,Germany,1947-01-01
+168,William,,LeBaron,1883-01-01,United States,1958-01-01
+164,Max,,Terr,1889-01-01,Russia,1951-01-01
+165,Victor,,Schertzinger,1888-01-01,United States,1941-01-01
+170,Louis,,Sarecky,1886-01-01,Russia,1946-01-01
+144,Jack,L.,Warner,1892-01-01,Canada,1978-01-01
+169,Howard,,Estabrook,1884-01-01,United States,1978-01-01
+162,W.,Franke,Harling,,,
+161,Victor,,Milner,1893-01-01,United States,1972-01-01
+166,Clifford,,Grey,,,
+171,William,,Hamilton,,,
+176,Tom,,Barry,,,
+177,Bradley,,King,,,
+172,Edward,,Cronjager,1904-01-01,United States,1960-01-01
+167,Wesley,,Ruggles,1889-01-01,United States,1972-01-01
+133,Conan,,O'Brien,1963-01-01,United States,
+174,RKO,,Radio,,,
+178,John,F.,Seitz,1892-01-01,United States,1979-01-01
+184,W.,Duncan,Mansfield,1897-01-01,United States,1971-01-01
+175,Frank,,Lloyd,,United Kingdom,1960-01-01
+182,Bartlett,,Cormack,1898-01-01,United States,1942-01-01
+185,Glen,,MacWilliams,,,
+190,Norman,,McLeod,,,
+188,Jesse,L.,Lasky,1880-01-01,United States,1958-01-01
+183,Charles,,Lederer,1910-01-01,US,1976-01-01
+192,Sam,,Mintz,1897-01-01,Russia,1957-01-01
+179,Richard,FallCarli,Elinor,,,
+199,Ben,,Lewis,,,
+189,B.,P.,Schulberg,,United States,1957-01-01
+197,John,T.,Neville,,United States,
+191,Don,,Marquis,,,
+187,Adolph,,Zukor,1873-01-01,Austria,1976-01-01
+196,Dale,Van,Every,,,
+193,Karl,,Struss,1886-01-01,United States,1981-01-01
+194,B.P.,,Schulberg,,United States,1957-01-01
+186,Norman,,Taurog,1899-01-01,United States,1981-01-01
+198,Cyril,,Hume,1900-01-01,US,1966-01-01
+173,Max,,Steiner,1888-01-01,Austria,1971-01-01
+201,James,,McKay,,,
+200,Clyde,De,Vinna,1890-01-01,United States,1953-01-01
+205,Hugh,,Bennett,,,
+195,W.S.,Van,Dyke,1889-01-01,United States,1943-01-01
+149,Warner,,Bros.,,,
+204,Sidney,,Howard,,United States,1939-01-01
+206,Ray,,June,1895-01-01,United States,1958-01-01
+203,Samuel,,Goldwyn,1882-01-01,Russia,1974-01-01
+215,Gordon,,Avil,1899-01-01,United States,1970-01-01
+218,Robert,,Lord,,,
+210,Margaret,,Clancey,,United States,
+211,Chester,A.,Lyons,,United States,1936-01-01
+209,Edwin,J.,Burke,1889-01-01,United States,1944-01-01
+213,Harry,,Rapf,,United States,1949-01-01
+221,First,,National,,,
+180,Lewis,,Milestone,1895-01-01,Russia,1980-01-01
+181,Howard,,Hughes,1905-01-01,United States,1976-01-01
+214,Leonard,,Praskins,,,
+208,Frank,,Borzage,1894-01-01,United States,1962-01-01
+207,Alfred,,Newman,1900-01-01,United States,1970-01-01
+228,Frank,,Sullivan,,,
+217,Hal,B.,Wallis,1898-01-01,United States,1986-01-01
+220,Sol,,Polito,1892-01-01,Italy,1960-01-01
+225,Rudolph,G.,Kopp,,Austro-Hungarian Empire,1972-01-01
+219,Frank,,Ware,,,
+229,Ernest,,Vajda,,,
+227,Jules,,Furthman,1888-01-01,United States,1966-01-01
+224,William,,Shea,1907-01-01,United States,1991-01-01
+223,Samson,,Raphaelson,1894-01-01,United States,1983-01-01
+230,George,J.,Folsey,1898-01-01,United States,1988-01-01
+236,Ernest,,Palmer,,,
+233,Winfield,R.,Sheehan,1883-01-01,1883,1945-01-01
+234,Reginald,,Berkeley,1890-01-01,United Kingdom,1935-01-01
+242,Thomas,,Pratt,,,
+231,Adolph,,Deutsch,1897-01-01,United Kingdom,1980-01-01
+237,Arthur,,Lange,,,
+238,J.,S.,Zamecnik,1872-01-01,United States,1953-01-01
+241,Rian,,James,1899-01-01,United States,1953-01-01
+239,Winfield,,Sheehan,1883-01-01,1883,1945-01-01
+240,Lloyd,,Bacon,1889-01-01,United States,1955-01-01
+222,George,,Cukor,1899-01-01,United States,1983-01-01
+202,John,,Ford,1894-01-01,United States,1973-01-01
+235,Sonya,,Levien,1888-01-01,Russia,1960-01-01
+246,Benjamin,,Glazer,,Ireland,1956-01-01
+247,Oliver,H.P.,Garrett,1894-01-01,US,1952-01-01
+212,King,,Vidor,1894-01-01,United States,1982-01-01
+244,Al,,Dubin,1891-01-01,Switzerland,1945-01-01
+251,Bernhard,,Kaun,1899-01-01,United States,1980-01-01
+253,Paramount,,,,,
+226,Josef,von,Sternberg,1894-01-01,Austria,1969-01-01
+249,George,Nicholls,Jr.,1897-01-01,United States,1939-01-01
+256,William,,Holmes,,,
+250,Charles,,Lang,1902-01-01,United States,1998-01-01
+216,Mervyn,,LeRoy,1900-01-01,United States,1987-01-01
+248,Otho,,Lovering,1892-01-01,United States,1968-01-01
+254,Howard,J.,Green,1893-01-01,US,1965-01-01
+243,Harry,,Warren,1893-01-01,United States,1981-01-01
+245,Edward,A. Blatt Benjamin,Glazer,,,
+255,Brown,,Holmes,,,
+260,Joseph,,Walker,,,
+252,Ralph,,Rainger,1901-01-01,United States,1942-01-01
+257,Harry,,Cohn,1891-01-01,United States,1958-01-01
+261,Howard,,Jackson,,,
+259,Gene,,Havlick,1894-01-01,United States,1959-01-01
+258,Robert,,Riskin,1897-01-01,United States,1955-01-01
+262,Columbia,,,,,
+265,Jack,,Kitchin,,United Kingdom,1983-01-01
+264,David,,Hempstead,1909-01-01,United States,1983-01-01
+272,Stephen,,Harrison,,,
+232,Paramount,,Publix,,,
+268,Alex,,,,,
+278,Sidney,,Franklin,,,
+274,Kurt,,Schröder,1888-01-01,Germany,1962-01-01
+273,Georges,,Périnal,,France,1965-01-01
+279,Albert,,Lewin,1894-01-01,US,1968-01-01
+270,Lajos,,Bíró,1880-01-01,Romania),1948-01-01
+271,Arthur,,Wimperis,,,
+285,Paul,,Green,,,
+263,Merian,C.,Cooper,1893-01-01,United States,1973-01-01
+284,Henry,,King,,,
+277,Alexander,,Hall,1894-01-01,US,1968-01-01
+286,Robert,,Bischoff,,United States,1945-01-01
+275,Lowell,,Sherman,1888-01-01,US,1934-01-01
+266,Henry,W.,Gerrard,,,
+280,Donald,Ogden,Stewart,1894-01-01,United States,1980-01-01
+300,First,,National,,,
+269,er,Korda Ludovico,Toeplitz,,,
+287,Hal,,Mohr,1894-01-01,United States,1974-01-01
+267,Alexander,,Korda,1893-01-01,Hungary),1956-01-01
+281,Margaret,,Booth,1898-01-01,United States,2002-01-01
+289,Louis,,Silvers,1889-01-01,United States,1954-01-01
+297,George,,Barnes,,,
+290,Claudine,,West,,United Kingdom,
+282,William,AxtArthur A.,Penn,,,
+299,Mort,,Dixon,1892-01-01,United States,1956-01-01
+291,William,H.,Daniels,1901-01-01,United States,1970-01-01
+294,Waldemar,,Young,1878-01-01,United States,1938-01-01
+288,Louis,De,Francesco,,,
+276,John,,Bright,1811-01-01,United Kingdom,1889-01-01
+292,Herbert,,Stothart,1885-01-01,United States,1949-01-01
+303,George,Marion,Jr.,1899-01-01,United States,1968-01-01
+305,David,,Abel,,,
+296,Delmer,,Daves,,United States,1977-01-01
+304,Dorothy,,Yost,1899-01-01,United States,1967-01-01
+301,Mark,,Sandrich,1900-01-01,United States,1945-01-01
+298,Allie,,Wrubel,1905-01-01,United States,1973-01-01
+302,Pandro,S.,Berman,1905-01-01,United States,1996-01-01
+295,Anne,,Bauchens,1882-01-01,United States,1967-01-01
+307,Earl,,Baldwin,,,
+306,Louis,,Edelman,,,
+311,Charles,A.,Zimmerman,,United States,1916-01-01
+309,George,,Amy,,United States,1986-01-01
+308,Ben,,Markson,1897-01-01,United States,1971-01-01
+313,Maude,T.,Howell,,United States,1964-01-01
+310,Arthur,,Edeson,1891-01-01,United States,1970-01-01
+315,Raymond,,Griffith,1895-01-01,United States,1957-01-01
+318,J.,Peverell,Marley,1899-01-01,United States,1964-01-01
+322,William,J.,Hurlbut,,,
+314,William,,Goetz,1903-01-01,United States,1969-01-01
+321,Carl,Laemmle,Jr.,1908-01-01,United States,1979-01-01
+312,Alfred,L.,Werker,,United States,1975-01-01
+320,John,M.,Stahl,,Azerbaijan,1950-01-01
+324,Merritt,B.,Gerstad,,,
+317,Barbara,,McLean,1903-01-01,United States,1996-01-01
+329,James,,Gow,,,
+326,Universal,,,,,
+316,Nunnally,,Johnson,1897-01-01,United States,1977-01-01
+325,Heinz,,Roemheld,1901-01-01,United States,1985-01-01
+323,Philip,Cahn Maurice,Wright,,,
+283,Metro-Goldwyn-Mayer,,,,,
+331,Edmund,H.,North,,,
+328,Dorothy,,Speare,,,
+327,Charles,,Beahan,,,
+332,Gene,,Milford,1902-01-01,United States,1991-01-01
+337,Robert,J.,Kern,1885-01-01,1885,1972-01-01
+350,Jesse,L.,Lasky,1880-01-01,United States,1958-01-01
+334,Hunt,,Stromberg,1894-01-01,United States,1968-01-01
+340,Jack,,Conway,,,
+330,S.K.,,Lauren,,,
+336,Frances,,Goodrich,1890-01-01,United States,1984-01-01
+319,20th,,Century,,,
+333,W.,S. Van,Dyke,1889-01-01,United States,1943-01-01
+335,Albert,,Hackett,1900-01-01,United States,1995-01-01
+339,William,,Axt,,United States,1959-01-01
+345,James,Kevin,McGuinness,1894-01-01,Ireland,1950-01-01
+293,Cecil,B.,DeMille,1881-01-01,United States,1959-01-01
+352,Carey,,Wilson,,,
+346,Charles,G.,Clarke,1899-01-01,United States,1983-01-01
+338,James,Wong,Howe,1899-01-01,China,1976-01-01
+351,Talbot,,Jennings,1894-01-01,United States,1985-01-01
+343,David,O.,Selznick,1902-01-01,United States,1965-01-01
+355,Mortimer,,Offner,,United States,1965-01-01
+348,Jesse,L. Lasky,Jr.,1910-01-01,United States,1988-01-01
+342,William,,Wellman,1896-01-01,United States,1975-01-01
+349,Arthur,C.,Miller,1895-01-01,US,1970-01-01
+357,Jane,,Loring,,United States,1983-01-01
+347,Irving,,Cummings,1888-01-01,United States,1959-01-01
+358,Robert,De,Grasse,1900-01-01,United States,1971-01-01
+363,Sid,,Silvers,,,
+359,Roy,,Webb,,,
+361,John,W. Considine,Jr.,,United States,1961-01-01
+356,Jane,,Murfin,1884-01-01,United States,1955-01-01
+360,Roy,Del,Ruth,1893-01-01,United States,1961-01-01
+362,Moss,,Hart,1904-01-01,United States,1961-01-01
+368,Gordon,,Hollingshead,1892-01-01,United States,1952-01-01
+341,Howard,,Hawks,1896-01-01,United States,1977-01-01
+367,Harry,Joe,Brown,,United States,1972-01-01
+344,Ben,,Hecht,1894-01-01,United States,1964-01-01
+365,Nacio,Herb,Brown,1896-01-01,United States,1964-01-01
+372,Cosmopolitan,,,,,
+364,Charles,,Rosher,1885-01-01,United Kingdom,1974-01-01
+353,John,,Farrow,1904-01-01,United Kingdom,1963-01-01
+369,Casey,,Robinson,1903-01-01,United States,1979-01-01
+370,Ernest,,Haller,1896-01-01,United States,1970-01-01
+374,Oliver,T.,Marsh,,MO,
+376,George,,Hively,,US,1950-01-01
+377,Joseph,H.,August,1890-01-01,United States,1947-01-01
+379,Louis,D.,Lighton,1895-01-01,United States,1963-01-01
+380,William,Slavens,McNutt,1885-01-01,United States,1938-01-01
+375,Dudley,,Nichols,1895-01-01,United States,1960-01-01
+381,Grover,,Jones,1893-01-01,United States,1940-01-01
+385,Ellsworth,,Hoagland,,United States,1972-01-01
+382,John,L.,Balderston,,,
+384,Laurence,,Stallings,1894-01-01,United States,1968-01-01
+383,Achmed,,Abdullah,1881-01-01,,1945-01-01
+389,Charles,,Kenyon,1880-01-01,United States,1961-01-01
+388,Henry,,Blanke,1901-01-01,Germany,1981-01-01
+371,Erich,Wolfgang,Korngold,1897-01-01,Austria,1957-01-01
+378,Henry,,Hathaway,1898-01-01,United States,1985-01-01
+354,George,,Stevens,1904-01-01,United States,1975-01-01
+393,Richard,,Boleslawski,1889-01-01,Russia,1937-01-01
+373,Hugh,,Walpole,,,
+390,Mary,C. McCall,Jr.,,United States,1986-01-01
+386,Max,,Reinhardt,1873-01-01,Austria,1943-01-01
+387,William,,Dieterle,1893-01-01,Germany,1972-01-01
+391,Ralph,,Dawson,1897-01-01,United States,1962-01-01
+366,Michael,,Curtiz,1886-01-01,Austria,1962-01-01
+394,W.,P.,Lipscomb,,United Kingdom,
+405,Dwight,,Taylor,,,
+399,Arthur,Hornblow,Jr.,1893-01-01,US,1976-01-01
+400,Walter,,DeLeon,1884-01-01,United States,1947-01-01
+403,Alfred,,Gilks,1891-01-01,United States,1970-01-01
+396,John,Lee,Mahin,,,
+409,Walter,,Donaldson,,,
+395,Gregg,,Toland,1904-01-01,United States,1948-01-01
+407,William,Anthony,McGuire,,United States,1940-01-01
+408,William,S.,Gray,,,
+404,Allan,,Scott,,,
+401,Harlan,,Thompson,1890-01-01,United States,1966-01-01
+410,Harold,,Adamson,1906-01-01,United States,1980-01-01
+398,Leo,,McCarey,1898-01-01,United States,1969-01-01
+402,Edward,,Dmytryk,1908-01-01,Canada,1999-01-01
+414,Daniel,,Mandell,1895-01-01,United States,1987-01-01
+411,Sheridan,GibneyMilton,Krims,,,
+397,Victor,,Herbert,,,
+422,John,,Emerson,,,
+415,Rudolph,,Maté,1898-01-01,Austria,1964-01-01
+418,George,,Oppenheimer,,,
+419,Frederick,Y.,Smith,1903-01-01,United States,1991-01-01
+427,Walter,,Jurmann,,,
+424,Robert,E.,Hopkins,,MA,2009-01-01
+416,Lawrence,,Weingarten,1897-01-01,United States,1975-01-01
+426,Tom,,Held,1889-01-01,Austria,1962-01-01
+417,Maurine,Dallas,Watkins,1896-01-01,United States,1969-01-01
+429,Edward,,Ward,,,
+421,a.s.c.,,,,,
+423,Bernard,H.,Hyman,,,
+420,Dr.,William,Axt,,United States,1959-01-01
+412,Tony,,Gaudio,1883-01-01,Italy,1951-01-01
+430,Pierre,,Collings,,,
+392,Felix,,Mendelssohn,1809-01-01,,1847-01-01
+428,Bronisław,,Kaper,1902-01-01,1902,1983-01-01
+431,Sheridan,,Gibney,,,
+425,Anita,,Loos,1888-01-01,United States,1981-01-01
+437,Adele,,Comandini,1898-01-01,United States,1987-01-01
+432,Leo,F.,Forbstein,1892-01-01,US,1948-01-01
+446,Al,,Clark,,,
+439,Joseph,A.,Valentine,1900-01-01,United States,1949-01-01
+433,S.,N.,Behrman,1893-01-01,United States,1973-01-01
+413,William,,Wyler,1902-01-01,France,1981-01-01
+435,Henry,,Koster,1905-01-01,Germany,1988-01-01
+406,Irving,,Berlin,1888-01-01,Russia,1989-01-01
+434,Conrad,A.,Nervig,1889-01-01,United States,1980-01-01
+444,Warren,,Low,1905-01-01,United States,1989-01-01
+440,Charles,,Previn,1888-01-01,United States,1973-01-01
+438,Ted,J.,Kent,1901-01-01,United States,1986-01-01
+443,Norman,Reilly,Raine,1894-01-01,United States,1971-01-01
+436,Joe,,Pasternak,1901-01-01,Austria,1991-01-01
+445,Viña,,Delmar,,United States,1990-01-01
+448,Marc,,Connelly,1890-01-01,US,1980-01-01
+447,Victor,,Fleming,1889-01-01,United States,1949-01-01
+449,Elmo,,Veron,1903-01-01,United States,1990-01-01
+451,Franz,,Waxman,1906-01-01,Germany,1967-01-01
+442,Geza,,Herczeg,,,
+441,Heinz,,Herald,,,
+453,Gustav,,Machatý,1901-01-01,Austria,1963-01-01
+454,Tess,,Slesinger,1905-01-01,United States,1945-01-01
+455,Basil,,Wrangell,,Italy,1977-01-01
+450,Harold,,Rosson,1895-01-01,United States,1988-01-01
+460,Sidney,,Clare,1892-01-01,United States,1972-01-01
+458,Kenneth,,Macgowan,,,
+463,Elmer,,Dyer,,United States,1970-01-01
+459,Niven,,Busch,1903-01-01,United States,1991-01-01
+457,A.S.C.,,,,,
+466,Bernard,W.,Burton,1898-01-01,United States,1991-01-01
+465,Bruce,,Manning,1902-01-01,United States,1965-01-01
+456,Karl,,Freund,1890-01-01,Austria,1969-01-01
+452,Lillian,,Hellman,1905-01-01,United States,1984-01-01
+473,Alan,,Campbell,,,
+474,Robert,,Carson,,,
+469,Morrie,,Ryskind,1895-01-01,United States,1985-01-01
+470,Anthony,,Veiller,1903-01-01,United States,1965-01-01
+476,W.,Howard,Greene,,,
+480,Richard,,Sherman,,,
+464,Dimitri,,Tiomkin,1894-01-01,Russia,1979-01-01
+482,Sidney,,Wagner,,,
+475,James,E.,Newcom,1905-01-01,United States,1990-01-01
+477,William,,Keighley,1889-01-01,United States,1984-01-01
+461,Lew,,Pollack,,US,1946-01-01
+486,Elizabeth,,Hill,,,
+471,William,A.,Wellman,1896-01-01,United States,1975-01-01
+483,Victor,,Saville,1895-01-01,United Kingdom,1979-01-01
+484,Ian,,Dalrymple,1903-01-01,South Africa,1989-01-01
+481,Dore,,Schary,1905-01-01,US,1980-01-01
+488,Harry,,Stradling,1901-01-01,United States,1970-01-01
+490,Charles,,Williams,,,
+487,Charles,,Frend,,,
+472,Dorothy,,Parker,1893-01-01,United States,1967-01-01
+496,Christian,,Matras,,,
+489,Louis,,Levy,,,
+491,Thyra,Samter,Winslow,,United States,1961-01-01
+478,Seton,I.,Miller,1902-01-01,United States,1974-01-01
+495,Marguerite,,Renoir,,France,1987-01-01
+494,Charles,,Spaak,1903-01-01,Belgium,1975-01-01
+497,Joseph,,Kosma,1905-01-01,,1969-01-01
+468,Gregory,La,Cava,,United States,1952-01-01
+462,20th,,Century-Fox,,,
+504,Cecil,,Lewis,,,
+467,Leopold,,Stokowski,1882-01-01,United Kingdom,1977-01-01
+492,Jean,,Renoir,1894-01-01,France,1979-01-01
+515,Frank,,Capra,1897-01-01,France,1991-01-01
+499,Clements,,Ripley,1892-01-01,United States,1954-01-01
+485,Frank,,Wead,1895-01-01,United States,1947-01-01
+502,Gabriel,,Pascal,1894-01-01,Austria,1954-01-01
+500,Anthony,,Asquith,,United Kingdom,1968-01-01
+509,David,,Lewis,,,
+507,Hal,C.,Kern,1894-01-01,United States,1985-01-01
+512,Eric,,Maschwitz,,,
+493,Albert,Pinkovitch Frank,Rollmer,,,
+511,R.,C.,Sherriff,1896-01-01,United Kingdom,1975-01-01
+508,Edmund,,Goulding,1891-01-01,United Kingdom,1959-01-01
+514,Richard,,Addinsell,,United Kingdom,1977-01-01
+498,Réalisation,d'art,Cinématographique,,,
+520,Walter,,Reisch,1903-01-01,Austria,1983-01-01
+513,Freddie,,Young,1902-01-01,United Kingdom,1998-01-01
+516,Sidney,,Buchman,1902-01-01,United States,1975-01-01
+517,Myles,,Connolly,1897-01-01,United States,1964-01-01
+506,Arthur,,Honegger,,,
+522,Werner,R.,Heymann,1896-01-01,Germany,1961-01-01
+518,Charles,,Brackett,1892-01-01,United States,1969-01-01
+510,Sam,,Wood,1883-01-01,United States,1949-01-01
+501,Leslie,,Howard,1893-01-01,United Kingdom,1943-01-01
+505,David,,Lean,1908-01-01,United Kingdom,1991-01-01
+528,Dorothy,,Spencer,1909-01-01,United States,2002-01-01
+479,Warner,Bros.-First,National,,,
+521,Gene,,Ruggiero,1910-01-01,United States,2002-01-01
+529,Bert,,Glennon,,,
+527,Walter,,Wanger,1894-01-01,United States,1968-01-01
+534,Gerard,,Carbonara,,,
+533,Leo,,Shuken,,,
+526,Hal,,Roach,1892-01-01,United States,1992-01-01
+532,Louis,,Gruenberg,1884-01-01,Russia,1964-01-01
+530,Richard,,Hageman,1881-01-01,Netherlands,1966-01-01
+523,Eugene,,Solow,,,
+536,Walter,,Wanger,1894-01-01,United States,1968-01-01
+525,Aaron,,Copland,1900-01-01,United States,1990-01-01
+546,James,,Hilton,,,
+524,Bert,,Jordan,,,
+548,Robert,L.,Simpson,,,
+540,Charles,,MacArthur,1895-01-01,United States,1956-01-01
+537,Noel,,Langley,1911-01-01,South Africa,1980-01-01
+519,Billy,,Wilder,1906-01-01,Austria,2002-01-01
+544,Ernie,,Haller,1896-01-01,United States,1970-01-01
+539,Edgar,Allan,Woolf,,United States,1943-01-01
+538,Florence,,Ryerson,,United States,1965-01-01
+503,George,Bernard,Shaw,1856-01-01,Ireland,1950-01-01
+543,An,Anatole Litvak,Production,1902-01-01,Russia,1974-01-01
+547,Robert,,Benchley,1889-01-01,United States,1945-01-01
+541,Anatole,,Litvak,1902-01-01,Russia,1974-01-01
+554,Henry,,Berman,1914-01-01,United States,1979-01-01
+558,Argosy,,,,,
+531,Franke,,Harling,,,
+559,Wanger,,,,,
+561,Harry,,Chandlee,,United States,1956-01-01
+557,Sherman,,Todd,1904-01-01,United States,1979-01-01
+555,Howard,E.,Koch,,US,1995-01-01
+552,Meredith,,Willson,1902-01-01,United States,1984-01-01
+551,Roland,,Totheroh,1890-01-01,United States,1967-01-01
+562,Frank,,Craven,1875-01-01,1875,1945-01-01
+560,Sol,,Lesser,1890-01-01,United States,1980-01-01
+565,Philip,,Dunne,,,
+566,James,B.,Clark,,,
+563,Sol,,Lesser,1890-01-01,United States,1980-01-01
+542,A,Warner Bros. – First National,Picture,,,
+564,Joseph,,Ruttenberg,1889-01-01,Russia,1983-01-01
+567,George,,Boemler,1902-01-01,1902,1968-01-01
+553,Dalton,,Trumbo,1905-01-01,United States,1976-01-01
+556,Argosy,,Corporation,,,
+550,Willard,,Nico,,,
+573,Everett,,Riskin,,,
+581,Thomas,,Richards,,,
+535,Stephen,,Pasternacki,,,
+572,Mercury,,,,,
+579,Leo,,Tover,1902-01-01,United States,1964-01-01
+574,Viola,,Lawrence,,United States,
+575,Friedrich,,Hollaender,,,
+577,Richard,,Maibaum,,United States,1991-01-01
+576,Mitchell,,Leisen,1898-01-01,United States,1972-01-01
+582,Irving,,Rapper,1898-01-01,United Kingdom,1999-01-01
+584,Joan,,Harrison,,,
+578,Doane,,Harrison,1894-01-01,United States,1968-01-01
+545,Alfred,,Hitchcock,1899-01-01,United Kingdom,1980-01-01
+569,Herman,J.,Mankiewicz,1897-01-01,United States,1953-01-01
+580,Victor,,Young,1899-01-01,United States,1956-01-01
+587,George,,Froeschel,1891-01-01,Austria,1979-01-01
+586,Harry,Stradling,Sr.,1901-01-01,United States,1970-01-01
+589,Daniele,,Amfitheatrof,1901-01-01,Russia,1983-01-01
+585,Alma,,Reville,1899-01-01,United Kingdom,1982-01-01
+571,Bernard,,Herrmann,1911-01-01,United States,1975-01-01
+570,Robert,,Wise,1914-01-01,United States,2005-01-01
+590,Michael,,Powell,1905-01-01,United Kingdom,1990-01-01
+549,Charlie,,Chaplin,1889-01-01,United Kingdom,1977-01-01
+599,Stanley,,Cortez,1908-01-01,United States,1997-01-01
+593,Rodney,,Ackland,,,
+591,John,,Sutro,1903-01-01,United Kingdom,1985-01-01
+592,Emeric,,Pressburger,1902-01-01,Austria,1988-01-01
+588,Harold,F.,Kress,1913-01-01,United States,1999-01-01
+603,Jo,,Swerling,,,
+607,Otto,,Meyer,,,
+597,London,Symphony,Orchestra,,,
+604,Leigh,,Harline,1907-01-01,United States,1969-01-01
+583,Alfred,Hitchcock Harry E.,Edington,,,
+606,Irwin,,Shaw,1913-01-01,United States,1984-01-01
+605,Fred,,Guiol,1898-01-01,United States,1964-01-01
+610,W.,R.,Burnett,1899-01-01,United States,1982-01-01
+611,Frank,,Butler,,,
+600,Irving,,Pichel,1891-01-01,United States,1954-01-01
+608,Ted,,Tetzlaff,1903-01-01,United States,1995-01-01
+602,William,Cameron,Menzies,1896-01-01,United States,1957-01-01
+568,Orson,,Welles,1915-01-01,United States,1985-01-01
+613,LeRoy,,Stone,1894-01-01,United States,1949-01-01
+612,Frank,,Bracht,1910-01-01,United States,1985-01-01
+615,Theodor,,Sparkuhl,,,
+596,Muir,,Mathieson,1911-01-01,United Kingdom,1975-01-01
+617,Robert,,Buckner,1906-01-01,United States,1989-01-01
+616,David,,Buttolph,1902-01-01,United States,1983-01-01
+622,Howard,,Koch,,,
+598,Ortus,,,,,
+619,Ray,,Heindorf,1908-01-01,United States,1980-01-01
+618,George,M.,Cohan,1878-01-01,United States,1942-01-01
+620,Julius,J.,Epstein,1909-01-01,United States,2000-01-01
+623,John,F. Link,Sr.,1901-01-01,United States,1968-01-01
+621,Philip,G.,Epstein,,,
+625,Clarence,,Brown,1890-01-01,United States,1987-01-01
+627,Thelma,,Connell,,United Kingdom,
+614,William,C.,Mellor,,United States,1963-01-01
+595,Ralph,Vaughan,Williams,,,
+601,Allen,,McNeil,,,
+634,Frank,,Ross,,,
+633,Robert,,Russell,,,
+631,Paul,,Osborn,,India,1988-01-01
+594,Frederick,"Young,",F.R.P.S.,,,
+632,Hans,,Rameau,,Germany,
+609,Joseph,,Sistrom,,,
+628,Ronald,,Neame,1911-01-01,United Kingdom,2010-01-01
+624,Ray,,Rennahan,1896-01-01,United States,1980-01-01
+635,Lewis,R.,Foster,1898-01-01,United States,1974-01-01
+636,Lamar,,Trotti,1900-01-01,US,1952-01-01
+638,William,,Perlberg,,,
+637,Cyril,J.,Mockridge,1896-01-01,United Kingdom,1979-01-01
+649,John,,Seitz,,,
+629,Clifton,,Parker,,,
+640,Herman,,Shumlin,1898-01-01,United States,1979-01-01
+642,Rudi,,Fehr,1911-01-01,Germany,1999-01-01
+630,Aldous,,Huxley,1894-01-01,United Kingdom,1963-01-01
+646,Robert,Emmett,Dolan,,United States,1972-01-01
+643,Hugo,,Friedhofer,1901-01-01,United States,1981-01-01
+626,Noël,,Coward,,,
+644,Frank,,Cavett,1905-01-01,United States,1973-01-01
+645,Lionel,,Lindon,1905-01-01,United States,1971-01-01
+639,George,,Seaton,1911-01-01,United States,1979-01-01
+651,John,Van,Druten,1901-01-01,United Kingdom,1957-01-01
+652,Ralph,E.,Winters,1909-01-01,Canada,2004-01-01
+654,George,,Sidney,1916-01-01,United States,2002-01-01
+650,Miklós,,Rózsa,1907-01-01,Austria,1995-01-01
+653,Leon,,Shamroy,1901-01-01,United States,1974-01-01
+647,Joseph,,Sistrom,,,
+658,Charles,P.,Boyle,1892-01-01,United States,1968-01-01
+659,Robert,,Planck,1902-01-01,United States,1971-01-01
+657,Adrienne,,Fazan,,Germany,1986-01-01
+660,Georgie,,Stoll,,,
+656,Isobel,,Lennart,1915-01-01,United States,1971-01-01
+648,Raymond,,Chandler,1888-01-01,United States,1959-01-01
+664,David,,Weisbart,1915-01-01,United States,1967-01-01
+663,Ranald,,MacDougall,1915-01-01,United States,1973-01-01
+655,MGM,,Cartoons,,,
+667,Filippo,Del,Giudice,1892-01-01,,1963-01-01
+666,Emil,,Newman,1911-01-01,United States,1984-01-01
+641,Dashiell,,Hammett,1894-01-01,United States,1961-01-01
+661,Harry,,Marker,1899-01-01,United States,1990-01-01
+669,Alan,,Dent,,,
+662,Jerry,,Wald,1911-01-01,United States,1962-01-01
+665,Robert,E.,Sherwood,1896-01-01,United States,1955-01-01
+668,Dallas,,Bower,,,
+678,Leonard,,Smith,,,
+670,Reginald,,Beck,1902-01-01,Russia,1992-01-01
+672,Robert,,Krasker,,,
+676,J.,Watson Webb,Jr.,1916-01-01,United States,2000-01-01
+671,Jack,,Hildyard,1908-01-01,United Kingdom,1990-01-01
+674,William,,Hornbeck,,United States,
+677,Arthur,,Arling,,United States,1991-01-01
+681,Harmon,,Jones,1911-01-01,Canada,1972-01-01
+675,Joseph,,Biroc,1903-01-01,United States,1996-01-01
+698,Laurence,,Olivier,1907-01-01,United Kingdom,1989-01-01
+683,Monica,,Collingwood,1908-01-01,United States,1989-01-01
+691,Guy,,Green,,,
+682,Leonardo,,Bercovici,,US,
+687,J.,Roy,Hunt,,United States,1972-01-01
+690,Jack,,Harris,,,
+684,Adrian,,Scott,1911-01-01,United States,1972-01-01
+694,Robert,,Simpson,,,
+686,Harry,,Gerstad,1909-01-01,1909,2002-01-01
+685,John,,Paxton,1911-01-01,United States,1985-01-01
+673,William,,Walton,,,
+692,Walter,,Goehr,,,
+689,Anthony,,Havelock-Allan,1904-01-01,United Kingdom,2003-01-01
+696,Lloyd,,Ahern,1905-01-01,United States,1983-01-01
+695,Charles,,Clarke,1950-01-01,United Kingdom,
+699,Helga,,Cranston,,Germany,2013-01-01
+700,Desmond,,Dickinson,,,
+704,Ted,,McCord,,,
+679,Frederick,,Delius,,,
+697,Cyril,,Mockridge,1896-01-01,United Kingdom,1979-01-01
+702,Allen,,Vincent,1903-01-01,United States,1979-01-01
+703,Irma,von,Cube,,,
+701,Jean,,Negulesco,,Kingdom of Romania,1993-01-01
+706,Reginald,,Mills,1912-01-01,United Kingdom,1990-01-01
+680,Elia,,Kazan,1909-01-01,Turkey,2003-01-01
+708,Brian,,Easdale,,,
+707,Jack,,Cardiff,1914-01-01,United Kingdom,2009-01-01
+712,Millen,,Brand,1906-01-01,United States,1980-01-01
+711,Frank,,Partos,1901-01-01,Kingdom of Hungary,1956-01-01
+688,Anthony,Havelock-AllanRonald,Neame,,,
+714,Ted,D.,McCord,1900-01-01,United States,1976-01-01
+717,Burnett,,Guffey,1905-01-01,United States,1983-01-01
+716,Robert,,Parrish,1916-01-01,United States,1995-01-01
+710,Robert,,Bassler,1903-01-01,United States,1975-01-01
+720,Paul,C.,Vogel,1899-01-01,1899,1975-01-01
+718,Robert,,Pirosh,1910-01-01,United States,1989-01-01
+722,Ruth,,Goetz,1912-01-01,United States,2001-01-01
+721,Lennie,,Hayton,1908-01-01,United States,1971-01-01
+725,Sy,,Bartlett,1900-01-01,Russia,1978-01-01
+723,Sol,C.,Siegel,1903-01-01,Russia,1982-01-01
+730,Charles,,Nelson,,,
+713,Arthur,,Laurents,1917-01-01,United States,2011-01-01
+705,Michael,Powell Emeric,Pressburger,,,
+724,Vera,,Caspary,1899-01-01,United States,1987-01-01
+728,S.,Sylvan,Simon,1910-01-01,United States,1951-01-01
+693,J.,Arthur,Rank-Cineguild,,,
+729,Albert,,Mannheimer,,,
+731,Frederick,,Hollander,,,
+735,Compton,,Bennett,,,
+709,J.,Arthur,Rank-Archers,,,
+739,Robert,,Surtees,,,
+715,Robert,,Rossen,1908-01-01,United States,1966-01-01
+736,Andrew,,Marton,1904-01-01,Hungary,1992-01-01
+738,Helen,,Deutsch,,,
+719,John,D.,Dunning,,,
+733,Ferris,,Webster,1912-01-01,United States,1989-01-01
+741,D.,M. Marshman,Jr.,1922-01-01,United States,2015-01-01
+737,Sam,,Zimbalist,1905-01-01,Russia,1958-01-01
+734,John,,Alton,1901-01-01,Austro-Hungarian Empire,1996-01-01
+749,Frank,,McCarthy,,,
+740,Mischa,,Spoliansky,,,
+742,Arthur,,Schmidt,,,
+727,All,About,Eve,,,
+753,Harry,,Brown,,,
+726,Beirne,Lay,Jr.,1909-01-01,United States,1982-01-01
+748,Saul,,Chaplin,,United States,1997-01-01
+750,Peter,,Viertel,1920-01-01,Germany,2007-01-01
+754,William,V.,Skall,1897-01-01,1897,1976-01-01
+743,Arthur,,Freed,1894-01-01,United States,1973-01-01
+751,Franz,,Planer,,,
+752,Michael,,Wilson,,,
+746,Ira,,Gershwin,1896-01-01,United States,1983-01-01
+758,Fredric,M.,Frank,,,
+759,Theodore,St.,John,,,
+747,Johnny,,Green,1908-01-01,United States,1989-01-01
+760,Barré,,Lyndon,,,
+755,Charles,K.,Feldman,1905-01-01,United States,1968-01-01
+765,Harry,W.,Gerstad,1909-01-01,1909,2002-01-01
+764,Elmo,,Williams,,United States,2015-01-01
+770,Frank,,Clarke,,,
+757,Alex,,North,1910-01-01,United States,1991-01-01
+766,Floyd,,Crosby,,United States,1985-01-01
+769,Marguerite,,Roberts,1905-01-01,United States,1989-01-01
+768,Aeneas,,MacKenzie,,,
+744,Alan,Jay,Lerner,1918-01-01,US,1986-01-01
+772,Ralph,,Kemplen,1912-01-01,United Kingdom,2004-01-01
+775,William,,Engvick,,,
+745,George,,Gershwin,1898-01-01,United States,1937-01-01
+777,Jack,,Murray,,,
+767,Richard,,Thorpe,1896-01-01,United States,1991-01-01
+774,Georges,,Auric,1899-01-01,France,1983-01-01
+756,Tennessee,,Williams,1911-01-01,United States,1983-01-01
+776,Frank,S.,Nugent,1908-01-01,US,1965-01-01
+763,Carl,,Foreman,1914-01-01,United States,1984-01-01
+773,Oswald,,Morris,1915-01-01,United Kingdom,2014-01-01
+762,Stanley,,Kramer,1913-01-01,United States,2001-01-01
+771,John,and James,Woolf,,,
+785,John,,Dunning,,,
+778,Winton,C.,Hoch,,,
+779,Buddy,,Adler,1906-01-01,United States,1960-01-01
+783,Morris,,Stoloff,,,
+780,Daniel,,Taradash,1913-01-01,United States,2003-01-01
+782,George,,Duning,,United States,2000-01-01
+761,Fred,,Zinnemann,1907-01-01,Austria,1997-01-01
+781,William,A.,Lyon,,United States,
+788,Gina,,Kaus,1893-01-01,Austria,1985-01-01
+786,A.C.E.,,,,,
+790,Ian,McLellan,Hunter,1915-01-01,United Kingdom,1991-01-01
+791,John,,Dighton,,,
+787,Miklos,,Rozsa,1907-01-01,Austria,1995-01-01
+792,Robert,,Swink,1918-01-01,United States,2000-01-01
+732,Vincente,,Minnelli,1903-01-01,United States,1986-01-01
+793,Henri,,Alekan,1909-01-01,France,2001-01-01
+796,Loyal,,Griggs,1906-01-01,United States,1978-01-01
+794,A.,B. Guthrie,Jr.,1901-01-01,United States,1991-01-01
+784,John,,Houseman,1902-01-01,Kingdom of Romania,1988-01-01
+789,Albert,,Maltz,1908-01-01,United States,1985-01-01
+802,Michael,,Blankfort,,United States,
+797,Sam,,Spiegel,,Poland,1985-01-01
+799,Boris,,Kaufman,1906-01-01,Russia,1980-01-01
+804,John,F.,Warren,1909-01-01,United States,2000-01-01
+798,Budd,,Schulberg,1914-01-01,United States,2009-01-01
+811,John,,Patrick,,,
+807,Dorothy,,Kingsley,1909-01-01,United States,1997-01-01
+801,Stanley,,Roberts,1970-01-01,United States,
+808,George,,Folsey,1898-01-01,United States,1988-01-01
+805,Stanley,,Donen,1924-01-01,United States,2019-01-01
+812,William,,Reynolds,,,
+803,Henry,,Batista,,United States,2002-01-01
+809,Gene,de,Paul,1919-01-01,United States,1988-01-01
+819,William,H.,Reynolds,,,
+817,Joseph,,LaShelle,1900-01-01,United States,1989-01-01
+820,Sammy,,Fain,1902-01-01,United States,1989-01-01
+823,Fred,,Kohlmar,,,
+825,Michael,,Anderson,,,
+826,Michael,,Todd,,,
+800,Leonard,,Bernstein,1918-01-01,United States,1990-01-01
+824,Daniel,,Mann,1912-01-01,United States,1991-01-01
+822,Leland,,Hayward,1902-01-01,United States,1971-01-01
+827,James,,Poe,1921-01-01,United States,1980-01-01
+816,Alan,"Crosland,",Jr.,,United States,2001-01-01
+815,Paddy,,Chayefsky,1923-01-01,United States,1981-01-01
+810,Johnny,,Mercer,1909-01-01,United States,1976-01-01
+829,Howard,,Epstein,1949-01-01,Nova Scotia,
+833,Ivan,,Moffat,,,
+831,Ellsworth,,Fredericks,1904-01-01,United States,1993-01-01
+832,Henry,,Ginsberg,1897-01-01,1897,1979-01-01
+835,Fred,,Bohanan,1907-01-01,1907,1980-01-01
+806,Jack,,Cummings,,,
+813,Milton,R.,Krasner,1904-01-01,United States,1988-01-01
+836,Walter,,Lang,1896-01-01,US,1972-01-01
+842,Peter,,Taylor,,,
+837,Ernest,,Lehman,1915-01-01,United States,2005-01-01
+840,Jack,,Gariss,1920-01-01,United States,1985-01-01
+834,Philip,W.,Anderson,1923-01-01,United States,2020-01-01
+828,S.,J.,Perelman,1904-01-01,United States,1979-01-01
+849,Mark,,Robson,,,
+841,Elmer,,Bernstein,1922-01-01,United States,2004-01-01
+818,Harold,,Hecht,1907-01-01,United States,1985-01-01
+795,William,Hornbeck Tom,McAdoo,,,
+848,Kenyon,,Hopkins,1912-01-01,United States,1983-01-01
+846,Reginald,,Rose,1920-01-01,United States,2002-01-01
+843,Malcolm,,Arnold,,,
+830,Edward,A.,Biery,,United States,2012-01-01
+839,Jesse,"L. Lasky,",Jr.,1910-01-01,United States,1988-01-01
+853,Ellsworth,,Fredricks,1904-01-01,United States,1993-01-01
+854,Harry,,Kurnitz,1908-01-01,United States,1968-01-01
+850,John,Michael,Hayes,,,
+855,Russell,,Harlan,,,
+851,David,,Bretherton,1924-01-01,United States,2000-01-01
+852,Arthur,P.,Schmidt,1912-01-01,1912,1965-01-01
+814,Delbert,,Mann,1920-01-01,United States,2007-01-01
+821,Joshua,,Logan,1908-01-01,United States,1988-01-01
+856,Matty,,Malneck,1903-01-01,United States,1981-01-01
+838,Richard,,Rodgers,1902-01-01,United States,1979-01-01
+859,Morton,,DaCosta,,,
+847,Carl,,Lerner,,,
+844,Sidney,,Lumet,1924-01-01,United States,2011-01-01
+866,Charles,,Wolcott,,,
+862,William,H.,Ziegler,,United States,1977-01-01
+868,Frederic,,Knudtson,1906-01-01,United States,1964-01-01
+857,Frederick,,Loewe,1901-01-01,Germany,1988-01-01
+867,Harold,Jacob,Smith,1912-01-01,United States,1970-01-01
+869,Sam,,Leavitt,1904-01-01,United States,1984-01-01
+863,Bronislau,,Kaper,1902-01-01,1902,1983-01-01
+845,Henry,,Fonda,1905-01-01,United States,1982-01-01
+873,Marjorie,,Fowler,1920-01-01,1920,2003-01-01
+860,Betty,,Comden,1917-01-01,United States,2006-01-01
+875,Karl,,Tunberg,1907-01-01,United States,1992-01-01
+872,John,,Gay,1685-01-01,United Kingdom,1732-01-01
+861,Adolph,,Green,1914-01-01,United States,2002-01-01
+865,William,,Daniels,1927-01-01,United States,
+874,David,,Raksin,1912-01-01,United States,2004-01-01
+876,Robert,L.,Surtees,1906-01-01,United States,1985-01-01
+878,Wendell,,Mayes,,United States,1992-01-01
+882,Walter,,Thompson,,,
+871,Terence,,Rattigan,1911-01-01,United Kingdom,1977-01-01
+884,John,,Woolf,,,
+864,Richard,,Brooks,,United States,1992-01-01
+881,Robert,,Anderson,,,
+879,Louis,R.,Loeffler,,United States,
+886,Neil,,Paterson,,,
+858,André,,Previn,1929-01-01,Germany,2019-01-01
+870,Ernest,,Gold,1921-01-01,Austria,1999-01-01
+877,Otto,,Preminger,1905-01-01,United Kingdom,1986-01-01
+889,I.,A. L.,Diamond,,Romania,1988-01-01
+883,Jack,,Clayton,1921-01-01,United Kingdom,1995-01-01
+885,James,,Woolf,,,
+887,Freddie,,Francis,1917-01-01,United Kingdom,2007-01-01
+898,"Rachel,",,Rachel,,,
+895,The,"Russians Are Coming, the Russians Are",Coming,,,
+888,Mario,,Nascimbene,1913-01-01,Italy,2002-01-01
+894,A,Thousand,Clowns,,,
+892,America,,America,,,
+880,Duke,,Ellington,1899-01-01,United States,1974-01-01
+897,Guess,Who's Coming to,Dinner,,,
+899,Midnight,,Cowboy,,,
+896,The,,Graduate,,,
+893,Dr.,Strangelove or: How I Learned to Stop Worrying and Love the,Bomb,,,
+905,Fred,J.,Koenekamp,,United States,2017-01-01
+904,Hugh,,Fowler,,United States,1975-01-01
+901,Butch,Cassidy and the Sundance,Kid,,,
+891,Judgment,at,Nuremberg,,,
+908,The,Last Picture,Show,,,
+909,Nicholas,and,Alexandra,,,
+900,Anne,of the Thousand,Days,,,
+907,Five,Easy,Pieces,,,
+911,Deliverance,,,,,
+890,The,,Hustler,,,
+906,Jerry,,Goldsmith,1929-01-01,United States,2004-01-01
+917,The,,Conversation,,,
+918,The,Towering,Inferno,,,
+916,The,Godfather Part,II,,,
+926,An,Unmarried,Woman,,,
+912,The,,Sting,,,
+924,The,Goodbye,Girl,,,
+919,Barry,,Lyndon,,,
+902,Franklin,J.,Schaffner,1920-01-01,Japan,1989-01-01
+913,American,,Graffiti,,,
+921,Rocky,,,,,
+922,Taxi,,Driver,,,
+935,John,,Bailey,,,
+920,Dog,Day,Afternoon,,,
+934,Jeff,,Kanew,1944-01-01,United States,
+923,Annie,,Hall,,,
+932,Ronald,L.,Schwary,1944-01-01,1944,2020-01-01
+930,Norma,,Rae,,,
+925,The,Deer,Hunter,,,
+910,The,,Godfather,,,
+929,Breaking,,Away,,,
+933,Alvin,,Sargent,1927-01-01,United States,2019-01-01
+903,Francis,Ford,Coppola,1939-01-01,United States,
+942,The,,Verdict,,,
+927,Kramer,vs.,Kramer,,,
+915,The,,Exorcist,,,
+937,Raging,,Bull,,,
+941,Tootsie,,,,,
+945,Places,in the,Heart,,,
+914,Cries,and,Whispers,,,
+946,A,Soldier's,Story,,,
+943,Terms,of,Endearment,,,
+948,Hannah,and Her,Sisters,,,
+936,Marvin,,Hamlisch,1944-01-01,United States,2012-01-01
+938,Chariots,of,Fire,,,
+947,Prizzi's,,Honor,,,
+931,Robert,,Redford,1936-01-01,United States,
+950,Fatal,,Attraction,,,
+951,Moonstruck,,,,,
+944,Tender,,Mercies,,,
+949,The,Last,Emperor,,,
+961,Michael,,Blake,,,
+928,Apocalypse,,Now,,,
+953,Dangerous,,Liaisons,,,
+955,Working,,Girl,,,
+964,John,,Barry,,,
+959,My,Left,Foot,,,
+962,Neil,,Travis,1936-01-01,United States,2012-01-01
+956,Driving,Miss,Daisy,,,
+965,Jim,,Wilson,,,
+957,Dead,Poets,Society,,,
+940,E.T.,the,Extra-Terrestrial,,,
+952,Rain,,Man,,,
+963,Dean,,Semler,1943-01-01,Australia,
+966,Awakenings,,,,,
+954,Mississippi,,Burning,,,
+958,Field,of,Dreams,,,
+969,Bugsy,,,,,
+967,The,Godfather Part,III,,,
+970,The,Prince of,Tides,,,
+972,The,Crying,Game,,,
+975,In,the Name of the,Father,,,
+973,A,Few Good,Men,,,
+960,Kevin,,Costner,1955-01-01,United States,
+968,Goodfellas,,,,,
+939,Raiders,of the Lost,Ark,,,
+982,The,,Postman,,,
+984,As,Good as It,Gets,,,
+978,Four,Weddings and a,Funeral,,,
+981,Braveheart,,,,,
+971,Unforgiven,,,,,
+994,William,,Nicholson,,,
+983,Jerry,,Maguire,,,
+993,John,,Logan,,,
+996,John,,Mathieson,,,
+992,David,,Franzoni,1947-01-01,1947,
+986,Good,Will,Hunting,,,
+995,Pietro,,Scalia,1960-01-01,Italy,
+980,The,Shawshank,Redemption,,,
+977,Forrest,,Gump,,,
+1000,Branko,,Lustig,1932-01-01,Kingdom of Yugoslavia,2019-01-01
+999,Douglas,,Wick,,United States,
+976,The,,Piano,,,
+990,The,Sixth,Sense,,,
+1003,In,the,Bedroom,,,
+985,The,Full,Monty,,,
+974,Schindler's,,List,,,
+988,Life,Is,Beautiful,,,
+1002,Gosford,,Park,,,
+987,Shakespeare,in,Love,,,
+979,Pulp,,Fiction,,,
+998,Lisa,,Gerrard,1961-01-01,Australia,
+991,Ridley,,Scott,1937-01-01,United Kingdom,
+1001,Crouching,"Tiger, Hidden",Dragon,,,
+1006,Gangs,of New,York,,,
+997,Hans,,Zimmer,1957-01-01,Germany,
+1005,Moulin,,Rouge!,,,
+1004,The,Lord of the Rings: The Fellowship of the,Ring,,,
+989,Saving,Private,Ryan,,,
+1022,An,,Education,,,
+1013,Good,"Night, and Good",Luck,,,
+1026,UK,Film,Council,,,
+1028,Tariq,,Anwar,,,
+1027,David,,Seidler,1937-01-01,United Kingdom,2024-01-01
+1009,Master,and Commander: The Far Side of the,World,,,
+1029,Danny,,Cohen,,,
+1010,Million,Dollar,Baby,,,
+1014,The,,Departed,,,
+1025,Tom,,Hooper,1972-01-01,United Kingdom,
+1018,There,Will Be,Blood,,,
+1016,Little,Miss,Sunshine,,,
+1023,Inglourious,,Basterds,,,
+1033,Gareth,,Unwin,1972-01-01,Germany,
+1024,A,Serious,Man,,,
+1020,The,Hurt,Locker,,,
+1031,Iain,,Canning,1979-01-01,,
+1015,Letters,from Iwo,Jima,,,
+1032,Emile,,Sherman,1972-01-01,,
+1019,Slumdog,,Millionaire,,,
+1039,Winter's,,Bone,,,
+1034,The,,Fighter,,,
+1012,Brokeback,,Mountain,,,
+1007,The,Lord of the Rings: The Two,Towers,,,
+1011,Sideways,,,,,
+1030,Alexandre,,Desplat,1961-01-01,France,
+1040,The,,Descendants,,,
+1042,Beasts,of the Southern,Wild,,,
+1041,Midnight,in,Paris,,,
+1008,The,Lord of the Rings: The Return of the,King,,,
+1046,American,,Hustle,,,
+1017,No,Country for Old,Men,,,
+1044,Silver,Linings,Playbook,,,
+1043,Django,,Unchained,,,
+1047,Dallas,Buyers,Club,,,
+1045,Zero,Dark,Thirty,,,
+1035,Inception,,,,,
+1048,American,,Sniper,,,
+1050,The,Imitation,Game,,,
+1057,Phantom,,Thread,,,
+1052,Hacksaw,,Ridge,,,
+1037,The,Social,Network,,,
+1062,Kwak,,Sin-ae,1968-01-01,South Korea,
+1064,Yang,,Jin-mo,,South Korea,
+1063,Han,,Jin-won,,,
+1059,BlacKkKlansman,,,,,
+1065,Hong,,Kyung-pyo,1962-01-01,1962,
+1049,The,Grand Budapest,Hotel,,,
+1053,Hidden,,Figures,,,
+1066,Jung,,Jae-il,1982-01-01,South Korea,
+1056,Get,,Out,,,
+1055,The,Shape of,Water,,,
+1060,The,,Favourite,,,
+1058,Three,"Billboards Outside Ebbing,",Missouri,,,
+1071,Marriage,,Story,,,
+1076,Mollye,,Asher,,US,
+1068,Ford,v,Ferrari,,,
+1051,Mad,Max: Fury,Road,,,
+1054,La,La,Land,,,
+1077,Joshua,James,Richards,,United Kingdom,
+1075,Peter,,Spears,1965-01-01,United States,
+1061,Bong,Joon,Ho,1969-01-01,South Korea,
+1084,Sian,,Heder,1977-01-01,United States,
+1081,Promising,Young,Woman,,,
+1082,Sound,of,Metal,,,
+1069,The,,Irishman,,,
+1089,Philippe,,Rousselet,1968-01-01,France,
+1088,Marius,de,Vries,1961-01-01,United Kingdom,
+1080,Mank,,,,,
+1079,Judas,and the Black,Messiah,,,
+1085,Pathé,,,,,
+1078,Ludovico,,Einaudi,1955-01-01,Italy,
+1096,Paul,,Rogers,,,
+1087,Paula,,Huidobro,,,
+1086,Geraud,,Brisson,,,
+1070,Jojo,,Rabbit,,,
+1100,Jonathan,,Wang,,,
+1098,Son,,Lux,,,
+1073,Chloé,,Zhao,1982-01-01,China,
+1091,Licorice,,Pizza,,,
+1074,Frances,,McDormand,1957-01-01,United States,
+1067,Bong,,Joon-ho,1969-01-01,South Korea,
+1097,Larkin,,Seiple,,,
+1090,Don't,Look,Up,,,
+1095,Daniel,Kwan Daniel,Scheinert,,,
+1094,Gozie,,AGBO,,,
+1099,Daniel,"Kwan, Daniel",Scheinert,,,
+1092,Daniel,KwanDaniel,Scheinert,,,
+1093,A24,,,,,
+1108,Syncopy,,Inc.,,,
+1102,The,Banshees of,Inisherin,,,
+1104,Tár,,,,,
+1106,Triangle,of,Sadness,,,
+1109,Jennifer,,Lame,1981-01-01,United States,
+1113,Charles,,Roven,1949-01-01,1949,
+1110,Hoyte,van,Hoytema,1971-01-01,Switzerland,
+1119,Alex,,Coco,,,
+1112,Emma,,Thomas,1971-01-01,United Kingdom,
+1103,The,,Fabelmans,,,
+1118,Matthew,,Hearon-Smith,,,
+1117,Drew,,Daniels,,,
+1072,Once,Upon a Time in,Hollywood,,,
+1120,Samantha,,Quan,1975-01-01,Canada,
+1115,The,,Holdovers,,,
+1111,Ludwig,,Göransson,1984-01-01,Sweden,
+1132,International,Sound,Version,,,
+1129,Del,,Andrews,1894-01-01,United States,1942-01-01
+1131,Milton,,Carruth,1899-01-01,United States,1972-01-01
+1101,Avatar:,The Way of,Water,,,
+1105,Top,Gun:,Maverick,,,
+1121,The,,Brutalist,,,
+1127,Maxwell,,Anderson,1888-01-01,United States,1959-01-01
+1134,The,,Divorcee,,,
+1116,Sean,,Baker,1971-01-01,United States,
+1135,The,Love,Parade,,,
+1130,C.,Gardner,Sullivan,1884-01-01,United States,1965-01-01
+1128,George,,Abbott,1887-01-01,United States,1995-01-01
+1122,A,Complete,Unknown,,,
+1133,David,,Broekman,,,
+1137,Lady,for a,Day,,,
+1136,A,Free,Soul,,,
+1138,One,Night of,Love,,,
+1114,Anatomy,of a,Fall,,,
+1139,My,Man,Godfrey,,,
+1142,Stage,,Door,,,
+1141,The,Life of Emile,Zola,,,
+1125,Nickel,,Boys,,,
+1145,Here,Comes Mr.,Jordan,,,
+1123,Dune:,Part,Two,,,
+1149,The,More the,Merrier,,,
+1148,Kings,,Row,,,
+1144,Mr.,Smith Goes to,Washington,,,
+1147,Yankee,Doodle,Dandy,,,
+1140,The,Great,Ziegfeld,,,
+1151,The,Bells of St.,Mary's,,,
+1124,Emilia,,Pérez,,,
+1154,The,Bishop's,Wife,,,
+1143,Angels,with Dirty,Faces,,,
+1156,The,,Search,,,
+1155,The,Snake,Pit,,,
+1157,The,,Heiress,,,
+1158,The,Asphalt,Jungle,,,
+1166,Max,,Miller,,,
+1107,Christopher,,Nolan,1970-01-01,United Kingdom,
+1150,Double,,Indemnity,,,
+1153,Brief,,Encounter,,,
+1167,Valentine,,Davies,1905-01-01,US[1],1961-01-01
+1126,The,,Substance,,,
+1163,Roman,,Holiday,,,
+1164,Rear,,Window,,,
+1170,Alan,,Handley,1912-01-01,United States,1990-01-01
+1165,Bad,Day at Black,Rock,,,
+1172,The,Inn of the Sixth,Happiness,,,
+1161,High,,Noon,,,
+1152,It's,a Wonderful,Life,,,
+1159,The,Third,Man,,,
+1169,Sayonara,,,,,
+1175,Never,on,Sunday,,,
+1171,The,Defiant,Ones,,,
+1173,I,Want to,Live!,,,
+1180,David,and,Lisa,,,
+1179,Divorce,Italian,Style,,,
+1182,The,,Cardinal,,,
+1177,Jerome,,Robbins,1918-01-01,United States,1998-01-01
+1168,Trevor,,Newman,,,
+1176,Richard,,Dunlap,,,
+1174,Some,Like It,Hot,,,
+1184,Woman,in the,Dunes,,,
+1146,Citizen,,Kane,,,
+1191,Jack,Haley,Jr.,1933-01-01,United States,2001-01-01
+1178,La,Dolce,Vita,,,
+1188,Gower,,Champion,1919-01-01,US,1980-01-01
+1192,M.,J.,Frankovich,1909-01-01,United States,1992-01-01
+1181,Tony,,Richardson,1928-01-01,United Kingdom,1991-01-01
+1195,Marty,,Pasetta,1932-01-01,United States,2015-01-01
+1189,Carol,,Reed,1906-01-01,United Kingdom,1976-01-01
+1185,Blowup,,,,,
+1196,Howard,W.,Koch,1916-01-01,United States,2001-01-01
+1186,A,Man and a,Woman,,,
+1194,Fellini,,Satyricon,,,
+1190,The,Battle of,Algiers,,,
+1183,Dr.,,Strangelove,,,
+1201,A,Woman Under the,Influence,,,
+1193,John,,Schlesinger,1926-01-01,United Kingdom,2003-01-01
+1204,John,G.,Avildsen,1935-01-01,United States,2017-01-01
+1200,Last,Tango in,Paris,,,
+1187,Mike,,Nichols,1931-01-01,Germany,2014-01-01
+1198,Bob,,Fosse,1927-01-01,United States,1987-01-01
+1197,William,,Friedkin,1935-01-01,United States,2023-01-01
+1207,Close,Encounters of the Third,Kind,,,
+1219,Gene,,Allen,,,
+1205,Seven,,Beauties,,,
+1216,Silkwood,,,,,
+1211,The,Stunt,Man,,,
+1210,Robert,,Benton,1932-01-01,United States,
+1209,Interiors,,,,,
+1213,Das,,Boot,,,
+1203,Amarcord,,,,,
+1222,Samuel,Goldwyn,Jr.,1926-01-01,United States,2015-01-01
+1220,Broadway,Danny,Rose,,,
+1199,George,Roy,Hill,1921-01-01,United States,2002-01-01
+1202,Miloš,,Forman,1932-01-01,Czechoslovakia,2018-01-01
+1230,Gil,,Cates,1934-01-01,United States,2011-01-01
+1227,Allan,,Carr,1937-01-01,United States,1999-01-01
+1218,Larry,,Gelbart,1928-01-01,United States,2009-01-01
+1226,Jeff,,Margolis,,,
+1225,My,Life as a,Dog,,,
+1229,A,Fish Called,Wanda,,,
+1221,Sydney,,Pollack,1934-01-01,United States,2008-01-01
+1232,Reversal,of,Fortune,,,
+1214,James,L.,Brooks,1940-01-01,United States,
+1231,Crimes,and,Misdemeanors,,,
+1212,Richard,,Attenborough,1923-01-01,United Kingdom,2014-01-01
+1228,Barry,,Levinson,1942-01-01,United States,
+1235,Boyz,n the,Hood,,,
+1215,Fanny,and,Alexander,,,
+1224,Bernardo,,Bertolucci,1941-01-01,Italy,2018-01-01
+1238,Short,,Cuts,,,
+1240,Bullets,Over,Broadway,,,
+1208,Michael,,Cimino,1939-01-01,United States,2016-01-01
+1247,Louis,J.,Horvitz,,United States,
+1233,Jonathan,,Demme,1944-01-01,United States,2017-01-01
+1234,Thelma,&,Louise,,,
+1242,David,,Salzman,1943-01-01,United States,
+1241,Three,Colours:,Red,,,
+1246,Il,Postino: The,Postman,,,
+1245,Leaving,Las,Vegas,,,
+1239,Robert,,Zemeckis,1952-01-01,United States,
+1253,Lili,Fini,Zanuck,1954-01-01,United States,
+1249,The,People vs. Larry,Flynt,,,
+1259,Peter,,Andrews,,,
+1223,Oliver,,Stone,1946-01-01,United States,
+1258,Stephen,,Mirrione,1969-01-01,United States,
+1248,Anthony,,Minghella,1954-01-01,United Kingdom,2008-01-01
+1217,Gregory,,Peck,1916-01-01,United States,2003-01-01
+1252,Richard,D.,Zanuck,1934-01-01,United States,2012-01-01
+1257,Stephen,,Gaghan,1965-01-01,United States,
+1255,Being,John,Malkovich,,,
+1260,Cliff,,Martinez,1954-01-01,United States,
+1264,Gilbert,,Cates,1934-01-01,United States,2011-01-01
+1262,Laura,,Ziskin,1950-01-01,United States,2011-01-01
+1251,The,Truman,Show,,,
+1243,Quincy,,Jones,1933-01-01,US,2024-01-01
+1244,Mel,,Gibson,1956-01-01,United States,
+1267,Joe,,Roth,1948-01-01,United States,
+1274,Roger,,Goodman,,,
+1261,Billy,,Elliot,,,
+1266,Talk,to,Her,,,
+1206,Woody,,Allen,1935-01-01,US,
+1254,Sam,,Mendes,1965-01-01,United Kingdom,
+1269,Vera,,Drake,,,
+1273,Michael,,Clayton,,,
+1276,Laurence,,Mark,1949-01-01,United States,
+1256,Steven,,Soderbergh,1963-01-01,United States,
+1263,Ron,,Howard,1954-01-01,United States,
+1272,Joel,Coen and Ethan,Coen,,,
+1278,Hamish,,Hamilton,,,
+1279,Bill,,Mechanic,1950-01-01,United States,
+1275,Bill,,Condon,1955-01-01,United States,
+1283,Don,,Mischer,1940-01-01,United States,2025-01-01
+1250,James,,Cameron,1954-01-01,Canada,
+1285,Neil,,Meron,1955-01-01,United States,
+1280,Adam,,Shankman,1964-01-01,United States,
+1236,Clint,,Eastwood,1930-01-01,United States,
+1286,Craig,,Zadan,1949-01-01,United States,2018-01-01
+1291,David,,Hill,,,
+1290,Glenn,,Weiss,,,
+1282,Brian,,Grazer,1951-01-01,United States,
+1294,Jennifer,,Todd,1969-01-01,United States,
+1270,Ang,,Lee,1954-01-01,Taiwan,
+1284,Michel,,Hazanavicius,1967-01-01,France,
+1293,Michael,De,Luca,1965-01-01,United States,
+1298,Stephanie,,Allain,,,
+1299,Lynette,Howell,Taylor,,,
+1277,Danny,,Boyle,1956-01-01,United Kingdom,
+1289,Foxcatcher,,,,,
+1297,Donna,,Gigliotti,,,
+1265,Roman,,Polanski,1933-01-01,France,
+1292,Reginald,,Hudlin,1961-01-01,United States,
+1302,Ricky,,Kirshner,,,
+1300,Will,,Packer,1974-01-01,United States,
+1237,Steven,,Spielberg,1946-01-01,US,
+1268,Peter,,Jackson,1961-01-01,New Zealand,
+1295,Damien,,Chazelle,1985-01-01,United States,
+1307,James,,Gibbon,,United Kingdom,1888-01-01
+1313,George,,Middleton,,,
+1306,Walter,,Morosco,1899-01-01,United States,1948-01-01
+1281,Kathryn,,Bigelow,1951-01-01,United States,
+1305,George,,Arliss,1868-01-01,United Kingdom,1946-01-01
+1311,Hobart,,Henley,,United States,1964-01-01
+1288,Alejandro,G.,Iñárritu,1963-01-01,Mexico,
+1312,Monta,,Bell,1891-01-01,United States,1958-01-01
+1308,James,Van,Trees,1890-01-01,1890,1973-01-01
+1314,Garrett,,Fort,1900-01-01,United States,1945-01-01
+1304,Raj,KapoorKaty,Mullan,,,
+1317,Irving,,Kahal,1903-01-01,United States,1942-01-01
+1320,Ray,,Henderson,1896-01-01,United States,1970-01-01
+1318,Al,,Sherman,1897-01-01,Russia,1973-01-01
+1323,Pierre,,Norman,,,
+1310,Butch,"""Machine Gun""",Schmidt,,,
+1316,Emma,,Hill,1821-01-01,France,1893-01-01
+1287,Alfonso,,Cuarón,1961-01-01,Mexico,
+1303,Daniel,Kwan and Daniel,Scheinert,1988-01-01,United States,
+1322,B.,G.,DeSylva,1895-01-01,United States,1950-01-01
+1321,Al,,Lewis,1923-01-01,United States,2006-01-01
+1309,The,,Raja,,,
+1315,Preston,,Sturges,1898-01-01,United States,1959-01-01
+1326,Stuart,,Heisler,,United States,1979-01-01
+1328,Yegor,,,,,
+1327,Hugo,,Riesenfeld,1879-01-01,Austria,1939-01-01
+1296,Guillermo,del,Toro,1964-01-01,Mexico,
+1301,Jane,,Campion,1954-01-01,New Zealand,
+1271,Martin,,Scorsese,1942-01-01,United States,
+1336,The,,Actor,,,
+1339,James,,Allen,,,
+1342,Nick,,Charles,,,
+1334,Wallace,,Beery,1885-01-01,United States,1949-01-01
+1329,Lionel,,Barrymore,1878-01-01,United States,1954-01-01
+1337,Charles,,Laughton,1899-01-01,United Kingdom,1962-01-01
+1340,Clark,,Gable,1901-01-01,United States,1960-01-01
+1319,Lew,,Brown,1893-01-01,Russia,1958-01-01
+1345,Captain,William,Bligh,1754-01-01,United Kingdom,1817-01-01
+1343,Victor,,McLaglen,1886-01-01,United Kingdom,1959-01-01
+1351,Sam,,Dodsworth,,,
+1349,Paul,,Muni,1895-01-01,United Kingdom,1967-01-01
+1324,Pierre,,Mirande,,,
+1357,Danny,,,,,
+1338,Peter,,Standish,,,
+1333,Walter,,Burns,,,
+1356,Norman,,Maine,,,
+1341,"Alessandro,",Duke of,Florence,,,
+1354,Spencer,,Tracy,1900-01-01,United States,1967-01-01
+1331,Yancey,,Cravat,,,
+1358,Émile,,Zola,1840-01-01,France,1902-01-01
+1344,Lt.,Fletcher,Christian,,,
+1348,Roger,,Byam,1772-01-01,Isle of Man,1831-01-01
+1365,Heathcliff,,,,,
+1359,Pepe,le,Moko,,,
+1330,Skippy,,Skinner,,,
+1367,Jefferson,,Smith,,,
+1360,Rocky,,Sullivan,,,
+1364,Rhett,,Butler,,,
+1346,Joe,,Radek,,,
+1363,Robert,,Donat,1905-01-01,United Kingdom,1958-01-01
+1352,Godfrey,,Park,,,
+1350,Longfellow,,Deeds,,,
+1325,Capt.,"Hugh ""Bulldog""",Drummond,,,
+1332,Tony,,Cavendish,,,
+1366,Mickey,,Moran,,Ireland,
+1376,Charles,Foster,Kane,,,
+1335,Dr.,Henry Jekyll / Mr. Edward,Hyde,,,
+1373,Roger,,Adams,1889-01-01,United States,1971-01-01
+1374,Mr.,,Scratch,,,
+1355,Emperor,Napoleon,Bonaparte,,,
+1347,Midshipman,,,,,
+1381,Howard,,,,,
+1377,James,,Cagney,1899-01-01,United States,1986-01-01
+1353,Father,Tim,Mullin,,,
+1361,Dr.,Andrew,Manson,,,
+1362,Professor,Henry,Higgins,,,
+1379,Lou,,Gehrig,,,
+1382,Paul,,Lukas,1894-01-01,Austria,1971-01-01
+1369,Tom,,Joad,,,
+1384,Robert,,Jordan,1948-01-01,United States,2007-01-01
+1385,Pierre,,Curie,1859-01-01,France,1906-01-01
+1375,Joe,,Pendleton,,,
+1394,Joseph,,Brady,,,
+1395,Father,,Francis,,,
+1378,Charles,,Rainier,,,
+1380,Clem,,Miniver,,,
+1389,Father,,Fitzgibbon,,,
+1383,Rick,,Blaine,,,
+1400,George,,Bailey,,,
+1386,Homer,,Macauley,,,
+1392,Ray,,Milland,1907-01-01,United Kingdom,1986-01-01
+1368,Adenoid,Hynkel & The,Barber,,,
+1402,Charlie,,Davis,,,
+1387,Bing,,Crosby,1903-01-01,United States,1977-01-01
+1401,Ronald,,Colman,1891-01-01,United Kingdom,1958-01-01
+1409,Lynn,Aloysius,Belvedere,,,
+1393,Father,Chuck,O'Malley,,,
+1388,Gregory,,Anton,,,
+1372,Gary,,Cooper,1901-01-01,United States,1961-01-01
+1370,Abraham,,Lincoln,1809-01-01,United States,1865-01-01
+1397,King,Henry V of,England,,United Kingdom,1422-01-01
+1415,Michael,,Gordon,,,
+1403,Philip,Schuyler,Green,,,
+1410,Broderick,,Crawford,1911-01-01,United States,1986-01-01
+1371,Maximilian,"""Maxim"" de",Winter,,,
+1404,Clarence,Day,Sr.,,,
+1399,Ezra,"""Penny""",Baxter,,,
+1396,Frédéric,,Chopin,1810-01-01,Duchy of Warsaw,1849-01-01
+1416,Brian,,Hooker,,,
+1398,Al,,Jolson,,Russia,1950-01-01
+1391,Woodrow,,Wilson,1856-01-01,United States,1924-01-01
+1408,"""Skid""",,Johnson,,,
+1405,Orin,,Mannon,,,
+1419,Joe,,Gillis,1896-01-01,United States,1967-01-01
+1406,Dr.,Robert,Richardson,,,
+1407,Ralph,"""Steve""",Stevenson,,,
+1420,Elwood,P.,Dowd,,,
+1390,Ernie,,Mott,,,
+1423,Stanley,,Kowalski,,,
+1417,José,,Ferrer,1912-01-01,Puerto Rico,1992-01-01
+1422,Humphrey,,Bogart,1899-01-01,United States,1957-01-01
+1426,Willy,,Loman,,,
+1431,Henry,,Holland,,,
+1414,Sergeant,John M.,Stryker,,,
+1427,Emiliano,,Zapata,1879-01-01,Mexico,1919-01-01
+1418,Oliver,Wendell Holmes,Jr.,1841-01-01,United States,1935-01-01
+1432,William,,Holden,1918-01-01,United States,1981-01-01
+1424,George,,Eastman,1854-01-01,United States,1932-01-01
+1433,Mark,,Antony,,Italy,
+1429,Henri,de,Toulouse-Lautrec,1864-01-01,France,1901-01-01
+1421,Stanley,T.,Banks,,,
+1413,Cpl.,"Lachlan ""Lachie""",MacLachlan,,,
+1437,Marlon,,Brando,1924-01-01,United States,2004-01-01
+1444,Frankie,,Machine,,,
+1440,Robinson,,Crusoe,,,
+1442,Martin,,Snyder,,,
+1441,Ernest,,Borgnine,1917-01-01,United States,2012-01-01
+1443,Cal,,Trask,,,
+1412,Brig.,General Frank,Savage,,,
+1446,Yul,,Brynner,1920-01-01,Far Eastern Republic,1985-01-01
+1434,Marcellus,,Gallio,,,
+1436,1st,Sgt. Milton,Warden,,,
+1435,Pvt.,"Robert E. Lee ""Prew""",Prewitt,,,
+1456,Gino,,,,,
+1425,Larry,,Nevins,,,
+1411,Michael,"""Midge""",Kelly,,,
+1448,Vincent,van,Gogh,1853-01-01,Netherlands,1890-01-01
+1458,Brick,,Pollitt,,,
+1439,Frank,,Elgin,,,
+1453,USAF,,,,,
+1460,The,Old,Man,,,
+1451,Alec,,Guinness,1914-01-01,United Kingdom,2000-01-01
+1447,Jett,,Rink,,,
+1445,John,J.,Macreedy,,,
+1465,Bernard,,Smith,,,
+1450,King,Richard,III,,United Kingdom,1485-01-01
+1430,Comte,Alphonse de,Toulouse-Lautrec,,,
+1449,Jordan,"""Bick"" Benedict",Jr.,,,
+1466,Burt,,Lancaster,1913-01-01,United States,1994-01-01
+1452,Major,"Lloyd ""Ace""",Gruver,,,
+1472,Cesar,,,,,
+1438,Lt.,Cmdr. Philip Francis,Queeg,,,
+1428,Jonathan,,Shields,,,
+1471,Maximilian,,Schell,1930-01-01,Austria,2014-01-01
+1457,John,"""Joker""",Jackson,,,
+1459,Noah,,Cullen,,,
+1475,Jim,,Fuller,,,
+1476,Robert,,Stroud,1890-01-01,US,1963-01-01
+1477,Joe,,Clay,1938-01-01,United States,2016-01-01
+1481,Tom,,Jones,,,
+1464,Paul,,Biegler,,,
+1461,Joe,,Lampton,,,
+1454,Polo,,Pope,,,
+1462,Jerry,/,Daphne,,,
+1463,Dr.,Sam,Abelman,,,
+1480,Sidney,,Poitier,1927-01-01,Bahamas,2022-01-01
+1467,Walter,,Morel,,,
+1470,Henry,,Drummond,,,
+1455,Sir,Wilfrid,Robarts,,,
+1488,Alexis,,Zorba,,,
+1474,Chief,Judge Dan,Haywood,,,
+1493,Alec,,Leamas,,,
+1486,Thomas,,Becket,,United Kingdom,1170-01-01
+1478,Ferdinando,,Cefalù,,,
+1469,Archie,,Rice,1929-01-01,United Kingdom,1994-01-01
+1468,C.,"C. ""Bud""",Baxter,,,
+1484,Hud,,Bannon,,,
+1482,Frank,,Machin,,,
+1489,Group,Captain Lionel,Mandrake,,,
+1485,Rex,,Harrison,1908-01-01,United Kingdom,1990-01-01
+1492,Lee,,Marvin,1924-01-01,United States,1987-01-01
+1487,King,Henry,II,,,
+1499,George,,,,,
+1496,Willie,,Schumann,,,
+1498,Lt.,,Rozanov,,,
+1495,Sol,,Nazerman,,,
+1473,"""Fast""",Eddie,Felson,,,
+1508,John,,Singer,,,
+1491,and,Dr.,Strangelove,,,
+1506,Matt,,Drayton,,,
+1505,Lucas,"""Luke""",Jackson,,,
+1501,Jake,,Holman,,,
+1509,Yakov,,Bok,,,
+1497,Paul,,Scofield,1922-01-01,United Kingdom,2008-01-01
+1490,President,Merkin,Muffley,,,
+1494,Othello,,,,,
+1479,Thomas,Edward,Lawrence,1888-01-01,United Kingdom,1935-01-01
+1510,Fagin,,,,,
+1507,Cliff,,Robertson,1923-01-01,United States,2011-01-01
+1514,Arthur,,Chipping,,,
+1504,Benjamin,,Braddock,,,
+1500,Alfie,,Elkins,,,
+1513,Enrico,"Salvatore ""Ratso""",Rizzo,,,
+1502,Rod,,Steiger,1925-01-01,United States,2002-01-01
+1483,Julius,,Caesar,,Rome,
+1503,Clyde,,Barrow,1909-01-01,United States,1934-01-01
+1525,Tevye,,,,,
+1530,Paul,,,,,
+1528,Jack,,Gurney,,,
+1522,Dr.,Daniel,Hirsh,,,
+1511,John,,Wayne,1907-01-01,United States,1979-01-01
+1519,Robert,Eroica,Dupea,,,
+1517,Tom,,Garrison,,,
+1520,Oliver,Barrett,IV,,,
+1523,Joseph,P.,Kotcher,,,
+1518,Jack,,Jefferson,,,
+1532,Frank,,Serpico,1936-01-01,United States,
+1515,Joe,,Buck,1969-01-01,United States,
+1516,George,C.,Scott,1927-01-01,United States,1999-01-01
+1524,Dr.,Herbert,Bock,,,
+1527,Andrew,,Wyke,,,
+1512,King,Henry,VIII,,United Kingdom,1547-01-01
+1542,Arthur,,Goldman,,,
+1529,Nathan,Lee,Morgan,,,
+1526,Milo,,Tindle,,,
+1531,Signalman,"1st Class Billy L. ""Badass""",Buddusky,,,
+1538,Michael,,Corleone,,,
+1533,Johnny,"""Kelly""",Hooker,,,
+1541,Sonny,,Wortzik,1945-01-01,United States,2006-01-01
+1534,Art,,Carney,1918-01-01,United States,2003-01-01
+1536,Lenny,,Bruce,1925-01-01,United States,1966-01-01
+1553,Tony,,Manero,,,
+1537,J.,"J. ""Jake""",Gittes,,,
+1545,Travis,,Bickle,,,
+1552,Gabriele,,,,,
+1540,Willy,,Clark,,,
+1521,Gene,,Hackman,1930-01-01,United States,2025-01-01
+1535,Hercule,,Poirot,,,
+1548,Rocky,,Balboa,,,
+1561,Arthur,,Kirkland,,,
+1544,Peter,,Finch,1916-01-01,United Kingdom,1977-01-01
+1549,Richard,,Dreyfuss,1947-01-01,United States,
+1547,Max,,Schumacher,,,
+1546,Pasqualino,,Frafuso,,,
+1551,Martin,,Dysart,,,
+1555,Joe,Pendleton / Leo Farnsworth / Tom,Jarrett,,,
+1565,Robert,,Chartoff,1933-01-01,United States,2015-01-01
+1550,Alvy,,Singer,,,
+1569,Michael,,Chapman,,,
+1554,Jon,,Voight,1938-01-01,United States,
+1557,Michael,,Vronsky,,,
+1560,Jack,,Godell,,,
+1558,Ezra,,Lieberman,,,
+1567,Mardik,,Martin,,,
+1564,Irwin,,Winkler,1931-01-01,United States,
+1556,Buddy,,Holly,1936-01-01,United States,1959-01-01
+1539,Jack,,Nicholson,1937-01-01,United States,
+1574,Eli,,Cross,,,
+1563,Chance,the gardener / Chauncey,Gardiner,,,
+1562,Joe,,Gideon,,,
+1578,Michael,,Gallagher,,,
+1581,Edmund,,Horman,,,
+1571,Lt.,"Col. Wilbur ""Bull""",Meechum,,,
+1566,Paul,,Schrader,1946-01-01,United States,
+1568,Thelma,,Schoonmaker,1940-01-01,Algeria,
+1577,Arthur,,Bach,,,
+1587,Norman,,,,,
+1572,John,,Merrick,,,
+1575,John,"""Jack""",Reed,,,
+1576,Lou,,Pascal,,,
+1583,Alan,,Swann,,,
+1582,Frank,,Galvin,,,
+1559,Dustin,,Hoffman,1937-01-01,United States,
+1543,Harry,S.,Truman,1884-01-01,United States,1972-01-01
+1580,Michael,Dorsey / Dorothy,Michaels,,,
+1585,Dr.,Frank,Bryant,,,
+1586,Gowan,,McGland,,,
+1573,Scottie,,Templeton,,,
+1592,Sydney,,Schanberg,1934-01-01,United States,2016-01-01
+1589,Scott,“Starman”,Hayden,,,
+1598,Dale,,Turner,,,
+1600,Richard,,Boyle,,,
+1588,F.,Murray,Abraham,1939-01-01,United States,
+1594,John,,Book,,,
+1584,Robert,,Duvall,1931-01-01,United States,
+1596,Charley,,Partanna,,,
+1595,Murphy,,Jones,,,
+1604,Francis,,Phelan,,,
+1606,Rupert,,Anderson,,,1944-01-01
+1579,Ben,,Kingsley,1943-01-01,United Kingdom,
+1605,Adrian,,Cronauer,1938-01-01,United States,2018-01-01
+1590,Geoffrey,,Firmin,,,
+1614,John,,Keating,,,
+1599,James,,Leeds,,,
+1602,Tom,,Grunick,,,
+1607,Josh,,Baskin,,,
+1608,Jaime,,Escalante,1930-01-01,Bolivia,2010-01-01
+1591,Wolfgang,Amadeus,Mozart,1756-01-01,Salzburg,1791-01-01
+1593,William,,Hurt,1950-01-01,United States,2022-01-01
+1612,Ron,,Kovic,1946-01-01,United States,
+1615,Barbet,,Schroeder,1941-01-01,Iran,
+1603,Romano,,Patroni,,,
+1617,Nicholas,,Kazan,1945-01-01,United States,
+1616,Shochiku,,,,,
+1609,Lassefar,"""Lasse""",Karlsson,,,
+1619,Luciano,,Tovoli,1936-01-01,Italy,
+1618,Lee,,Percy,1963-01-01,United States,
+1628,Max,,Cady,,,
+1613,Hoke,,Colburn,,,
+1620,Mark,,Isham,1951-01-01,United States,
+1629,Tom,,Wingo,,,
+1570,Robert,De,Niro,1943-01-01,United States,
+1623,Leonard,,Lowe,,,
+1633,Fergus,,,,,
+1601,Michael,,Douglas,1944-01-01,United States,
+1597,Paul,,Newman,1925-01-01,United States,2008-01-01
+1622,Lt.,John J.,Dunbar,,,
+1638,James,,Stevens,,,
+1625,"""Bull""",,McCabe,,,
+1624,Cyrano,de,Bergerac,1619-01-01,France,1655-01-01
+1611,King,Henry,V,,United Kingdom,1422-01-01
+1610,Daniel,,Day-Lewis,1957-01-01,United Kingdom,
+1645,Glenn,,Holland,,,
+1627,Benjamin,"""Bugsy""",Siegel,1906-01-01,United States,1947-01-01
+1632,Will,,Munny,,,
+1621,Jeremy,,Irons,1948-01-01,United Kingdom,
+1634,Malcolm,Little / Malcolm,X,,,
+1639,Oskar,,Schindler,1908-01-01,Austria,1974-01-01
+1647,Matthew,,Poncelet,,,
+1642,Donald,"""Sully""",Sullivan,,,
+1636,Gerard,"""Gerry""",Conlon,,,
+1630,Henry,"""Parry""",Sagan,,,
+1626,Anthony,,Hopkins,1937-01-01,United Kingdom,
+1652,Karl,,Childers,,,
+1631,Al,,Pacino,1940-01-01,United States,
+1641,King,George,III,1738-01-01,United Kingdom,1820-01-01
+1640,Ellis,"Boyd ""Red""",Redding,,,
+1648,Mario,,Ruoppolo,,,
+1651,Larry,,Flynt,1942-01-01,United States,2021-01-01
+1650,Count,László de,Almásy,,,
+1653,Will,,Hunting,,,
+1654,Euliss,"""Sonny"" Dewey / The Apostle E.",F.,,,
+1663,Jeffrey,,Wigand,1942-01-01,United States,
+1655,Ulysses,"""Ulee""",Jackson,,,
+1664,Alvin,,Straight,1920-01-01,US,1996-01-01
+1635,Tom,,Hanks,1956-01-01,United States,
+1656,Stanley,,Motss,,,
+1658,Captain,John H.,Miller,,,
+1644,Nicolas,,Cage,1964-01-01,United States,
+1660,Wade,,Whitehouse,,,
+1665,Emmet,,Ray,,,
+1649,Geoffrey,,Rush,1951-01-01,Australia,
+1659,James,,Whale,1889-01-01,United Kingdom,1957-01-01
+1657,Roberto,,Benigni,1952-01-01,Italy,
+1637,Ike,,Turner,1931-01-01,United States,2007-01-01
+1661,Derek,,Vinyard,,,
+1666,Rubin,"""The Hurricane""",Carter,,,
+1668,Reinaldo,,Arenas,1943-01-01,Cuba[2],1990-01-01
+1679,Thomas,,Fowler,,,
+1669,Chuck,,Noland,,,
+1685,Bob,,Harris,,,
+1674,Sam,,Dawson,,,
+1684,W.,P.,Inman,,,
+1675,Cassius,Clay / Muhammad,Ali,,,
+1643,Vincent,,Vega,,,
+1676,Dr.,Matt,Fowler,,,
+1678,Charlie,Kaufman & Donald,Kaufman,,,
+1680,Warren,R.,Schmidt,,,
+1670,Jackson,,Pollock,1912-01-01,United States,1956-01-01
+1683,Col.,Massoud Amir,Behrani,,,
+1662,Kevin,,Spacey,1959-01-01,United States,
+1691,DJay,,,,,
+1692,Ennis,Del,Mar,,,
+1667,Russell,,Crowe,1964-01-01,New Zealand,
+1697,Dan,,Dunne,1908-01-01,Ireland,1984-01-01
+1689,Frankie,,Dunn,,,
+1646,Richard,,Nixon,1913-01-01,United States,1994-01-01
+1677,Adrien,,Brody,1973-01-01,United States,
+1682,Captain,Jack,Sparrow,,,
+1699,Chris,,Gardner,1954-01-01,United States,
+1687,Paul,,Rusesabagina,1954-01-01,Ruanda-Urundi,
+1671,Marquis,de,Sade,1740-01-01,France,1814-01-01
+1688,Sir,James Matthew,Barrie,1860-01-01,United Kingdom,1937-01-01
+1673,John,Forbes Nash,Jr.,1928-01-01,United States,2015-01-01
+1672,Denzel,,Washington,1954-01-01,United States,
+1694,Edward,R.,Murrow,1908-01-01,United States,1965-01-01
+1704,Benjamin,,Button,,,
+1698,Maurice,,Russell,,,
+1696,Danny,,Archer,,,
+1686,Jamie,,Foxx,1967-01-01,United States,
+1703,Walter,,Vale,,,
+1681,Sean,,Penn,1960-01-01,United States,
+1695,Forest,,Whitaker,1961-01-01,United States,
+1708,George,,Falconer,,,
+1715,Aron,,Ralston,1975-01-01,United States,
+1690,Philip,Seymour,Hoffman,1967-01-01,United States,2014-01-01
+1707,Ryan,,Bingham,1981-01-01,United States,
+1705,Randy,"""The Ram""",Robinson,,,
+1702,Nikolai,,Luzhin,,,
+1701,Hank,,Deerfield,,,
+1718,Matt,,King,,,
+1717,Carlos,,Galindo,,,
+1693,Johnny,,Cash,1932-01-01,United States,2003-01-01
+1716,Jean,,Dujardin,1972-01-01,France,
+1700,Sweeney,Todd / Benjamin,Barker,,,
+1710,SFC,William,James,,,
+1713,Reuben,"""Rooster""",Cogburn,,,
+1712,Uxbal,,,,,
+1722,Jean,,Valjean,1769-01-01,,1833-01-01
+1720,Billy,,Beane,,,
+1706,Jeff,,Bridges,1949-01-01,United States,
+1727,Woodrow,"""Woody""",Grant,,,
+1723,Freddie,,Quell,,,
+1724,William,"""Whip""",Whitaker,,,
+1721,Patrizio,"""Pat"" Solitano",Jr.,,,
+1719,George,,Smiley,,,
+1726,Irving,,Rosenfeld,,,
+1731,John,du,Pont,1938-01-01,United States,2010-01-01
+1728,Jordan,,Belfort,1962-01-01,United States,
+1732,Chris,,Kyle,1974-01-01,United States,2013-01-01
+1736,Mark,,Watney,,,
+1738,Lili,,Elbe,1882-01-01,Denmark,1931-01-01
+1714,Mark,,Zuckerberg,1984-01-01,United States,
+1740,Desmond,,Doss,1919-01-01,United States,2006-01-01
+1725,Matthew,,McConaughey,1969-01-01,United States,
+1745,Elio,,Perlman,,,
+1741,Sebastian,,Wilder,,,
+1711,Colin,,Firth,1960-01-01,United Kingdom,
+1747,Chris,,Washington,,,
+1729,Solomon,,Northup,1807-01-01,United States,1863-01-01
+1742,Ben,,Cash,,,
+1730,Eddie,,Redmayne,1982-01-01,United Kingdom,
+1709,Nelson,,Mandela,1918-01-01,South Africa,2013-01-01
+1734,Riggan,,Thomson,,,
+1733,Alan,,Turing,1912-01-01,United Kingdom,1954-01-01
+1746,Reynolds,,Woodcock,,,
+1739,Casey,,Affleck,1975-01-01,United States,
+1748,Roman,J.,Israel,,,
+1743,Troy,,Maxson,,,
+1737,Steve,,Jobs,1955-01-01,United States,2011-01-01
+1744,Gary,,Oldman,1958-01-01,United Kingdom,
+1758,Florian,,Zeller,1979-01-01,France,
+1756,Charlie,,Barber,,,
+1752,Anthony,"""Tony Lip""",Vallelonga,,,
+1754,Salvador,,Mallo,,,
+1764,Yorgos,,Lamprinos,,,
+1761,Canal+,,,,,
+1749,Rami,,Malek,1981-01-01,United States,
+1759,Film4,,,,,
+1765,Ben,,Smithard,,,
+1762,Ciné+,,,,,
+1735,Leonardo,,DiCaprio,1974-01-01,United States,
+1766,Ruben,,Stone,,,
+1751,Jackson,,Maine,,,
+1763,Christopher,,Hampton,1946-01-01,Portugal,
+1768,Jacob,,Yi,,,
+1778,Rodney,,Williams,1947-01-01,Antigua and Barbuda,
+1760,Orange,,Studio,,,
+1767,Levee,,Green,,,
+1772,Jonathan,,Larson,1960-01-01,United States,1996-01-01
+1773,Lord,,Macbeth,,,
+1776,Pádraic,,Súilleabháin,,,
+1771,Phil,,Burbank,,,
+1777,Calum,,Patterson,,,
+1750,Dick,,Cheney,1941-01-01,United States,
+1774,Brendan,,Fraser,1968-01-01,United States,
+1785,Cardinal,Thomas,Lawrence,,,
+1784,John,"""Divine G""",Whitfield,,,
+1781,Paul,,Hunham,,,
+1788,Hallie,,Hobart,,,
+1782,Thelonious,"""Monk""",Ellison,,,
+1790,Anna,,Christie,,,
+1789,Sarah,,Storm,,,
+1753,Joaquin,,Phoenix,1974-01-01,Puerto Rico,
+1791,Lucia,,Marlett,,,
+1787,Norma,,Shearer,1902-01-01,Canada,1983-01-01
+1779,Cillian,,Murphy,1976-01-01,Ireland,
+1770,Desi,,Arnaz,1917-01-01,Cuba,1986-01-01
+1799,The,,Actress,,,
+1795,Sabra,,Cravat,,,
+1794,Mademoiselle,Amy,Jolly,,,
+1804,Mary,,Barrett,,,
+1755,Rick,,Dalton,,,
+1780,Bayard,,Rustin,1912-01-01,United States,1987-01-01
+1801,Apple,,Annie,,,
+1792,Marion,,Donnell,,,
+1796,Linda,,Seton,,,
+1798,Emma,Thatcher,Smith,,,
+1803,Mildred,,Rogers,,,
+1809,Alice,,Adams,,,
+1797,Jan,,Ashe,,,
+1793,Marie,,Dressler,1868-01-01,Canada,1934-01-01
+1769,Will,,Smith,1968-01-01,United States,
+1807,Gemma,,Jones,1942-01-01,United Kingdom,
+1802,Jane,,Marryot,,,
+1814,Carrie,,Snyder,,,
+1808,Jane,,Everest,,,
+1805,Elizabeth,,Barrett,1806-01-01,United Kingdom,1861-01-01
+1813,Theodora,Lynn / Caroline,Adams,,,
+1811,Kitty,,Vane,,,
+1815,Irene,,Bullock,,,
+1822,Eliza,,Doolittle,,,
+1819,Esther,Victoria Blodgett / Vicki,Lester,,,
+1817,Lucy,,Warriner,,,
+1818,Marguerite,,Gautier,1892-01-01,Switzerland,1984-01-01
+1816,Juliet,,Capulet,,,
+1810,Becky,,Sharp,,,
+1775,Elvis,,Presley,1935-01-01,United States,1977-01-01
+1812,Luise,,Rainer,1910-01-01,Germany,2014-01-01
+1821,Hannah,,Parmalee,,,
+1757,Cardinal,Jorge Mario,Bergoglio,1936-01-01,Argentina,2025-01-01
+1820,Stella,Martin,Dallas,,,
+1833,Tracy,,Lord,,,
+1834,Emily,,Webb,,,
+1824,Patricia,"""Pat""",Hollmann,,,
+1827,Terry,,McKay,,,
+1828,Nina,"Yakushova ""Ninotchka""",Ivanoff,,,
+1829,Katherine,,Bridges,,,
+1832,The,Second Mrs. de,Winter,,,
+1831,Leslie,,Crosbie,,,
+1826,Judith,,Traherne,,,
+1838,Edna,,Gladney,1886-01-01,US,1961-01-01
+1837,Emmy,,Brown,,,
+1836,Regina,,Giddens,,,
+1839,Katherine,"""Sugarpuss""",O'Shea,,,
+1800,Katharine,,Hepburn,1907-01-01,United States,2003-01-01
+1806,Bette,,Davis,1908-01-01,United States,1989-01-01
+1841,Charlotte,,Vale,,,
+1843,Ruth,,Sherwood,,,
+1844,Eleanor,Twitchell,Gehrig,,,
+1830,Ginger,,Rogers,1911-01-01,United States,1995-01-01
+1847,María,,,,,
+1846,Constance,"""Connie""",Milligan,,,
+1854,Phyllis,,Dietrichson,,,
+1848,Tessa,,Sanger,,,
+1825,Vivien,,Leigh,1913-01-01,India,1967-01-01
+1840,Greer,,Garson,1904-01-01,United Kingdom,1996-01-01
+1842,Tess,,Harding,,,
+1845,Jennifer,,Jones,1919-01-01,United States,2009-01-01
+1835,Joan,,Fontaine,1917-01-01,Japan,2013-01-01
+1852,Fanny,,Trellis,,,
+1823,Marie,,Antoinette,1755-01-01,Holy Roman Empire,1793-01-01
+1853,Susie,"""Sparrow""",Parkington,,,
+1783,Bob,,Dylan,1941-01-01,United States,
+1851,Anne,,Hilton,,,
+1863,Elizabeth,,Kenny,1880-01-01,United Kingdom,1952-01-01
+1786,Donald,,Trump,1946-01-01,United States,
+1855,Joan,,Crawford,,United States,1977-01-01
+1858,Singleton,/ Victoria,Morland,,,
+1849,Marie,,Curie,1867-01-01,Russia,1934-01-01
+1859,Ellen,Berent,Harland,,,
+1857,Mary,,Rafferty,,,
+1865,Loretta,,Young,1913-01-01,United States,2000-01-01
+1869,Lavinia,,Mannon,,,
+1856,Mary,,Benedict,,,
+1850,Ingrid,,Bergman,1915-01-01,Sweden,1982-01-01
+1860,Olivia,de,Havilland,1916-01-01,Japan,2020-01-01
+1873,Martha,,Hanson,,,
+1866,Louise,,Howell,,,
+1861,Laura,,Jesson,,,
+1862,Pearl,,Chavez,,,
+1868,Kathy,,Lacy,,,
+1867,Angelica,Evans,Conway,,,
+1885,Mary,,McLeod,,,
+1864,Orry,,Baxter,,,
+1884,Rose,,Sayer,,,
+1878,Margaret,,,,,
+1880,Eve,,Harrington,,,
+1886,Alice,,Tripp,1918-01-01,U.S,2014-01-01
+1877,Evelyn,,Boult,,,
+1875,Patricia,"""Pinky""",Johnson,,,
+1876,Eloise,,Winters,,,
+1871,Joan,of,Arc,,France,1431-01-01
+1872,Virginia,Stuart,Cunningham,,,
+1879,Judy,,Holliday,1921-01-01,United States,1965-01-01
+1881,Margo,,Channing,,,
+1874,Leona,,Stevenson,,,
+1870,Jane,,Wyman,1917-01-01,United States,2007-01-01
+1882,Marie,,Allen,,,
+1887,Louise,,Mason,,,
+1883,Norma,,Desmond,,,
+1901,Helen,,Phillips,,,
+1892,Jane,,Froman,1907-01-01,United States,1980-01-01
+1899,Carmen,,Jones,,,
+1888,Shirley,,Booth,1898-01-01,United States,1992-01-01
+1903,Lillian,,Roth,1910-01-01,United States,1980-01-01
+1902,Anna,,Magnani,1908-01-01,Italy,1973-01-01
+1906,Marjorie,,Lawrence,,,
+1905,Han,,Suyin,,China,2012-01-01
+1912,Angela,,,,,
+1889,Myra,,Hudson,,,
+1909,Christine,,Penmark,,,
+1890,Margaret,,Elliot,,,
+1898,Grace,,Kelly,1929-01-01,United States,1982-01-01
+1910,Anna,,Leonowens,1831-01-01,India,1915-01-01
+1913,Gioia,,,,,
+1893,Audrey,,Hepburn,1929-01-01,Belgium,1993-01-01
+1911,Joanne,,Woodward,1930-01-01,United States,
+1894,Lili,,Daurier,,,
+1915,Constance,,MacKenzie,,,
+1891,Frances,"""Frankie""",Addams,,,
+1895,Eloise,"""Honey Bear""",Kelly,,,
+1896,Karen,,Holmes,,,
+1897,Patty,,O'Neill,,,
+1919,Mame,,Dennis,,,
+1900,Sabrina,,Fairchild,,,
+1916,Susan,,Hayward,1917-01-01,United States,1975-01-01
+1921,Simone,,Signoret,1921-01-01,Germany,1985-01-01
+1926,Charles,,Schnee,,,
+1908,Lizzie,,Curry,,,
+1931,Ilya,,,,,
+1904,Jane,,Hudson,,,
+1907,Baby,Doll,Meighan,,,
+1927,Elizabeth,,Taylor,1932-01-01,United Kingdom,2011-01-01
+1928,Eleanor,,Roosevelt,1884-01-01,United States,1962-01-01
+1932,Sophia,,Loren,1934-01-01,Italy,
+1938,Baby,Jane,Hudson,,,
+1914,Susanna,,Drake,,,
+1937,Anne,,Bancroft,1931-01-01,United States,2005-01-01
+1917,Sibyl,,Railton-Bell,,,
+1923,Gabrielle,van der,Mal,,,
+1920,Margaret,"""Maggie the Cat""",Pollitt,,,
+1924,Violet,,Venable,,,
+1922,Jan,,Morrow,,,
+1918,Ginnie,,Moorehead,,,
+1939,Mary,Cavan,Tyrone,,,
+1925,Catherine,,Holly,,,
+1929,Ida,,Carmody,,,
+1949,Filumena,,Marturano,,,
+1944,Irma,La,Douce,,,
+1930,Fran,,Kubelik,,,
+1942,Patricia,,Neal,1926-01-01,United States,2010-01-01
+1950,Molly,,Brown,1867-01-01,United States,1932-01-01
+1933,Holly,Golightly / Lula Mae,Barnes,,,
+1935,Alma,,Winemiller,,,
+1947,Julie,,Andrews,1935-01-01,United Kingdom,
+1953,Maria,von,Trapp,1905-01-01,Austria,1987-01-01
+1952,Julie,,Christie,1940-01-01,France,
+1934,Sarah,,Packard,,,
+1956,La,,Condesa,,,
+1936,Wilma,"Dean ""Deanie""",Loomis,,,
+1961,Mrs.,,Robinson,,,
+1963,Maggie,,Ross,,,
+1965,Fanny,,Brice,1891-01-01,United States,1951-01-01
+1941,Kirsten,Arnesen,Clay,,,
+1962,Bonnie,,Parker,1909-01-01,United States,1934-01-01
+1946,Angie,,Rossini,,,
+1951,Myra,,Savage,,,
+1967,Isadora,,Duncan,1877-01-01,United States,1927-01-01
+1968,Rachel,,Cameron,1924-01-01,Australia,2011-01-01
+1943,Jane,,Fossett,,,
+1948,Jo,,Armitage,,,
+1954,Miranda,,Grey,,,
+1940,Alexandra,Del,Lago,,,
+1969,Maggie,,Smith,1934-01-01,United Kingdom,2024-01-01
+1955,Selina,,D'Arcy,,,
+1958,Rozalie,,Lautmann,,,
+1957,Anne,,Gauthier,,,
+1970,Anne,,Boleyn,1501-01-01,United Kingdom,1536-01-01
+1960,Leonie,,Delt,,,
+1973,Mary,,Wilson,,,
+1979,Michael,,Garrett,,,
+1974,Ken,,Russell,1927-01-01,United Kingdom,2011-01-01
+1959,Georgina,"""Georgy""",Parkin,,,
+1975,Larry,,Kramer,1935-01-01,United States,2020-01-01
+1977,Billy,,Williams,,,
+1978,Georges,,Delerue,1925-01-01,France,1992-01-01
+1966,Nettie,,Cleary,,,
+1983,Rosy,,Ryan,,,
+1945,Margaret,,Hammond,,,
+1964,Susy,,Hendrix,,,
+1980,Glenda,,Jackson,1936-01-01,United Kingdom,2023-01-01
+1991,Rebecca,,Morgan,1938-01-01,United States,
+1972,Mary,"Ann ""Pookie""",Adams,,,
+1992,Kristina,,Nilsson,1843-01-01,Sweden,1921-01-01
+1987,"Mary,",Queen of,Scots,,United Kingdom,1587-01-01
+1988,Empress,Alexandra of,Russia,,Germany,1918-01-01
+1994,Maggie,,Paul,,,
+1989,Billie,,Holiday,1915-01-01,United States,1959-01-01
+2001,Louise,,Fletcher,1934-01-01,United States,2022-01-01
+1993,Chris,,MacNeil,,,
+1984,Bettina,"""Tina""",Balser,,,
+1982,Jennifer,,Cavalleri-Barrett,,,
+1981,Eleanor,,Backman,,,
+1971,Gloria,,Beatty,,,
+1990,Augusta,,Bertram,,,
+1985,Constance,,Miller,,,
+2003,Nora,,Walker,,,
+1986,Alex,,Greville,,,
+2004,Hedda,,Gabler,,,
+2007,Marthe,,,,,
+1976,Michael,,Bradsell,,,
+2008,Adrian,,Pennino,,,
+2009,Carrie,,White,,,
+1997,Claudine,,Price,,,
+2006,Faye,,Dunaway,1941-01-01,United States,
+1996,Rita,,Walden,,,
+2011,Diane,,Keaton,1946-01-01,United States,
+1998,Evelyn,Cross,Mulwray,,,
+2000,Mabel,,Longhetti,,,
+1999,Harriett,Jolliff / Honey,Bruce,,,
+2002,Adèle,Hugo / Adèle,Lewly,,,
+2012,Emma,,Jacklin,,,
+1995,Katie,,Morosky,,,
+2005,Gitl,,,,,
+2010,Jenny,,Isaksson,,,
