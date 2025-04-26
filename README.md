@@ -10,7 +10,7 @@ The scraper collects detailed information on:
 - Award categories, editions, and venues
 - Production companies, release dates, and other movie details
 
-The data is organized into CSV files, making it easy to import into a MySQL database.
+The data is organized into CSV files and can be imported into a MySQL database.
 
 ## Features
 
@@ -21,37 +21,77 @@ The data is organized into CSV files, making it easy to import into a MySQL data
 - Follows Wikipedia links to gather additional information
 - Respects website crawling etiquette with appropriate delays
 - Creates normalized, relational data following the provided schema
+- Includes data cleaning and processing scripts
+- Provides database import functionality
 
 ## Requirements
 
 - Python 3.8+
-- Required packages:
-  - requests
-  - beautifulsoup4
-  - pandas
-  - tqdm
+- MySQL/MariaDB database
+- Required Python packages (see requirements.txt):
+  - requests>=2.26.0
+  - beautifulsoup4>=4.10.0
+  - pandas>=1.3.0
+  - tqdm>=4.62.0
+  - mysql-connector-python (for database operations)
 
 ## Installation
 
-1. Clone this repository
-2. Install dependencies:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/py-web-scrape-wiki.git
+   cd py-web-scrape-wiki
    ```
+
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+   ```
+
+3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    ```
 
+4. Set up your environment variables:
+   - Copy `.env.example` to `.env`
+   - Update the database credentials in `.env`:
+     ```
+     DB_HOST=localhost
+     DB_USER=your_username
+     DB_PASSWORD=your_password
+     DB_NAME=academy_awards
+     DB_CHARSET=utf8mb4
+     ```
+
+## Project Structure
+
+- `main.py` - Main script for running the scraper
+- `scraper.py` - Core scraping functionality
+- `data_processor.py` - Data processing and cleaning
+- `movie_extractor.py` - Movie-specific data extraction
+- `nomination_extractor.py` - Nomination data extraction
+- `import_to_db.py` - Database import functionality
+- `import_data.sql` - SQL commands for data import
+- Various utility scripts for data cleaning and processing
+
 ## Usage
 
-Run the main script:
-```
-python main.py
-```
+1. Run the main scraper:
+   ```bash
+   python main.py
+   ```
 
-The script will:
-1. Scrape all the Academy Award categories
-2. Extract nomination data
-3. Follow links to gather additional details
-4. Process and organize the data
-5. Save everything to CSV files in the `data/` directory
+2. Process and clean the data:
+   ```bash
+   python data_processor.py
+   ```
+
+3. Import data to database:
+   ```bash
+   python import_to_db.py
+   ```
 
 ## Output Files
 
@@ -73,30 +113,37 @@ The following CSV files will be generated in the `data/` directory:
 - `nominations.csv` - Award nominations
 - `nomination_person.csv` - People associated with nominations
 
-## Data Import
+## Database Setup
 
-After running the scraper, you can import the CSV files into your database using one of these methods:
+1. Create a MySQL database named `academy_awards`
+2. Update your `.env` file with the correct database credentials
+3. Run the import script:
+   ```bash
+   python import_to_db.py
+   ```
 
-### Method 1: Using the import script
+## Categories Scraped
 
-The `import_to_db.py` script provides an easy way to import all data at once:
-
-```
-pip install mysql-connector-python
-python import_to_db.py --db-url mysql://username:password@hostname:port/database
-```
-
-Replace `username`, `password`, `hostname`, `port`, and `database` with your MySQL/MariaDB connection details.
-
-### Method 2: Using MySQL's LOAD DATA command
-
-You can also use the `import_data.sql` script which contains LOAD DATA commands for each table:
-
-```
-mysql -u username -p database_name < import_data.sql
-```
-
-Make sure to update the file paths in the script if your CSV files are in a different location.
+- Best Picture
+- Best Director
+- Best Actor
+- Best Actress
+- Best Supporting Actor
+- Best Supporting Actress
+- Best Original Screenplay
+- Best Adapted Screenplay
+- Best Animated Feature
+- Best International Feature Film
+- Best Documentary Feature
+- Best Original Score
+- Best Original Song
+- Best Cinematography
+- Best Film Editing
+- Best Production Design
+- Best Costume Design
+- Best Makeup and Hairstyling
+- Best Sound
+- Best Visual Effects
 
 ## Notes
 
@@ -104,19 +151,8 @@ Make sure to update the file paths in the script if your CSV files are in a diff
 - Due to the structure of Wikipedia pages, some movie details may be incomplete
 - The scraper tries to extract as much information as possible, but may not capture all data
 - Running the full scraper may take some time due to the politeness delays
+- Make sure to keep your `.env` file secure and never commit it to version control
 
-## Categories Scraped
+## Contributing
 
-- Best Makeup and Hairstyling
-- Best Documentary Feature Film
-- Best Original Score
-- Best Original Song
-- Best Documentary Short Film
-- Best Picture
-- Best Animated Feature
-- Best Visual Effects
-- Best Adapted Screenplay
-- Best Film Editing
-- Best Production Design
-- Best Animated Short Film
-- Best Sound 
+Feel free to submit issues and enhancement requests! 
