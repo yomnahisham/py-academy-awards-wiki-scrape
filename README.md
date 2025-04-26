@@ -151,6 +151,7 @@ The following CSV files will be generated in the `data/` directory:
 - Due to the structure of Wikipedia pages, some movie details may be incomplete
 - The scraper tries to extract as much information as possible, but may not capture all data
 - Running the full scraper may take some time due to the politeness delays
+- The complete scraping process took approximately 26 hours (1552.63 minutes) on a standard computer
 - Make sure to keep your `.env` file secure and never commit it to version control
 
 ## Contributing
